@@ -1,0 +1,33 @@
+{
+    "name": "pantheon-upstreams/upstream-configuration",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require": {
+        "drupal/admin_toolbar": "^3.0",
+        "drupal/entity_embed": "^1.1",
+        "drupal/features": "^3.12",
+        "drupal/field_group": "^3.1",
+        "drupal/focal_point": "^1.5",
+        "drupal/gin": "^3.0@alpha",
+        "drupal/gin_toolbar": "^1.0@beta",
+        "drupal/paragraphs": "^1.12",
+        "drupal/pathauto": "^1.8",
+        "drupal/simplesamlphp_auth": "^3.1",
+        "drupal/smtp": "^1.0",
+        "drupal/twig_tweak": "^3.1",
+        "drupal/webform": "^6.0",
+        "drush/drush": "^11",
+        "simplesamlphp/simplesamlphp": "^1.19",
+        "cu-boulder/ucb2021_base": "dev-main",
+        "cu-boulder/ucb2021_profile": "dev-main",
+        "cu-boulder/ucb_custom_paragraphs": "dev-main",
+        "cu-boulder/ucb_custom_page_types": "dev-main",
+        "cu-boulder/ucb_shortcodes": "dev-main"
+    },
+    "version": "1.0.0"
+}
