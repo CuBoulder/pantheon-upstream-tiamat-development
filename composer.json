@@ -49,7 +49,7 @@
         "drupal/simplesamlphp_auth": "^3.3",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
-        "drupal/webform": "^6.1",
+        "drupal/webform": "^6.2",
         "drush/drush": "^11.0",
         "pantheon-systems/drupal-integrations": "^9",
         "pantheon-upstreams/upstream-configuration": "^1",
@@ -99,7 +99,7 @@
         "preferred-install": "dist",
         "sort-packages": true,
         "platform": {
-            "php": "8.0"
+            "php": "8.1"
         },
         "allow-plugins": {
             "composer/installers": true,
