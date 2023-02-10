@@ -28,6 +28,7 @@
         "cu-boulder/ucb_user_invite": "dev-main",
         "cweagans/composer-patches": "^1.7",
         "drupal/admin_toolbar": "^3.0",
+        "drupal/aggregator": "^1.0",
         "drupal/antibot": "^2.0",
         "drupal/better_social_sharing_buttons": "^3.2",
         "drupal/consumer_image_styles": "^4.0",
@@ -53,7 +54,8 @@
         "drush/drush": "^11.0",
         "pantheon-systems/drupal-integrations": "^9",
         "pantheon-upstreams/upstream-configuration": "^1",
-        "simplesamlphp/simplesamlphp": "^1.19"
+        "simplesamlphp/simplesamlphp": "^1.19",
+        "wikimedia/composer-merge-plugin": "^2.0"
     },
     "require-dev": {
         "drupal/core-dev": "^9.4"
@@ -89,6 +91,11 @@
             "web/themes/custom/{$name}": ["type:drupal-custom-theme"],
             "web/private/scripts/quicksilver/{$name}/": ["type:quicksilver-script"]
         },
+        "merge-plugin": {
+            "include": [
+                "composer.libraries.json"
+            ]
+        },
         "composer-exit-on-patch-failure": true,
         "enable-patching": true,
         "patchLevel": {
@@ -106,7 +113,8 @@
             "cweagans/composer-patches": true,
             "drupal/core-composer-scaffold": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "simplesamlphp/composer-module-installer": true
+            "simplesamlphp/composer-module-installer": true,
+            "wikimedia/composer-merge-plugin": true
         }
     },
     "scripts": {
