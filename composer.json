@@ -20,7 +20,7 @@
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_bootstrap_layouts": "dev-main",
         "cu-boulder/ucb_campus_news": "dev-main",
-        "cu-boulder/ucb_ck5_plugins": "dev-main",
+        "cu-boulder/ucb_ckeditor_plugins": "dev-main",
         "cu-boulder/ucb_d9_custom_entities": "dev-main",
         "cu-boulder/ucb_default_content": "dev-main",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
@@ -39,7 +39,7 @@
         "drupal/entity_embed": "^1.1",
         "drupal/features": "^3.12",
         "drupal/field_group": "^3.1",
-        "drupal/focal_point": "^1.5",
+        "drupal/focal_point": "^2.0",
         "drupal/gin": "^3.0@alpha",
         "drupal/gin_lb": "^1.0@beta",
         "drupal/gin_toolbar": "^1.0@beta",
@@ -49,6 +49,7 @@
         "drupal/pantheon_advanced_page_cache": "^2.0",
         "drupal/paragraphs": "^1.14",
         "drupal/pathauto": "^1.8",
+        "drupal/redirect": "^1.8",
         "drupal/simple_sitemap": "^4.1",
         "drupal/simplesamlphp_auth": "^3.3",
         "drupal/smtp": "^1.0",
@@ -80,6 +81,11 @@
                 "[project-root]/.editorconfig": false,
                 "[project-root]/pantheon.upstream.yml": false,
                 "[project-root]/.gitattributes": false
+            }
+        },
+        "patches": {
+            "drupal/focal_point": {
+                "Focal Point No Upscale": "https://www.drupal.org/files/issues/2020-05-19/focal_point-do_not_upscale-3048398-16.patch"
             }
         },
         "installer-paths": {
