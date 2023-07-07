@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "030b6e47949a6c03a6bf341d1ad24b285c2b11b7"
+                "reference": "6ae412d480eb7a749a3c95ba732528a3d11ea76f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/030b6e47949a6c03a6bf341d1ad24b285c2b11b7",
-                "reference": "030b6e47949a6c03a6bf341d1ad24b285c2b11b7",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/6ae412d480eb7a749a3c95ba732528a3d11ea76f",
+                "reference": "6ae412d480eb7a749a3c95ba732528a3d11ea76f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -932,7 +932,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
                 "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2023-07-07T16:39:52+00:00"
+            "time": "2023-07-07T18:02:50+00:00"
         },
         {
             "name": "cu-boulder/shortcode_fork",
