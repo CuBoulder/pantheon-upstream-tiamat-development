@@ -16,7 +16,7 @@
     "require": {
         "composer/installers": "^2.1",
         "cu-boulder/boulder_d9_base": "dev-main",
-        "cu-boulder/boulder_d9_profile": "dev-main",
+        "cu-boulder/boulder_profile": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_bootstrap_layouts": "dev-main",
         "cu-boulder/ucb_campus_news": "dev-main",
@@ -25,24 +25,28 @@
         "cu-boulder/ucb_default_content": "dev-main",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
         "cu-boulder/ucb_person_title": "dev-main",
+        "cu-boulder/shortcode_fork": "dev-main",
+        "cu-boulder/ucb_migration_shortcodes": "dev-main",
         "cu-boulder/ucb_site_configuration": "dev-main",
         "cu-boulder/ucb_user_invite": "dev-main",
         "cweagans/composer-patches": "^1.7",
         "drupal/admin_toolbar": "^3.0",
-        "drupal/aggregator": "^1.0",
+        "drupal/aggregator": "^2.0",
         "drupal/antibot": "^2.0",
-        "drupal/better_social_sharing_buttons": "^3.2",
+        "drupal/better_social_sharing_buttons": "^4.0",
         "drupal/consumer_image_styles": "^4.0",
-        "drupal/core-composer-scaffold": "^9.4",
-        "drupal/core-recommended": "^9.4",
+        "drupal/core-composer-scaffold": "^10.1",
+        "drupal/core-recommended": "^10.1",
         "drupal/devel": "^5.1",
+        "drush/drush": "^12.0",
         "drupal/entity_embed": "^1.1",
-        "drupal/features": "^3.12",
+        "drupal/externalauth": "^2.0",
+        "drupal/features": "^3.13",
         "drupal/field_group": "^3.1",
         "drupal/focal_point": "^2.0",
-        "drupal/gin": "^3.0@alpha",
-        "drupal/gin_lb": "^1.0@beta",
-        "drupal/gin_toolbar": "^1.0@beta",
+        "drupal/gin": "^3.0@RC",
+        "drupal/gin_lb": "^1.0@RC",
+        "drupal/gin_toolbar": "^1.0@RC",
         "drupal/layout_builder_modal": "^1.1",
         "drupal/media_library_form_element": "^2.0",
         "drupal/migrate_plus": "^6.0",
@@ -51,18 +55,19 @@
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
         "drupal/simple_sitemap": "^4.1",
-        "drupal/simplesamlphp_auth": "^3.3",
+        "drupal/simplesamlphp_auth": "^4",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
         "drush/drush": "^11.0",
         "pantheon-systems/drupal-integrations": "^9",
         "pantheon-upstreams/upstream-configuration": "^1",
-        "simplesamlphp/simplesamlphp": "^1.19",
+        "simplesamlphp/saml2": "^5@alpha",
+        "simplesamlphp/simplesamlphp": "dev-master#8c6ee7dd6a6",
         "wikimedia/composer-merge-plugin": "^2.0"
     },
     "require-dev": {
-        "drupal/core-dev": "^9.4"
+        "drupal/core-dev": "^10.1"
     },
     "conflict": {
             "drupal/drupal": "*"
@@ -123,7 +128,8 @@
             "drupal/core-composer-scaffold": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "simplesamlphp/composer-module-installer": true,
-            "wikimedia/composer-merge-plugin": true
+            "wikimedia/composer-merge-plugin": true,
+            "phpstan/extension-installer": true
         }
     },
     "scripts": {
