@@ -59,6 +59,8 @@
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
         "drush/drush": "^12.1",
+        "pantheon-systems/drupal-integrations": "^10",
+        "pantheon-upstreams/upstream-configuration": "^1",
         "wikimedia/composer-merge-plugin": "^2.0"
     },
     "require-dev": {
