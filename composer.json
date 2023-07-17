@@ -17,6 +17,7 @@
         "composer/installers": "^2.1",
         "cu-boulder/boulder_d9_base": "dev-main",
         "cu-boulder/boulder_profile": "dev-main",
+        "cu-boulder/shortcode_fork": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_bootstrap_layouts": "dev-main",
         "cu-boulder/ucb_campus_news": "dev-main",
@@ -24,21 +25,20 @@
         "cu-boulder/ucb_d9_custom_entities": "dev-main",
         "cu-boulder/ucb_default_content": "dev-main",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
-        "cu-boulder/ucb_person_title": "dev-main",
-        "cu-boulder/shortcode_fork": "dev-main",
         "cu-boulder/ucb_migration_shortcodes": "dev-main",
+        "cu-boulder/ucb_person_title": "dev-main",
         "cu-boulder/ucb_site_configuration": "dev-main",
         "cu-boulder/ucb_user_invite": "dev-main",
         "cweagans/composer-patches": "^1.7",
-        "drupal/admin_toolbar": "^3.0",
+        "drupal/admin_toolbar": "^3.4",
         "drupal/aggregator": "^2.0",
         "drupal/antibot": "^2.0",
         "drupal/better_social_sharing_buttons": "^4.0",
         "drupal/consumer_image_styles": "^4.0",
-        "drupal/core-composer-scaffold": "^10.1",
-        "drupal/core-recommended": "^10.1",
-        "drupal/devel": "^5.1",
-        "drush/drush": "^12.0",
+        "drupal/core-composer-scaffold": "^10.0",
+        "drupal/core-project-message": "^10.0",
+        "drupal/core-recommended": "^10.0",
+        "drupal/devel": "^5.0",
         "drupal/entity_embed": "^1.1",
         "drupal/externalauth": "^2.0",
         "drupal/features": "^3.13",
@@ -55,15 +55,11 @@
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
         "drupal/simple_sitemap": "^4.1",
-        "drupal/simplesamlphp_auth": "^4",
+        "drupal/simplesamlphp_auth": "4.x-dev@dev",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
-        "drush/drush": "^11.0",
-        "pantheon-systems/drupal-integrations": "^9",
-        "pantheon-upstreams/upstream-configuration": "^1",
-        "simplesamlphp/saml2": "v5.0.0-alpha.8",
-        "simplesamlphp/simplesamlphp": "dev-master#8c6ee7dd6a6",
+        "drush/drush": "^12.1",
         "wikimedia/composer-merge-plugin": "^2.0"
     },
     "require-dev": {
@@ -91,17 +87,6 @@
         "patches": {
             "drupal/focal_point": {
                 "Focal Point No Upscale": "https://www.drupal.org/files/issues/2020-05-19/focal_point-do_not_upscale-3048398-16.patch"
-            },
-            "drupal/simplesamlphp_auth": {
-                "4.0.0-alpha1 release compatible with D10/Symfony6 - 3349278_documentation_19": "https://www.drupal.org/files/issues/2023-04-05/3349278_documentation_19.patch",
-                "4.0.0-alpha1 release compatible with D10/Symfony6 - 3349278-d10-compatibility_14": "https://www.drupal.org/files/issues/2023-04-04/3349278-d10-compatibility_14.patch",
-                "4.0.0-alpha1 release compatible with D10/Symfony6 - RedirectResponse fix for D10 compatibility": "https://www.drupal.org/files/issues/2023-06-17/simplesamlphp_auth_d10_redirect.patch"
-            },
-            "simplesamlphp/saml2": {
-                "4.0.0-alpha1 release compatible with D10/Symfony6": "https://www.drupal.org/files/issues/2023-06-17/simplesamlphp_saml2_d10_container_singleton.patch"
-            },
-            "simplesamlphp/simplesamlphp": {
-                "Custom patch for d10 NameIDPolicy fix": "https://www.drupal.org/files/issues/2023-06-23/simplesamlphp_d10_nameidpolicy_fix.patch"
             }
         },
         "installer-paths": {
@@ -140,7 +125,8 @@
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "simplesamlphp/composer-module-installer": true,
             "wikimedia/composer-merge-plugin": true,
-            "phpstan/extension-installer": true
+            "phpstan/extension-installer": true,
+            "drupal/core-project-message": true
         }
     },
     "scripts": {
