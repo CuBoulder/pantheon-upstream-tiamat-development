@@ -11,18 +11,21 @@
         {
             "type": "path",
             "url": "upstream-configuration"
-        }
+        },
+        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat10-profile.git"},
+        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-custom-entities.git"},
+        { "type" : "git", "url" : "https://github.com/CuBoulder/tiamat-theme.git"}
     ],
     "require": {
         "composer/installers": "^2.1",
-        "cu-boulder/boulder_d9_base": "dev-main",
+        "cu-boulder/boulder_base": "dev-main",
         "cu-boulder/boulder_profile": "dev-main",
         "cu-boulder/shortcode_fork": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_bootstrap_layouts": "dev-main",
         "cu-boulder/ucb_campus_news": "dev-main",
         "cu-boulder/ucb_ckeditor_plugins": "dev-main",
-        "cu-boulder/ucb_d9_custom_entities": "dev-main",
+        "cu-boulder/ucb_custom_entities": "dev-main",
         "cu-boulder/ucb_default_content": "dev-main",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
         "cu-boulder/ucb_migration_shortcodes": "dev-main",
@@ -61,7 +64,11 @@
         "drush/drush": "^12.1",
         "pantheon-systems/drupal-integrations": "^10",
         "pantheon-upstreams/upstream-configuration": "^1",
-        "wikimedia/composer-merge-plugin": "^2.0"
+        "wikimedia/composer-merge-plugin": "^2.0",
+        "simplesamlphp/saml2": "^5",
+        "simplesamlphp/simplesamlphp-module-adfs": "^3.0.0-rc1",
+        "simplesamlphp/simplesamlphp": "dev-master#8c6ee7dd6a6",
+        "drupal/simplesamlphp_auth": "^4"
     },
     "require-dev": {
         "drupal/core-dev": "^10.1"
@@ -88,6 +95,16 @@
         "patches": {
             "drupal/focal_point": {
                 "Focal Point No Upscale": "https://www.drupal.org/files/issues/2020-05-19/focal_point-do_not_upscale-3048398-16.patch"
+            },
+            "simplesamlphp/saml2": {
+                "Custom patch for d10 Container fix": "https://www.drupal.org/files/issues/2023-06-17/simplesamlphp_saml2_d10_container_singleton.patch"
+            },
+            "drupal/simplesamlphp_auth": {
+                "Custom patch for D10 compatibility - 3349278-d10-compatibility_14": "https://www.drupal.org/files/issues/2023-04-04/3349278-d10-compatibility_14.patch",
+                "RedirectResponse fix for D10 compatibility": "https://www.drupal.org/files/issues/2023-06-17/simplesamlphp_auth_d10_redirect.patch"
+            },
+            "simplesamlphp/simplesamlphp": {
+                "Custom patch for d10 NameIDPolicy fix": "https://www.drupal.org/files/issues/2023-06-23/simplesamlphp_d10_nameidpolicy_fix.patch"
             }
         },
         "installer-paths": {
