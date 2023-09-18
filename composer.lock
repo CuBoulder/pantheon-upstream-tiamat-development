@@ -912,12 +912,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "72fab56637a26f3bf11fdedfffab9f9c69bbd6aa"
+                "reference": "a58d82cdca65c60405a79103b2a0eb8b61e09c1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/72fab56637a26f3bf11fdedfffab9f9c69bbd6aa",
-                "reference": "72fab56637a26f3bf11fdedfffab9f9c69bbd6aa",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/a58d82cdca65c60405a79103b2a0eb8b61e09c1f",
+                "reference": "a58d82cdca65c60405a79103b2a0eb8b61e09c1f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -929,9 +929,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20230918"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2023-09-18T16:47:38+00:00"
+            "time": "2023-09-18T18:44:25+00:00"
         },
         {
             "name": "cu-boulder/shortcode_fork",
@@ -1101,12 +1101,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_default_content.git",
-                "reference": "97b16d80e29c7ad2b0daf20c2b309b9d7ea79186"
+                "reference": "77127518293e4890d961c3d459a8e14fa9463a49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_default_content/zipball/97b16d80e29c7ad2b0daf20c2b309b9d7ea79186",
-                "reference": "97b16d80e29c7ad2b0daf20c2b309b9d7ea79186",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_default_content/zipball/77127518293e4890d961c3d459a8e14fa9463a49",
+                "reference": "77127518293e4890d961c3d459a8e14fa9463a49",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1120,7 +1120,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_default_content/issues",
                 "source": "https://github.com/CuBoulder/ucb_default_content/tree/main"
             },
-            "time": "2023-03-16T15:33:41+00:00"
+            "time": "2023-09-18T18:46:11+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
@@ -1236,12 +1236,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-libraries.git",
-                "reference": "3ef31321b49a3cf26e9f1c82118763cc11b513e1"
+                "reference": "18e8aecd52b3dc476200ca17e119d6475ada8567"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-libraries/zipball/3ef31321b49a3cf26e9f1c82118763cc11b513e1",
-                "reference": "3ef31321b49a3cf26e9f1c82118763cc11b513e1",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-libraries/zipball/18e8aecd52b3dc476200ca17e119d6475ada8567",
+                "reference": "18e8aecd52b3dc476200ca17e119d6475ada8567",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1255,7 +1255,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-libraries/issues",
                 "source": "https://github.com/CuBoulder/tiamat-libraries/tree/main"
             },
-            "time": "2023-09-18T16:54:43+00:00"
+            "time": "2023-09-18T17:34:50+00:00"
         },
         {
             "name": "cu-boulder/ucb_user_invite",
