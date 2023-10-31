@@ -252,6 +252,7 @@
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
         "drupal/simple_sitemap": "^4.1",
+        "drupal/simplesamlphp_auth": "^4.0@dev",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
@@ -262,15 +263,15 @@
         "jquery/select2": "*",
         "jquery/textcounter": "*",
         "jquery/timepicker": "*",
+        "pantheon-systems/drupal-integrations": "^10",
+        "pantheon-systems/pantheon_domain_masking": "^2.0",
+        "pantheon-upstreams/upstream-configuration": "^1",
         "popperjs/popperjs": "*",
         "progress-tracker/progress-tracker": "*",
         "signature_pad/signature_pad": "*",
-        "tabby/tabby": "*",
-        "tippyjs/tippyjs": "*",
-        "pantheon-systems/drupal-integrations": "^10",
-        "pantheon-upstreams/upstream-configuration": "^1",
         "simplesamlphp/simplesamlphp": "dev-simplesamlphp-2.1",
-        "drupal/simplesamlphp_auth": "^4.0@dev"
+        "tabby/tabby": "*",
+        "tippyjs/tippyjs": "*"
     },
     "require-dev": {
         "drupal/core-dev": "^10.1"
