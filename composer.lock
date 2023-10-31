@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "75dc692afc2c581fd0bbbca30c196a8d",
+    "content-hash": "690dadd67ef7bc3c04196322df69a750",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -986,6 +986,33 @@
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
             "time": "2023-07-21T19:29:01+00:00"
+        },
+        {
+            "name": "cu-boulder/ucb_article_author",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CuBoulder/ucb_article_author.git",
+                "reference": "017b1a971a9f8d9df0455c4c1d07d42e3f5aaf35"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_article_author/zipball/017b1a971a9f8d9df0455c4c1d07d42e3f5aaf35",
+                "reference": "017b1a971a9f8d9df0455c4c1d07d42e3f5aaf35",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "drupal-custom-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Programatically generates a Author taxonomy on Person page creation",
+            "support": {
+                "issues": "https://github.com/CuBoulder/ucb_article_author/issues",
+                "source": "https://github.com/CuBoulder/ucb_article_author/tree/main"
+            },
+            "time": "2023-10-05T17:00:39+00:00"
         },
         {
             "name": "cu-boulder/ucb_bootstrap_layouts",
