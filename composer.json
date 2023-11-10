@@ -257,7 +257,7 @@
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.8",
         "drupal/simple_sitemap": "^4.1",
-        "drupal/simplesamlphp_auth": "^4.0@dev",
+        "drupal/simplesamlphp_auth": "^4.0",
         "drupal/smtp": "^1.0",
         "drupal/twig_tweak": "^3.1",
         "drupal/webform": "^6.2",
@@ -273,7 +273,7 @@
         "popperjs/popperjs": "*",
         "progress-tracker/progress-tracker": "*",
         "signature_pad/signature_pad": "*",
-        "simplesamlphp/simplesamlphp": "dev-simplesamlphp-2.1",
+        "simplesamlphp/simplesamlphp": "^2.1",
         "tabby/tabby": "*",
         "tippyjs/tippyjs": "*"
     },
