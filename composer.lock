@@ -1101,12 +1101,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "a7aedab9dfe459611a8d0384e70b54745a5882e1"
+                "reference": "03b2eb5e178daacc8cd587c301bb8343d889502a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/a7aedab9dfe459611a8d0384e70b54745a5882e1",
-                "reference": "a7aedab9dfe459611a8d0384e70b54745a5882e1",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/03b2eb5e178daacc8cd587c301bb8343d889502a",
+                "reference": "03b2eb5e178daacc8cd587c301bb8343d889502a",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1120,7 +1120,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
                 "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2023-10-31T20:12:43+00:00"
+            "time": "2023-11-16T19:40:26+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
