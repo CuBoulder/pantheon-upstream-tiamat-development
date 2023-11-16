@@ -303,9 +303,6 @@
             }
         },
         "patches": {
-            "drupal/focal_point": {
-                "Focal Point No Upscale": "https://www.drupal.org/files/issues/2020-05-19/focal_point-do_not_upscale-3048398-16.patch"
-            }
         },
         "installer-paths": {
             "web/core": ["type:drupal-core"],

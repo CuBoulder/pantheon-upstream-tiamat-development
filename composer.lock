@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e6980fb434930b5acae27b40f9a981da",
+    "content-hash": "6a9a4428fe80e5b63338852df0cae25b",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -885,12 +885,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "6b867a8adfaea711ef1f1a8b5b94120e897612b9"
+                "reference": "aa50b02d9b815a0d7081c1afc71dbdca2ffed586"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6b867a8adfaea711ef1f1a8b5b94120e897612b9",
-                "reference": "6b867a8adfaea711ef1f1a8b5b94120e897612b9",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/aa50b02d9b815a0d7081c1afc71dbdca2ffed586",
+                "reference": "aa50b02d9b815a0d7081c1afc71dbdca2ffed586",
                 "shasum": ""
             },
             "default-branch": true,
@@ -904,7 +904,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2023-11-07T18:02:21+00:00"
+            "time": "2023-11-15T21:45:36+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -912,12 +912,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "1c62b45b188b3113af381cf925620c49d5d2441f"
+                "reference": "2b79d702f7afc941d6c05b56fcd2212466c783d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/1c62b45b188b3113af381cf925620c49d5d2441f",
-                "reference": "1c62b45b188b3113af381cf925620c49d5d2441f",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/2b79d702f7afc941d6c05b56fcd2212466c783d2",
+                "reference": "2b79d702f7afc941d6c05b56fcd2212466c783d2",
                 "shasum": ""
             },
             "default-branch": true,
@@ -931,7 +931,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
                 "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2023-11-10T15:47:26+00:00"
+            "time": "2023-11-15T21:44:11+00:00"
         },
         {
             "name": "cu-boulder/shortcode_fork",
@@ -966,12 +966,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "d751885e29023b50f58867323f04209af0ba992d"
+                "reference": "5b467af0542e4df4d7cc175fb62a9b1d7c4f1d44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/d751885e29023b50f58867323f04209af0ba992d",
-                "reference": "d751885e29023b50f58867323f04209af0ba992d",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/5b467af0542e4df4d7cc175fb62a9b1d7c4f1d44",
+                "reference": "5b467af0542e4df4d7cc175fb62a9b1d7c4f1d44",
                 "shasum": ""
             },
             "default-branch": true,
@@ -985,7 +985,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2023-07-21T19:29:01+00:00"
+            "time": "2023-11-15T21:45:08+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1074,12 +1074,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "bccf4d23429aab4b6711ccaf2e0f6ce4ec74748e"
+                "reference": "ceba0ba67195dcb0cc0b5316c63eb37d5d42672c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/bccf4d23429aab4b6711ccaf2e0f6ce4ec74748e",
-                "reference": "bccf4d23429aab4b6711ccaf2e0f6ce4ec74748e",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/ceba0ba67195dcb0cc0b5316c63eb37d5d42672c",
+                "reference": "ceba0ba67195dcb0cc0b5316c63eb37d5d42672c",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1093,7 +1093,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2023-11-02T22:44:18+00:00"
+            "time": "2023-11-14T19:44:22+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
@@ -2143,26 +2143,23 @@
         },
         {
             "name": "drupal/ckeditor5_icons",
-            "version": "1.0.0-beta3",
+            "version": "dev-1.x",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ckeditor5_icons.git",
-                "reference": "1.0.0-beta3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ckeditor5_icons-1.0.0-beta3.zip",
-                "reference": "1.0.0-beta3",
-                "shasum": "da82074fd74bb55127dc95420b91ecc25dc345ed"
+                "reference": "cb11a70715d2bd09a398c24cdc62dd6dbc336486"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10"
             },
             "type": "drupal-module",
             "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
                 "drupal": {
-                    "version": "1.0.0-beta3",
-                    "datestamp": "1695392021",
+                    "version": "1.0.0-beta3+4-dev",
+                    "datestamp": "1699380788",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -2184,6 +2181,50 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/ckeditor5_icons",
                 "issues": "https://drupal.org/project/issues/ckeditor5_icons"
+            }
+        },
+        {
+            "name": "drupal/ckeditor5_paste_filter",
+            "version": "1.0.0-rc1",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/ckeditor5_paste_filter.git",
+                "reference": "1.0.0-rc1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/ckeditor5_paste_filter-1.0.0-rc1.zip",
+                "reference": "1.0.0-rc1",
+                "shasum": "7b7bdc15c9e0e4fbd94cd2662e5d825eeb9768e9"
+            },
+            "require": {
+                "drupal/core": "^9.3 || ^10"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "1.0.0-rc1",
+                    "datestamp": "1699566690",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "RC releases are not covered by Drupal security advisories."
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "star-szr",
+                    "homepage": "https://www.drupal.org/user/1167326"
+                }
+            ],
+            "description": "Filter content pasted into CKEditor 5",
+            "homepage": "https://www.drupal.org/project/ckeditor5_paste_filter",
+            "support": {
+                "source": "https://git.drupalcode.org/project/ckeditor5_paste_filter"
             }
         },
         {
@@ -4132,6 +4173,70 @@
             }
         },
         {
+            "name": "drupal/menu_block",
+            "version": "1.10.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/menu_block.git",
+                "reference": "8.x-1.10"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/menu_block-8.x-1.10.zip",
+                "reference": "8.x-1.10",
+                "shasum": "97de632d77448ae0a974e20c2ffbe42c7ddd4633"
+            },
+            "require": {
+                "drupal/core": "^9.1 || ^10"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-1.10",
+                    "datestamp": "1667434255",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Dave Reid",
+                    "homepage": "https://www.drupal.org/user/53892"
+                },
+                {
+                    "name": "joelpittet",
+                    "homepage": "https://www.drupal.org/user/160302"
+                },
+                {
+                    "name": "JohnAlbin",
+                    "homepage": "https://www.drupal.org/user/32095"
+                },
+                {
+                    "name": "kim.pepper",
+                    "homepage": "https://www.drupal.org/user/370574"
+                },
+                {
+                    "name": "RenatoG",
+                    "homepage": "https://www.drupal.org/user/3326031"
+                },
+                {
+                    "name": "rrrob",
+                    "homepage": "https://www.drupal.org/user/273533"
+                }
+            ],
+            "description": "Provides configurable blocks of menu links.",
+            "homepage": "https://www.drupal.org/project/menu_block",
+            "support": {
+                "source": "https://git.drupalcode.org/project/menu_block"
+            }
+        },
+        {
             "name": "drupal/metatag",
             "version": "2.0.0",
             "source": {
@@ -4625,6 +4730,78 @@
             "homepage": "https://www.drupal.org/project/redirect",
             "support": {
                 "source": "https://git.drupalcode.org/project/redirect"
+            }
+        },
+        {
+            "name": "drupal/scheduler",
+            "version": "2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/scheduler.git",
+                "reference": "2.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/scheduler-2.0.1.zip",
+                "reference": "2.0.1",
+                "shasum": "d0666b4278b3e54f5c85c28298a35f492e0b715a"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9 || ^10"
+            },
+            "require-dev": {
+                "drupal/commerce": "^2.0",
+                "drupal/devel_generate": ">=4",
+                "drupal/rules": "^3",
+                "drush/drush": ">=9"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "2.0.1",
+                    "datestamp": "1689337325",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                },
+                "drush": {
+                    "services": {
+                        "drush.services.yml": "^9 || ^10"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Eric Schaefer (Eric Schaefer)",
+                    "homepage": "https://www.drupal.org/u/eric-schaefer",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Jonathan Smith (jonathan1055)",
+                    "homepage": "https://www.drupal.org/u/jonathan1055",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Pieter Frenssen (pfrenssen)",
+                    "homepage": "https://www.drupal.org/u/pfrenssen",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Rick Manelius (rickmanelius)",
+                    "homepage": "https://www.drupal.org/u/rickmanelius",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "Automatically publish and unpublish content at specified dates and times.",
+            "homepage": "https://drupal.org/project/scheduler",
+            "support": {
+                "source": "https://git.drupalcode.org/project/scheduler",
+                "issues": "https://www.drupal.org/project/issues/scheduler"
             }
         },
         {
@@ -8190,16 +8367,16 @@
         },
         {
             "name": "symfony/cache-contracts",
-            "version": "v3.3.0",
+            "version": "v3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/cache-contracts.git",
-                "reference": "ad945640ccc0ae6e208bcea7d7de4b39b569896b"
+                "reference": "1d74b127da04ffa87aa940abe15446fa89653778"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/cache-contracts/zipball/ad945640ccc0ae6e208bcea7d7de4b39b569896b",
-                "reference": "ad945640ccc0ae6e208bcea7d7de4b39b569896b",
+                "url": "https://api.github.com/repos/symfony/cache-contracts/zipball/1d74b127da04ffa87aa940abe15446fa89653778",
+                "reference": "1d74b127da04ffa87aa940abe15446fa89653778",
                 "shasum": ""
             },
             "require": {
@@ -8246,7 +8423,7 @@
                 "standards"
             ],
             "support": {
-                "source": "https://github.com/symfony/cache-contracts/tree/v3.3.0"
+                "source": "https://github.com/symfony/cache-contracts/tree/v3.4.0"
             },
             "funding": [
                 {
@@ -8262,7 +8439,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-05-23T14:45:45+00:00"
+            "time": "2023-09-25T12:52:38+00:00"
         },
         {
             "name": "symfony/config",
@@ -12667,24 +12844,24 @@
         },
         {
             "name": "mglaman/phpstan-drupal",
-            "version": "1.2.2",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mglaman/phpstan-drupal.git",
-                "reference": "bde6445d8102954d94e88492c60206a499c21889"
+                "reference": "57b2cc67fb4416e8484db37a3d8502ac8fb3c0d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mglaman/phpstan-drupal/zipball/bde6445d8102954d94e88492c60206a499c21889",
-                "reference": "bde6445d8102954d94e88492c60206a499c21889",
+                "url": "https://api.github.com/repos/mglaman/phpstan-drupal/zipball/57b2cc67fb4416e8484db37a3d8502ac8fb3c0d6",
+                "reference": "57b2cc67fb4416e8484db37a3d8502ac8fb3c0d6",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.4 || ^8.0",
                 "phpstan/phpstan": "^1.10.1",
                 "phpstan/phpstan-deprecation-rules": "^1.1.4",
-                "symfony/finder": "^4.2 || ^5.0 || ^6.0",
-                "symfony/yaml": "^4.2|| ^5.0 || ^6.0",
+                "symfony/finder": "^4.2 || ^5.0 || ^6.0 || ^7.0",
+                "symfony/yaml": "^4.2|| ^5.0 || ^6.0 || ^7.0",
                 "webflo/drupal-finder": "^1.2"
             },
             "require-dev": {
@@ -12697,7 +12874,7 @@
                 "phpunit/phpunit": "^8.5 || ^9",
                 "slevomat/coding-standard": "^7.1",
                 "squizlabs/php_codesniffer": "^3.3",
-                "symfony/phpunit-bridge": "^4.4 || ^5.4 || ^6.0"
+                "symfony/phpunit-bridge": "^4.4 || ^5.4 || ^6.0 || ^7.0"
             },
             "suggest": {
                 "jangregor/phpstan-prophecy": "Provides a prophecy/prophecy extension for phpstan/phpstan.",
@@ -12751,7 +12928,7 @@
             "description": "Drupal extension and rules for PHPStan",
             "support": {
                 "issues": "https://github.com/mglaman/phpstan-drupal/issues",
-                "source": "https://github.com/mglaman/phpstan-drupal/tree/1.2.2"
+                "source": "https://github.com/mglaman/phpstan-drupal/tree/1.2.4"
             },
             "funding": [
                 {
@@ -12767,7 +12944,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-11-09T23:13:46+00:00"
+            "time": "2023-11-14T22:47:32+00:00"
         },
         {
             "name": "mikey179/vfsstream",
@@ -13955,24 +14132,24 @@
         },
         {
             "name": "react/promise",
-            "version": "v3.0.0",
+            "version": "v3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/promise.git",
-                "reference": "c86753c76fd3be465d93b308f18d189f01a22be4"
+                "reference": "e563d55d1641de1dea9f5e84f3cccc66d2bfe02c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/promise/zipball/c86753c76fd3be465d93b308f18d189f01a22be4",
-                "reference": "c86753c76fd3be465d93b308f18d189f01a22be4",
+                "url": "https://api.github.com/repos/reactphp/promise/zipball/e563d55d1641de1dea9f5e84f3cccc66d2bfe02c",
+                "reference": "e563d55d1641de1dea9f5e84f3cccc66d2bfe02c",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.1.0"
             },
             "require-dev": {
-                "phpstan/phpstan": "1.10.20 || 1.4.10",
-                "phpunit/phpunit": "^9.5 || ^7.5"
+                "phpstan/phpstan": "1.10.39 || 1.4.10",
+                "phpunit/phpunit": "^9.6 || ^7.5"
             },
             "type": "library",
             "autoload": {
@@ -14016,7 +14193,7 @@
             ],
             "support": {
                 "issues": "https://github.com/reactphp/promise/issues",
-                "source": "https://github.com/reactphp/promise/tree/v3.0.0"
+                "source": "https://github.com/reactphp/promise/tree/v3.1.0"
             },
             "funding": [
                 {
@@ -14024,7 +14201,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2023-07-11T16:12:49+00:00"
+            "time": "2023-11-16T16:21:57+00:00"
         },
         {
             "name": "sebastian/cli-parser",
@@ -15786,7 +15963,7 @@
         "cu-boulder/ucb_site_configuration": 20,
         "cu-boulder/ucb_third_party_libraries": 20,
         "cu-boulder/ucb_user_invite": 20,
-        "drupal/ckeditor5_icons": 10,
+        "drupal/ckeditor5_icons": 20,
         "drupal/gin": 5,
         "drupal/gin_lb": 5,
         "drupal/gin_toolbar": 5,
