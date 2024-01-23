@@ -208,8 +208,8 @@
     "require": {
         "codemirror/codemirror": "*",
         "composer/installers": "^2.1",
-        "cu-boulder/boulder_base": "dev-main",
-        "cu-boulder/boulder_profile": "dev-main",
+        "cu-boulder/boulder_base": "dev-claro-theme",
+        "cu-boulder/boulder_profile": "dev-claro-theme",
         "cu-boulder/shortcode_fork": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_article_author": "dev-main",
