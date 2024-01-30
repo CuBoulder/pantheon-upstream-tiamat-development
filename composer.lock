@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2d5b327571f52dd6395d569059bd7e82",
+    "content-hash": "8e8c223db5eff3689a15aa107d1b201e",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -932,6 +932,33 @@
                 "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
             "time": "2024-01-30T21:04:33+00:00"
+        },
+        {
+            "name": "cu-boulder/express_admin",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CuBoulder/express_admin.git",
+                "reference": "3b263328f78dffa9b7b85b298518558f5d84dd30"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CuBoulder/express_admin/zipball/3b263328f78dffa9b7b85b298518558f5d84dd30",
+                "reference": "3b263328f78dffa9b7b85b298518558f5d84dd30",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "drupal-custom-theme",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "University of Colorado Boulder administration sub-theme",
+            "support": {
+                "issues": "https://github.com/CuBoulder/express_admin/issues",
+                "source": "https://github.com/CuBoulder/express_admin/tree/main"
+            },
+            "time": "2024-01-30T17:40:28+00:00"
         },
         {
             "name": "cu-boulder/shortcode_fork",
@@ -16002,6 +16029,7 @@
     "stability-flags": {
         "cu-boulder/boulder_base": 20,
         "cu-boulder/boulder_profile": 20,
+        "cu-boulder/express_admin": 20,
         "cu-boulder/shortcode_fork": 20,
         "cu-boulder/ucb_admin_menus": 20,
         "cu-boulder/ucb_article_author": 20,
