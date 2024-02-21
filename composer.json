@@ -227,15 +227,16 @@
         "cu-boulder/ucb_user_invite": "dev-main",
         "cweagans/composer-patches": "^1.7",
         "drupal/admin_toolbar": "^3.4",
+        "drupal/administerusersbyrole": "^3.4",
         "drupal/aggregator": "^2.0",
         "drupal/antibot": "^2.0",
         "drupal/better_social_sharing_buttons": "^4.0",
         "drupal/ckeditor5_icons": "1.x-dev@dev",
         "drupal/ckeditor5_paste_filter": "^1.0",
         "drupal/consumer_image_styles": "^4.0",
-        "drupal/core-composer-scaffold": "~10.1.7",
-        "drupal/core-project-message": "~10.1.7",
-        "drupal/core-recommended": "~10.1.7",
+        "drupal/core-composer-scaffold": "~10.2.0",
+        "drupal/core-project-message": "~10.2.0",
+        "drupal/core-recommended": "~10.2.0",
         "drupal/devel": "^5.0",
         "drupal/entity_embed": "^1.1",
         "drupal/externalauth": "^2.0",
@@ -307,6 +308,12 @@
             }
         },
         "patches": {
+            "drupal/core": {
+                "Reusable Patch Beta": "https://www.drupal.org/files/issues/2024-01-23/add_reusable_option_to_inline_block_creation-2999491-141.patch"
+            }
+        },
+        "patchLevel": {
+            "drupal/core": "-p2"
         },
         "installer-paths": {
             "web/core": ["type:drupal-core"],
