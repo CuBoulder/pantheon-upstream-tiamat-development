@@ -939,12 +939,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/express_admin.git",
-                "reference": "b9cb074640e494fe46c7b6a59e4573df4aba1495"
+                "reference": "5ec274e8f5999000870c770a42edf99269c1d548"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/express_admin/zipball/b9cb074640e494fe46c7b6a59e4573df4aba1495",
-                "reference": "b9cb074640e494fe46c7b6a59e4573df4aba1495",
+                "url": "https://api.github.com/repos/CuBoulder/express_admin/zipball/5ec274e8f5999000870c770a42edf99269c1d548",
+                "reference": "5ec274e8f5999000870c770a42edf99269c1d548",
                 "shasum": ""
             },
             "default-branch": true,
@@ -958,7 +958,7 @@
                 "issues": "https://github.com/CuBoulder/express_admin/issues",
                 "source": "https://github.com/CuBoulder/express_admin/tree/main"
             },
-            "time": "2024-03-04T19:46:15+00:00"
+            "time": "2024-03-04T21:46:04+00:00"
         },
         {
             "name": "cu-boulder/shortcode_fork",
