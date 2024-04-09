@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f40895f5e2114f4e58ab9ae36207897b",
+    "content-hash": "d3558570a29a95bf9e4cb3c996587f30",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -6899,11 +6899,11 @@
         },
         {
             "name": "pantheon-upstreams/upstream-configuration",
-            "version": "dev-master",
+            "version": "1.0.0",
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration",
-                "reference": "fa9a01090b7ade6c29ae149eeb2c13dc69ca4fe2"
+                "reference": "22d1b58fed68ac8549e8c97f5f94d17275217173"
             },
             "type": "project",
             "transport-options": {
@@ -17068,8 +17068,7 @@
         "cu-boulder/ucb_third_party_libraries": 20,
         "cu-boulder/ucb_user_invite": 20,
         "drupal/ckeditor5_icons": 20,
-        "drupal/google_cse": 15,
-        "pantheon-upstreams/upstream-configuration": 20
+        "drupal/google_cse": 15
     },
     "prefer-stable": true,
     "prefer-lowest": false,

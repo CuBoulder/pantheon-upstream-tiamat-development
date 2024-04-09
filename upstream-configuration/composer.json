@@ -18,5 +18,6 @@
             "simplesamlphp/composer-module-installer": true,
             "pantheon-systems/upstream-management": true
         }
-    }
+    },
+    "version": "1.0.0"
 }

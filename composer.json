@@ -276,7 +276,7 @@
         "jquery/timepicker": "*",
         "pantheon-systems/drupal-integrations": "^10",
         "pantheon-systems/upstream-management": "^1.0",
-        "pantheon-upstreams/upstream-configuration": "dev-master",
+        "pantheon-upstreams/upstream-configuration": "^1",
         "popperjs/popperjs": "*",
         "progress-tracker/progress-tracker": "*",
         "signature_pad/signature_pad": "*",
