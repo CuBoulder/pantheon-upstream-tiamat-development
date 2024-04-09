@@ -390,7 +390,6 @@
         "webflo/drupal-finder": "1.2.2",
         "webmozart/assert": "1.11.0"
     },
-    "version": "1.0.1",
     "config": {
         "allow-plugins": {
             "composer/installers": true,
