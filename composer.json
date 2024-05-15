@@ -59,6 +59,14 @@
         "installer-paths": {
             "web/core": ["type:drupal-core"],
             "web/libraries/jquery.inputmask": ["npm-asset/inputmask"],
+            "web/libraries/jquery.intl-tel-input": ["npm-asset/intl-tel-input"],
+            "web/libraries/jquery.select2": ["npm-asset/select2"],
+            "web/libraries/jquery.textcounter": ["npm-asset/jquery-text-counter"],
+            "web/libraries/jquery.timepicker": ["npm-asset/timepicker"],
+            "web/libraries/popperjs": ["npm-asset/popperjs--core"],
+            "web/libraries/signature_pad": ["bower-asset/signature-pad"],
+            "web/libraries/tabby": ["npm-asset/tabbyjs"],
+            "web/libraries/tippyjs": ["npm-asset/tippy.js"],
             "web/libraries/{$name}": [
                 "type:drupal-library",
                 "type:npm-asset",
