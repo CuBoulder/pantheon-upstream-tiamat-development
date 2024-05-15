@@ -58,6 +58,7 @@
         ],
         "installer-paths": {
             "web/core": ["type:drupal-core"],
+            "web/libraries/jquery.inputmask": ["npm-asset/inputmask"],
             "web/libraries/{$name}": [
                 "type:drupal-library",
                 "type:npm-asset",
