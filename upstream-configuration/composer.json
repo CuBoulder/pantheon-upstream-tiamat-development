@@ -88,8 +88,9 @@
         "drupal/webform": "^6.2",
         "drush/drush": "^12.1",
         "pantheon-systems/drupal-integrations": "^10",
+        "pantheon-systems/pantheon_domain_masking": "^2.0",
         "pantheon-systems/upstream-management": "^1.0",
-        "simplesamlphp/simplesamlphp": "^2.1",
+        "simplesamlphp/simplesamlphp": "^2.2",
         "drupal/config_update": "^2.0@alpha"
     },
     "config": {

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ec6b394d79b97d9b0e46438063aa28bc",
+    "content-hash": "f2bad609be6bfdd80c4f04c07cd7183d",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -79,16 +79,16 @@
         },
         {
             "name": "chi-teck/drupal-code-generator",
-            "version": "3.5.0",
+            "version": "3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Chi-teck/drupal-code-generator.git",
-                "reference": "74c2dc687e124bfc4001e73e9346b33067e2ec2b"
+                "reference": "7794c268309a6fd7aeecfd1246a01238c14384c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Chi-teck/drupal-code-generator/zipball/74c2dc687e124bfc4001e73e9346b33067e2ec2b",
-                "reference": "74c2dc687e124bfc4001e73e9346b33067e2ec2b",
+                "url": "https://api.github.com/repos/Chi-teck/drupal-code-generator/zipball/7794c268309a6fd7aeecfd1246a01238c14384c4",
+                "reference": "7794c268309a6fd7aeecfd1246a01238c14384c4",
                 "shasum": ""
             },
             "require": {
@@ -133,9 +133,9 @@
             "description": "Drupal code generator",
             "support": {
                 "issues": "https://github.com/Chi-teck/drupal-code-generator/issues",
-                "source": "https://github.com/Chi-teck/drupal-code-generator/tree/3.5.0"
+                "source": "https://github.com/Chi-teck/drupal-code-generator/tree/3.6.0"
             },
-            "time": "2024-04-11T11:23:44+00:00"
+            "time": "2024-05-20T12:50:42+00:00"
         },
         {
             "name": "composer/installers",
@@ -885,12 +885,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "ae3cb01f9dc617a7f10553266896ecc0e14f668e"
+                "reference": "b3f013fd5b4b9576e7f992b25b9a6500f35df3c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/ae3cb01f9dc617a7f10553266896ecc0e14f668e",
-                "reference": "ae3cb01f9dc617a7f10553266896ecc0e14f668e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b3f013fd5b4b9576e7f992b25b9a6500f35df3c0",
+                "reference": "b3f013fd5b4b9576e7f992b25b9a6500f35df3c0",
                 "shasum": ""
             },
             "default-branch": true,
@@ -904,7 +904,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-05-14T22:38:37+00:00"
+            "time": "2024-05-20T14:29:59+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -912,12 +912,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "edfff7d20e44a13a7e553b347ea349bb22926a79"
+                "reference": "af8106d1b2c33b8be7384ae43e8d4ead4476e72b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/edfff7d20e44a13a7e553b347ea349bb22926a79",
-                "reference": "edfff7d20e44a13a7e553b347ea349bb22926a79",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/af8106d1b2c33b8be7384ae43e8d4ead4476e72b",
+                "reference": "af8106d1b2c33b8be7384ae43e8d4ead4476e72b",
                 "shasum": ""
             },
             "default-branch": true,
@@ -931,7 +931,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
                 "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2024-05-14T17:09:34+00:00"
+            "time": "2024-05-17T19:25:52+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1290,12 +1290,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_user_invite.git",
-                "reference": "07ddd52b3abb1c0d87266509ce315959fb91fc8a"
+                "reference": "3052956c153d879e32b788568f011e1627d2531f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_user_invite/zipball/07ddd52b3abb1c0d87266509ce315959fb91fc8a",
-                "reference": "07ddd52b3abb1c0d87266509ce315959fb91fc8a",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_user_invite/zipball/3052956c153d879e32b788568f011e1627d2531f",
+                "reference": "3052956c153d879e32b788568f011e1627d2531f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1309,7 +1309,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_user_invite/issues",
                 "source": "https://github.com/CuBoulder/ucb_user_invite/tree/main"
             },
-            "time": "2024-03-19T17:50:45+00:00"
+            "time": "2024-05-17T19:24:12+00:00"
         },
         {
             "name": "cweagans/composer-patches",
@@ -6979,6 +6979,40 @@
                 "source": "https://github.com/pantheon-systems/drupal-integrations/tree/10.0.1"
             },
             "time": "2023-05-17T17:45:40+00:00"
+        },
+        {
+            "name": "pantheon-systems/pantheon_domain_masking",
+            "version": "2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pantheon-systems/pantheon_domain_masking.git",
+                "reference": "ac6f1bd62c4cfb0c37bb4f1ca4a40924f910aa6a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pantheon-systems/pantheon_domain_masking/zipball/ac6f1bd62c4cfb0c37bb4f1ca4a40924f910aa6a",
+                "reference": "ac6f1bd62c4cfb0c37bb4f1ca4a40924f910aa6a",
+                "shasum": ""
+            },
+            "require-dev": {
+                "drupal/coder": "^8.3",
+                "squizlabs/php_codesniffer": "^3.4"
+            },
+            "type": "drupal-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "description": "Domain masking middleware for Drupal 8",
+            "homepage": "https://www.drupal.org/project/pantheon_domain_masking",
+            "keywords": [
+                "drupal"
+            ],
+            "support": {
+                "issues": "https://www.drupal.org/project/issues/pantheon_domain_masking",
+                "source": "http://cgit.drupalcode.org/pantheon_domain_masking"
+            },
+            "time": "2023-03-14T15:20:08+00:00"
         },
         {
             "name": "pantheon-systems/upstream-management",
