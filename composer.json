@@ -68,7 +68,6 @@
             "web/libraries/tabby": ["npm-asset/tabbyjs"],
             "web/libraries/tippyjs": ["npm-asset/tippy.js"],
             "web/libraries/ckeditor5-anchor-drupal": ["npm-asset/northernco--ckeditor5-anchor-drupal"],
-
             "web/libraries/{$name}": [
                 "type:drupal-library",
                 "type:npm-asset",
