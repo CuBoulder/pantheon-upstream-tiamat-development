@@ -885,12 +885,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "b3f013fd5b4b9576e7f992b25b9a6500f35df3c0"
+                "reference": "24bc371735f15e07f17b7b5e6843be0a74720e3e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b3f013fd5b4b9576e7f992b25b9a6500f35df3c0",
-                "reference": "b3f013fd5b4b9576e7f992b25b9a6500f35df3c0",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/24bc371735f15e07f17b7b5e6843be0a74720e3e",
+                "reference": "24bc371735f15e07f17b7b5e6843be0a74720e3e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -904,7 +904,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-05-20T14:29:59+00:00"
+            "time": "2024-05-20T17:37:14+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -912,12 +912,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "af8106d1b2c33b8be7384ae43e8d4ead4476e72b"
+                "reference": "f04a7e7c4ef0ea7b67cdedd7ba5ed7dda489e8e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/af8106d1b2c33b8be7384ae43e8d4ead4476e72b",
-                "reference": "af8106d1b2c33b8be7384ae43e8d4ead4476e72b",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/f04a7e7c4ef0ea7b67cdedd7ba5ed7dda489e8e9",
+                "reference": "f04a7e7c4ef0ea7b67cdedd7ba5ed7dda489e8e9",
                 "shasum": ""
             },
             "default-branch": true,
@@ -931,7 +931,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
                 "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2024-05-17T19:25:52+00:00"
+            "time": "2024-05-20T19:30:28+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1101,12 +1101,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "ad559f9a5c8b578f3fd920ed621f9b5e6754accd"
+                "reference": "b0c7ee48a9996b6c6fd80a2a4908f8ed0469ccec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/ad559f9a5c8b578f3fd920ed621f9b5e6754accd",
-                "reference": "ad559f9a5c8b578f3fd920ed621f9b5e6754accd",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/b0c7ee48a9996b6c6fd80a2a4908f8ed0469ccec",
+                "reference": "b0c7ee48a9996b6c6fd80a2a4908f8ed0469ccec",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1118,9 +1118,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20240513"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-05-13T20:23:13+00:00"
+            "time": "2024-05-20T17:37:25+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
