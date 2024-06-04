@@ -92,8 +92,32 @@
         "pantheon-systems/pantheon_domain_masking": "^2.0",
         "pantheon-systems/upstream-management": "^1.0",
         "simplesamlphp/simplesamlphp": "^2.2",
-        "symfony/serializer": "6.4.7",
         "drupal/config_update": "^2.0@alpha"
+    },
+    "conflict": {
+      "symfony/yaml":"6.4.8",
+      "symfony/validator":"6.4.8",
+      "symfony/string":"6.4.8",
+      "symfony/serializer":"6.4.8",
+      "symfony/psr-http-message-bridge":"6.4.8",
+      "symfony/process":"6.4.8",
+      "symfony/mime":"6.4.8",
+      "symfony/mailer":"6.4.8",
+      "symfony/intl":"6.4.8",
+      "symfony/http-kernel":"6.4.8",
+      "symfony/http-foundation":"6.4.8",
+      "symfony/error-handler":"6.4.8",
+      "symfony/dependency-injection":"6.4.8",
+      "symfony/console":"6.4.8",
+      "symfony/config":"6.4.8",
+      "symfony/cache":"6.4.8",
+      "symfony/var-exporter":"6.4.8",
+      "symfony/var-dumper":"6.4.8",
+      "symfony/routing":"6.4.8",
+      "symfony/framework-bundle":"6.4.8",
+      "symfony/finder":"6.4.8",
+      "symfony/filesystem":"6.4.8",
+      "symfony/event-dispatcher":"6.4.8"
     },
     "config": {
         "allow-plugins": {
