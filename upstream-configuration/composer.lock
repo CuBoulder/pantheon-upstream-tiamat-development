@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "41983df82b7a6ddaeb46bbebf8381670f6406c91"
+                "reference": "9708a758788a8c2cd4c4fecc0bc70e13fd75148f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/41983df82b7a6ddaeb46bbebf8381670f6406c91",
-                "reference": "41983df82b7a6ddaeb46bbebf8381670f6406c91",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/9708a758788a8c2cd4c4fecc0bc70e13fd75148f",
+                "reference": "9708a758788a8c2cd4c4fecc0bc70e13fd75148f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240805"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-08-05T19:38:57+00:00"
+            "time": "2024-08-05T20:15:16+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -2341,17 +2341,17 @@
         },
         {
             "name": "drupal/ckeditor5_bootstrap_accordion",
-            "version": "1.0.0-rc2",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ckeditor5_bootstrap_accordion.git",
-                "reference": "1.0.0-rc2"
+                "reference": "1.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ckeditor5_bootstrap_accordion-1.0.0-rc2.zip",
-                "reference": "1.0.0-rc2",
-                "shasum": "f04addafc6d303bce5be8b4cc755d46d8379979b"
+                "url": "https://ftp.drupal.org/files/projects/ckeditor5_bootstrap_accordion-1.0.0.zip",
+                "reference": "1.0.0",
+                "shasum": "eda7b757f0a6e52ea108ef6a271530363dae940f"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2359,8 +2359,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0-rc2",
-                    "datestamp": "1721767595",
+                    "version": "1.0.0",
+                    "datestamp": "1722888817",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
