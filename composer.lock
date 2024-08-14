@@ -1156,12 +1156,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "48dba50ac4b1f8c67ed4c3344e37b33615ec7a64"
+                "reference": "87a9d37f46a4b5772e8339f584ab115be1122eb8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/48dba50ac4b1f8c67ed4c3344e37b33615ec7a64",
-                "reference": "48dba50ac4b1f8c67ed4c3344e37b33615ec7a64",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/87a9d37f46a4b5772e8339f584ab115be1122eb8",
+                "reference": "87a9d37f46a4b5772e8339f584ab115be1122eb8",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1175,7 +1175,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
                 "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/main"
             },
-            "time": "2024-08-14T21:46:41+00:00"
+            "time": "2024-08-14T22:05:30+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
