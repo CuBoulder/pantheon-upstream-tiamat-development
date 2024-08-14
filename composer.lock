@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "53829103e9058b36436dfc69504d7a29a1bd6cb6"
+                "reference": "93d60c18af83f3703b1996068b1acbc56b3c38c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/53829103e9058b36436dfc69504d7a29a1bd6cb6",
-                "reference": "53829103e9058b36436dfc69504d7a29a1bd6cb6",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/93d60c18af83f3703b1996068b1acbc56b3c38c7",
+                "reference": "93d60c18af83f3703b1996068b1acbc56b3c38c7",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240814"
             },
-            "time": "2024-08-08T23:05:58+00:00"
+            "time": "2024-08-14T19:40:59+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "ace8a52973dac83ab06e609edc3e5b294ddd949b"
+                "reference": "f8b48cf2c6ac2db7d340e413936ae7933cab131a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/ace8a52973dac83ab06e609edc3e5b294ddd949b",
-                "reference": "ace8a52973dac83ab06e609edc3e5b294ddd949b",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/f8b48cf2c6ac2db7d340e413936ae7933cab131a",
+                "reference": "f8b48cf2c6ac2db7d340e413936ae7933cab131a",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240805"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240814"
             },
-            "time": "2024-08-05T19:39:19+00:00"
+            "time": "2024-08-14T19:41:19+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "99b5250736eaa28b56efd32f77e8a50ebb6961d4"
+                "reference": "6eefd00c400e6b7bbe7251c5f0805cfc4ad58aa2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/99b5250736eaa28b56efd32f77e8a50ebb6961d4",
-                "reference": "99b5250736eaa28b56efd32f77e8a50ebb6961d4",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/6eefd00c400e6b7bbe7251c5f0805cfc4ad58aa2",
+                "reference": "6eefd00c400e6b7bbe7251c5f0805cfc4ad58aa2",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1119,9 +1119,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20240814"
             },
-            "time": "2024-08-08T18:51:03+00:00"
+            "time": "2024-08-14T19:41:44+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_default_content.git",
-                "reference": "d0ce451906adefea678f6a2df4b8e2673f8444cd"
+                "reference": "e19bd8d1b973071c3fcf668f1b7e99133a00f302"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_default_content/zipball/d0ce451906adefea678f6a2df4b8e2673f8444cd",
-                "reference": "d0ce451906adefea678f6a2df4b8e2673f8444cd",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_default_content/zipball/e19bd8d1b973071c3fcf668f1b7e99133a00f302",
+                "reference": "e19bd8d1b973071c3fcf668f1b7e99133a00f302",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1148,7 +1148,34 @@
                 "issues": "https://github.com/CuBoulder/ucb_default_content/issues",
                 "source": "https://github.com/CuBoulder/ucb_default_content/tree/main"
             },
-            "time": "2024-06-20T15:36:03+00:00"
+            "time": "2024-08-14T16:02:45+00:00"
+        },
+        {
+            "name": "cu-boulder/ucb_drush_commands",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
+                "reference": "6de622318dbd06d33897ee705c28ec44180f25c2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/6de622318dbd06d33897ee705c28ec44180f25c2",
+                "reference": "6de622318dbd06d33897ee705c28ec44180f25c2",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "drupal-custom-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Repository of drush commands to extend drush functionality for CU Boulder.",
+            "support": {
+                "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
+                "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/main"
+            },
+            "time": "2024-08-14T16:02:43+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
@@ -2511,8 +2538,12 @@
                     "homepage": "https://www.drupal.org/user/3573206"
                 },
                 {
-                    "name": "Pasqualle",
+                    "name": "pasqualle",
                     "homepage": "https://www.drupal.org/user/80733"
+                },
+                {
+                    "name": "vishalkhode",
+                    "homepage": "https://www.drupal.org/user/2439156"
                 }
             ],
             "description": "Provides basic revert and update functionality for other modules.",
@@ -3166,26 +3197,29 @@
         },
         {
             "name": "drupal/embed",
-            "version": "1.8.0",
+            "version": "1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/embed.git",
-                "reference": "8.x-1.8"
+                "reference": "8.x-1.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/embed-8.x-1.8.zip",
-                "reference": "8.x-1.8",
-                "shasum": "c0612ae09b1eff8316726aac25c1b73853f57b14"
+                "url": "https://ftp.drupal.org/files/projects/embed-8.x-1.9.zip",
+                "reference": "8.x-1.9",
+                "shasum": "e6b4875e2b245ddf1a68a8615cbb4c5a378a0e9f"
             },
             "require": {
-                "drupal/core": "^10.2 || ^11"
+                "drupal/core": "^9.5 | ^10"
+            },
+            "require-dev": {
+                "drupal/ckeditor": "^1.0"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.8",
-                    "datestamp": "1723034389",
+                    "version": "8.x-1.9",
+                    "datestamp": "1723283819",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3202,7 +3236,7 @@
                     "homepage": "https://www.drupal.org/user/2828287"
                 },
                 {
-                    "name": "Dave Reid",
+                    "name": "dave reid",
                     "homepage": "https://www.drupal.org/user/53892"
                 },
                 {
@@ -3620,7 +3654,7 @@
                     "role": "Maintainer"
                 },
                 {
-                    "name": "Rajeshreeputra",
+                    "name": "rajeshreeputra",
                     "homepage": "https://www.drupal.org/user/3418561"
                 }
             ],
@@ -4828,28 +4862,28 @@
         },
         {
             "name": "drupal/recaptcha_v3",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/recaptcha_v3.git",
-                "reference": "2.0.2"
+                "reference": "2.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/recaptcha_v3-2.0.2.zip",
-                "reference": "2.0.2",
-                "shasum": "239e04bdb74179997e422c13cd76cfaac68bdf00"
+                "url": "https://ftp.drupal.org/files/projects/recaptcha_v3-2.0.3.zip",
+                "reference": "2.0.3",
+                "shasum": "51bdbfd4602550fb4822ba8725e8899e23d4568a"
             },
             "require": {
                 "drupal/captcha": "^2.0",
-                "drupal/core": "^9.5 || ^10",
+                "drupal/core": "^10 || ^11",
                 "google/recaptcha": "^1.3"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.2",
-                    "datestamp": "1692590086",
+                    "version": "2.0.3",
+                    "datestamp": "1723447296",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4882,26 +4916,26 @@
         },
         {
             "name": "drupal/redirect",
-            "version": "1.9.0",
+            "version": "1.10.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/redirect.git",
-                "reference": "8.x-1.9"
+                "reference": "8.x-1.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/redirect-8.x-1.9.zip",
-                "reference": "8.x-1.9",
-                "shasum": "2987de20f509e9f7cec8a0f81d3a6774f9b0ba3e"
+                "url": "https://ftp.drupal.org/files/projects/redirect-8.x-1.10.zip",
+                "reference": "8.x-1.10",
+                "shasum": "9d72d7e0717dbdea3ab3306c5d6840da5bd3024c"
             },
             "require": {
-                "drupal/core": "^9.2 || ^10"
+                "drupal/core": "^9.2 || ^10 || ^11"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.9",
-                    "datestamp": "1693393506",
+                    "version": "8.x-1.10",
+                    "datestamp": "1723277641",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4918,7 +4952,7 @@
                     "homepage": "https://www.drupal.org/user/214652"
                 },
                 {
-                    "name": "Dave Reid",
+                    "name": "dave reid",
                     "homepage": "https://www.drupal.org/user/53892"
                 },
                 {
@@ -7496,7 +7530,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "58b9e92b7b821cc3fe8e00dd4b51adee36e61498"
+                "reference": "e0882e1fef5cf692a930f613de46cc3fa5e6d59a"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7523,6 +7557,7 @@
                 "cu-boulder/ucb_ckeditor_plugins": "dev-main",
                 "cu-boulder/ucb_custom_entities": "dev-main",
                 "cu-boulder/ucb_default_content": "dev-main",
+                "cu-boulder/ucb_drush_commands": "dev-main",
                 "cu-boulder/ucb_focal_image_enable": "dev-main",
                 "cu-boulder/ucb_migration_shortcodes": "dev-main",
                 "cu-boulder/ucb_person_title": "dev-main",
@@ -7557,7 +7592,7 @@
                 "drupal/crop": "2.4.0",
                 "drupal/ctools": "4.1.0",
                 "drupal/devel": "5.2.1",
-                "drupal/embed": "1.8.0",
+                "drupal/embed": "1.9.0",
                 "drupal/entity_embed": "1.6.0",
                 "drupal/entity_reference_revisions": "1.12.0",
                 "drupal/externalauth": "2.0.6",
@@ -7582,8 +7617,8 @@
                 "drupal/paragraphs": "1.18.0",
                 "drupal/pathauto": "1.13.0",
                 "drupal/rebuild_cache_access": "1.10.0",
-                "drupal/recaptcha_v3": "2.0.2",
-                "drupal/redirect": "1.9.0",
+                "drupal/recaptcha_v3": "2.0.3",
+                "drupal/redirect": "1.10.0",
                 "drupal/responsive_preview": "2.2.0",
                 "drupal/scheduler": "2.0.4",
                 "drupal/shortcode": "2.0.2",
