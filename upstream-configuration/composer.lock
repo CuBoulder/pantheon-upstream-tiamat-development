@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c9affd504dfbdc0cacf33c268c365aec",
+    "content-hash": "59fefdc4bba2ee3a140d71ae2182a2bd",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "cee1f1a4b7f251a865fc82318ac0b09f601a5cee"
+                "reference": "a810d723896cfb05987c644796225b5f0db00009"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/cee1f1a4b7f251a865fc82318ac0b09f601a5cee",
-                "reference": "cee1f1a4b7f251a865fc82318ac0b09f601a5cee",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/a810d723896cfb05987c644796225b5f0db00009",
+                "reference": "a810d723896cfb05987c644796225b5f0db00009",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240821"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-08-21T16:06:25+00:00"
+            "time": "2024-08-21T17:38:16+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1203,6 +1203,33 @@
                 "source": "https://github.com/CuBoulder/ucb_focal_image_enable/tree/main"
             },
             "time": "2024-03-04T18:17:09+00:00"
+        },
+        {
+            "name": "cu-boulder/ucb_linkmod",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CuBoulder/ucb_linkmod.git",
+                "reference": "2861724c79eb28c63a965391ec83c32a82ee7377"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/2861724c79eb28c63a965391ec83c32a82ee7377",
+                "reference": "2861724c79eb28c63a965391ec83c32a82ee7377",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "drupal-custom-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Module to parse and correct URLs patterns for the CU Boulder Web Express environment.",
+            "support": {
+                "issues": "https://github.com/CuBoulder/ucb_linkmod/issues",
+                "source": "https://github.com/CuBoulder/ucb_linkmod/tree/main"
+            },
+            "time": "2024-08-21T22:21:48+00:00"
         },
         {
             "name": "cu-boulder/ucb_migration_shortcodes",
@@ -12751,6 +12778,7 @@
         "cu-boulder/ucb_default_content": 20,
         "cu-boulder/ucb_drush_commands": 20,
         "cu-boulder/ucb_focal_image_enable": 20,
+        "cu-boulder/ucb_linkmod": 20,
         "cu-boulder/ucb_migration_shortcodes": 20,
         "cu-boulder/ucb_person_title": 20,
         "cu-boulder/ucb_site_configuration": 20,
