@@ -1210,12 +1210,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_linkmod.git",
-                "reference": "b85e1aefba5d1ffc46764d537881c32b34b9a8e9"
+                "reference": "d90d6585fb02421bcb3a34851364ae86651b4483"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/b85e1aefba5d1ffc46764d537881c32b34b9a8e9",
-                "reference": "b85e1aefba5d1ffc46764d537881c32b34b9a8e9",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/d90d6585fb02421bcb3a34851364ae86651b4483",
+                "reference": "d90d6585fb02421bcb3a34851364ae86651b4483",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1229,7 +1229,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_linkmod/issues",
                 "source": "https://github.com/CuBoulder/ucb_linkmod/tree/main"
             },
-            "time": "2024-08-22T14:27:03+00:00"
+            "time": "2024-08-22T21:43:32+00:00"
         },
         {
             "name": "cu-boulder/ucb_migration_shortcodes",
@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_styled_block.git",
-                "reference": "47b48c56a2adc5ad80ca6a4a51a05a9d0acba7c0"
+                "reference": "4d5cfc86cbb67619b1a7bc90c6429bb40fe02778"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/47b48c56a2adc5ad80ca6a4a51a05a9d0acba7c0",
-                "reference": "47b48c56a2adc5ad80ca6a4a51a05a9d0acba7c0",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/4d5cfc86cbb67619b1a7bc90c6429bb40fe02778",
+                "reference": "4d5cfc86cbb67619b1a7bc90c6429bb40fe02778",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_styled_block/issues",
                 "source": "https://github.com/CuBoulder/ucb_styled_block/tree/main"
             },
-            "time": "2024-08-08T16:28:56+00:00"
+            "time": "2024-08-22T19:51:53+00:00"
         },
         {
             "name": "cu-boulder/ucb_third_party_libraries",

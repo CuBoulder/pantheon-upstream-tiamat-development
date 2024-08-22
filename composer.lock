@@ -1210,12 +1210,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_linkmod.git",
-                "reference": "b85e1aefba5d1ffc46764d537881c32b34b9a8e9"
+                "reference": "d90d6585fb02421bcb3a34851364ae86651b4483"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/b85e1aefba5d1ffc46764d537881c32b34b9a8e9",
-                "reference": "b85e1aefba5d1ffc46764d537881c32b34b9a8e9",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/d90d6585fb02421bcb3a34851364ae86651b4483",
+                "reference": "d90d6585fb02421bcb3a34851364ae86651b4483",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1229,7 +1229,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_linkmod/issues",
                 "source": "https://github.com/CuBoulder/ucb_linkmod/tree/main"
             },
-            "time": "2024-08-22T14:27:03+00:00"
+            "time": "2024-08-22T21:43:32+00:00"
         },
         {
             "name": "cu-boulder/ucb_migration_shortcodes",
@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_styled_block.git",
-                "reference": "47b48c56a2adc5ad80ca6a4a51a05a9d0acba7c0"
+                "reference": "4d5cfc86cbb67619b1a7bc90c6429bb40fe02778"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/47b48c56a2adc5ad80ca6a4a51a05a9d0acba7c0",
-                "reference": "47b48c56a2adc5ad80ca6a4a51a05a9d0acba7c0",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/4d5cfc86cbb67619b1a7bc90c6429bb40fe02778",
+                "reference": "4d5cfc86cbb67619b1a7bc90c6429bb40fe02778",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_styled_block/issues",
                 "source": "https://github.com/CuBoulder/ucb_styled_block/tree/main"
             },
-            "time": "2024-08-08T16:28:56+00:00"
+            "time": "2024-08-22T19:51:53+00:00"
         },
         {
             "name": "cu-boulder/ucb_third_party_libraries",
@@ -7654,7 +7654,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "e0590e28cc92c16d049e2dc88987b16a7b14cf32"
+                "reference": "d525964b90dda94ac129cd456060277187bcb584"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7810,6 +7810,7 @@
                 "ralouphie/getallheaders": "3.0.3",
                 "robrichards/xmlseclibs": "3.1.1",
                 "sebastian/diff": "4.0.6",
+                "simplehtmldom/simplehtmldom": "2.0-RC2",
                 "simplesamlphp/assert": "v1.2.1",
                 "simplesamlphp/composer-module-installer": "v1.3.4",
                 "simplesamlphp/saml2": "v4.6.12",
@@ -8961,6 +8962,81 @@
                 }
             ],
             "time": "2024-03-02T06:30:58+00:00"
+        },
+        {
+            "name": "simplehtmldom/simplehtmldom",
+            "version": "2.0-RC2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/simplehtmldom/simplehtmldom.git",
+                "reference": "3c87726400e59d8e1bc4709cfe82353abeb0f4d1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/simplehtmldom/simplehtmldom/zipball/3c87726400e59d8e1bc4709cfe82353abeb0f4d1",
+                "reference": "3c87726400e59d8e1bc4709cfe82353abeb0f4d1",
+                "shasum": ""
+            },
+            "require": {
+                "ext-iconv": "*",
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^6 || ^7"
+            },
+            "suggest": {
+                "ext-curl": "Needed to support cURL downloads in class HtmlWeb",
+                "ext-mbstring": "Allows better decoding for multi-byte documents",
+                "ext-openssl": "Allows loading HTTPS pages when using cURL"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "./"
+                ],
+                "exclude-from-classmap": [
+                    "/example/",
+                    "/manual/",
+                    "/testcase/",
+                    "/tests/",
+                    "simple_html_dom.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "S.C. Chen",
+                    "role": "Developer"
+                },
+                {
+                    "name": "John Schlick",
+                    "role": "Developer"
+                },
+                {
+                    "name": "logmanoriginal",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A fast, simple and reliable HTML document parser for PHP.",
+            "homepage": "https://simplehtmldom.sourceforge.io/",
+            "keywords": [
+                "Simple",
+                "dom",
+                "html",
+                "parser",
+                "php",
+                "simplehtmldom"
+            ],
+            "support": {
+                "issues": "https://sourceforge.net/p/simplehtmldom/bugs/",
+                "rss": "https://sourceforge.net/p/simplehtmldom/news/feed.rss",
+                "source": "https://sourceforge.net/p/simplehtmldom/repository/",
+                "wiki": "https://simplehtmldom.sourceforge.io/docs/"
+            },
+            "time": "2019-11-09T15:42:50+00:00"
         },
         {
             "name": "simplesamlphp/assert",
