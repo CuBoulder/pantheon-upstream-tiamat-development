@@ -1210,12 +1210,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_linkmod.git",
-                "reference": "d90d6585fb02421bcb3a34851364ae86651b4483"
+                "reference": "665e2a1fc55cc16938d180eff7d0a5413af1a63d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/d90d6585fb02421bcb3a34851364ae86651b4483",
-                "reference": "d90d6585fb02421bcb3a34851364ae86651b4483",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/665e2a1fc55cc16938d180eff7d0a5413af1a63d",
+                "reference": "665e2a1fc55cc16938d180eff7d0a5413af1a63d",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1229,7 +1229,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_linkmod/issues",
                 "source": "https://github.com/CuBoulder/ucb_linkmod/tree/main"
             },
-            "time": "2024-08-22T21:43:32+00:00"
+            "time": "2024-08-22T22:22:05+00:00"
         },
         {
             "name": "cu-boulder/ucb_migration_shortcodes",
