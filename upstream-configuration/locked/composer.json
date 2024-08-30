@@ -99,7 +99,7 @@
         "pantheon-systems/pantheon_domain_masking": "2.0.1",
         "pantheon-systems/upstream-management": "1.0.1",
         "simplesamlphp/simplesamlphp": "v2.3.0",
-        "drupal/config_update": "2.0.0-alpha3",
+        "drupal/config_update": "2.0.0-alpha4",
         "asm89/stack-cors": "v2.2.0",
         "chi-teck/drupal-code-generator": "3.6.1",
         "composer/semver": "3.4.2",
