@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "46fd622c9724d5dd243924cc08a5331b04bf7bec"
+                "reference": "3ddad9da6fd3976949b32faa2fee7b3f5dc4e4a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/46fd622c9724d5dd243924cc08a5331b04bf7bec",
-                "reference": "46fd622c9724d5dd243924cc08a5331b04bf7bec",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/3ddad9da6fd3976949b32faa2fee7b3f5dc4e4a0",
+                "reference": "3ddad9da6fd3976949b32faa2fee7b3f5dc4e4a0",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240904"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240911"
             },
-            "time": "2024-09-04T19:56:06+00:00"
+            "time": "2024-09-11T15:23:50+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "01fdd0e3fdf3d7c7f128ba4916f80b282dd4bf0f"
+                "reference": "f60d11c154bd666e8d669580b96f1d18cb2788a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/01fdd0e3fdf3d7c7f128ba4916f80b282dd4bf0f",
-                "reference": "01fdd0e3fdf3d7c7f128ba4916f80b282dd4bf0f",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/f60d11c154bd666e8d669580b96f1d18cb2788a8",
+                "reference": "f60d11c154bd666e8d669580b96f1d18cb2788a8",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240904"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240911"
             },
-            "time": "2024-09-04T19:57:11+00:00"
+            "time": "2024-09-11T15:21:52+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "63b7d733047eff0ce75cd72f1202abb758f6e77d"
+                "reference": "bc5358efaa280223503522f8911e4523cd02b8fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/63b7d733047eff0ce75cd72f1202abb758f6e77d",
-                "reference": "63b7d733047eff0ce75cd72f1202abb758f6e77d",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/bc5358efaa280223503522f8911e4523cd02b8fa",
+                "reference": "bc5358efaa280223503522f8911e4523cd02b8fa",
                 "shasum": ""
             },
             "default-branch": true,
@@ -986,7 +986,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-09-04T16:03:47+00:00"
+            "time": "2024-09-11T15:15:08+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "1b0e76848e20d7006ab76b8996519f44d3eb01c6"
+                "reference": "94e000a6cdcc09f230355ad4184a75d430748808"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/1b0e76848e20d7006ab76b8996519f44d3eb01c6",
-                "reference": "1b0e76848e20d7006ab76b8996519f44d3eb01c6",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/94e000a6cdcc09f230355ad4184a75d430748808",
+                "reference": "94e000a6cdcc09f230355ad4184a75d430748808",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1119,9 +1119,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20240904"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20240911"
             },
-            "time": "2024-09-04T19:56:31+00:00"
+            "time": "2024-09-11T15:22:15+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1210,12 +1210,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_linkmod.git",
-                "reference": "665e2a1fc55cc16938d180eff7d0a5413af1a63d"
+                "reference": "cc46539c028bdc4db2f7ff246180e26348a8a9ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/665e2a1fc55cc16938d180eff7d0a5413af1a63d",
-                "reference": "665e2a1fc55cc16938d180eff7d0a5413af1a63d",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/cc46539c028bdc4db2f7ff246180e26348a8a9ee",
+                "reference": "cc46539c028bdc4db2f7ff246180e26348a8a9ee",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1229,7 +1229,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_linkmod/issues",
                 "source": "https://github.com/CuBoulder/ucb_linkmod/tree/main"
             },
-            "time": "2024-08-22T22:22:05+00:00"
+            "time": "2024-09-10T15:18:39+00:00"
         },
         {
             "name": "cu-boulder/ucb_migration_shortcodes",
@@ -1518,16 +1518,16 @@
         },
         {
             "name": "doctrine/annotations",
-            "version": "1.14.3",
+            "version": "1.14.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/annotations.git",
-                "reference": "fb0d71a7393298a7b232cbf4c8b1f73f3ec3d5af"
+                "reference": "253dca476f70808a5aeed3a47cc2cc88c5cab915"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/annotations/zipball/fb0d71a7393298a7b232cbf4c8b1f73f3ec3d5af",
-                "reference": "fb0d71a7393298a7b232cbf4c8b1f73f3ec3d5af",
+                "url": "https://api.github.com/repos/doctrine/annotations/zipball/253dca476f70808a5aeed3a47cc2cc88c5cab915",
+                "reference": "253dca476f70808a5aeed3a47cc2cc88c5cab915",
                 "shasum": ""
             },
             "require": {
@@ -1538,11 +1538,11 @@
             },
             "require-dev": {
                 "doctrine/cache": "^1.11 || ^2.0",
-                "doctrine/coding-standard": "^9 || ^10",
-                "phpstan/phpstan": "~1.4.10 || ^1.8.0",
+                "doctrine/coding-standard": "^9 || ^12",
+                "phpstan/phpstan": "~1.4.10 || ^1.10.28",
                 "phpunit/phpunit": "^7.5 || ^8.5 || ^9.5",
-                "symfony/cache": "^4.4 || ^5.4 || ^6",
-                "vimeo/psalm": "^4.10"
+                "symfony/cache": "^4.4 || ^5.4 || ^6.4 || ^7",
+                "vimeo/psalm": "^4.30 || ^5.14"
             },
             "suggest": {
                 "php": "PHP 8.0 or higher comes with attributes, a native replacement for annotations"
@@ -1588,9 +1588,9 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/annotations/issues",
-                "source": "https://github.com/doctrine/annotations/tree/1.14.3"
+                "source": "https://github.com/doctrine/annotations/tree/1.14.4"
             },
-            "time": "2023-02-01T09:20:38+00:00"
+            "time": "2024-09-05T10:15:52+00:00"
         },
         {
             "name": "doctrine/common",
@@ -3642,11 +3642,15 @@
             ],
             "authors": [
                 {
-                    "name": "Anybody",
+                    "name": "anybody",
                     "homepage": "https://www.drupal.org/user/291091"
                 },
                 {
-                    "name": "Hydra",
+                    "name": "grevil",
+                    "homepage": "https://www.drupal.org/user/3668491"
+                },
+                {
+                    "name": "hydra",
                     "homepage": "https://www.drupal.org/user/647364"
                 },
                 {
@@ -7662,7 +7666,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "34789dc2b6153cce271a4dea836604a11c3ce0e1"
+                "reference": "5be9cfa3bff8bb83e729da5d80ca9bbb21e8331d"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7700,7 +7704,7 @@
                 "cu-boulder/ucb_user_invite": "dev-main",
                 "cweagans/composer-patches": "1.7.3",
                 "dflydev/dot-access-data": "v3.0.3",
-                "doctrine/annotations": "1.14.3",
+                "doctrine/annotations": "1.14.4",
                 "doctrine/common": "3.4.4",
                 "doctrine/deprecations": "1.1.3",
                 "doctrine/event-manager": "2.0.1",
@@ -7813,7 +7817,7 @@
                 "psr/http-client": "1.0.3",
                 "psr/http-factory": "1.0.2",
                 "psr/http-message": "2.0",
-                "psr/log": "3.0.1",
+                "psr/log": "3.0.2",
                 "psy/psysh": "v0.12.4",
                 "ralouphie/getallheaders": "3.0.3",
                 "robrichards/xmlseclibs": "3.1.1",
@@ -7822,9 +7826,9 @@
                 "simplesamlphp/assert": "v1.3.0",
                 "simplesamlphp/composer-module-installer": "v1.3.4",
                 "simplesamlphp/saml2": "v4.6.12",
-                "simplesamlphp/simplesamlphp": "v2.3.0",
-                "simplesamlphp/simplesamlphp-assets-base": "v2.2.8",
-                "simplesamlphp/xml-common": "v1.17.2",
+                "simplesamlphp/simplesamlphp": "v2.3.2",
+                "simplesamlphp/simplesamlphp-assets-base": "v2.3.0",
+                "simplesamlphp/xml-common": "v1.17.3",
                 "simplesamlphp/xml-security": "v1.8.7",
                 "symfony/cache": "v6.4.11",
                 "symfony/cache-contracts": "v3.5.0",
@@ -7847,13 +7851,13 @@
                 "symfony/polyfill-ctype": "v1.28.0",
                 "symfony/polyfill-iconv": "v1.28.0",
                 "symfony/polyfill-intl-grapheme": "v1.28.0",
-                "symfony/polyfill-intl-icu": "v1.30.0",
+                "symfony/polyfill-intl-icu": "v1.31.0",
                 "symfony/polyfill-intl-idn": "v1.28.0",
                 "symfony/polyfill-intl-normalizer": "v1.28.0",
                 "symfony/polyfill-mbstring": "v1.28.0",
-                "symfony/polyfill-php72": "v1.30.0",
-                "symfony/polyfill-php80": "v1.30.0",
-                "symfony/polyfill-php81": "v1.30.0",
+                "symfony/polyfill-php72": "v1.31.0",
+                "symfony/polyfill-php80": "v1.31.0",
+                "symfony/polyfill-php81": "v1.31.0",
                 "symfony/polyfill-php83": "v1.28.0",
                 "symfony/process": "v6.4.7",
                 "symfony/psr-http-message-bridge": "v6.4.11",
@@ -8692,16 +8696,16 @@
         },
         {
             "name": "psr/log",
-            "version": "3.0.1",
+            "version": "3.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "79dff0b268932c640297f5208d6298f71855c03e"
+                "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/79dff0b268932c640297f5208d6298f71855c03e",
-                "reference": "79dff0b268932c640297f5208d6298f71855c03e",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
+                "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "shasum": ""
             },
             "require": {
@@ -8736,9 +8740,9 @@
                 "psr-3"
             ],
             "support": {
-                "source": "https://github.com/php-fig/log/tree/3.0.1"
+                "source": "https://github.com/php-fig/log/tree/3.0.2"
             },
-            "time": "2024-08-21T13:31:24+00:00"
+            "time": "2024-09-11T13:17:53+00:00"
         },
         {
             "name": "psy/psysh",
@@ -9208,16 +9212,16 @@
         },
         {
             "name": "simplesamlphp/simplesamlphp",
-            "version": "v2.3.0",
+            "version": "v2.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp.git",
-                "reference": "74c4130659d1574f44aa2606090a8d87ffc95ebb"
+                "reference": "1ee347667046b8d9d633188dd7e4fd7e800bdf14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp/zipball/74c4130659d1574f44aa2606090a8d87ffc95ebb",
-                "reference": "74c4130659d1574f44aa2606090a8d87ffc95ebb",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp/zipball/1ee347667046b8d9d633188dd7e4fd7e800bdf14",
+                "reference": "1ee347667046b8d9d633188dd7e4fd7e800bdf14",
                 "shasum": ""
             },
             "require": {
@@ -9240,7 +9244,7 @@
                 "simplesamlphp/assert": "^1.1",
                 "simplesamlphp/composer-module-installer": "^1.3",
                 "simplesamlphp/saml2": "^4.6",
-                "simplesamlphp/simplesamlphp-assets-base": "~2.2.6",
+                "simplesamlphp/simplesamlphp-assets-base": "~2.3.0",
                 "simplesamlphp/xml-security": "^1.7",
                 "symfony/cache": "^6.4",
                 "symfony/config": "^6.4",
@@ -9334,20 +9338,20 @@
                 "issues": "https://github.com/simplesamlphp/simplesamlphp/issues",
                 "source": "https://github.com/simplesamlphp/simplesamlphp"
             },
-            "time": "2024-08-20T20:05:32+00:00"
+            "time": "2024-09-06T17:18:36+00:00"
         },
         {
             "name": "simplesamlphp/simplesamlphp-assets-base",
-            "version": "v2.2.8",
+            "version": "v2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp-assets-base.git",
-                "reference": "939224aa1ebdfa4207e257f37cfe453e90eccbc8"
+                "reference": "c6396600f0929dde7b78de41e6841251a3467063"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/939224aa1ebdfa4207e257f37cfe453e90eccbc8",
-                "reference": "939224aa1ebdfa4207e257f37cfe453e90eccbc8",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/c6396600f0929dde7b78de41e6841251a3467063",
+                "reference": "c6396600f0929dde7b78de41e6841251a3467063",
                 "shasum": ""
             },
             "require": {
@@ -9368,22 +9372,22 @@
             "description": "Assets for the SimpleSAMLphp main repository",
             "support": {
                 "issues": "https://github.com/simplesamlphp/simplesamlphp-assets-base/issues",
-                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.2.8"
+                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.0"
             },
-            "time": "2024-09-01T19:55:36+00:00"
+            "time": "2024-09-06T16:21:56+00:00"
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.17.2",
+            "version": "v1.17.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "c76769ab4e8eb7153f31d083e7af7f06f9747ed7"
+                "reference": "900bfedebfcbdd87b1fd19aa80e658c916d9c61a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/c76769ab4e8eb7153f31d083e7af7f06f9747ed7",
-                "reference": "c76769ab4e8eb7153f31d083e7af7f06f9747ed7",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/900bfedebfcbdd87b1fd19aa80e658c916d9c61a",
+                "reference": "900bfedebfcbdd87b1fd19aa80e658c916d9c61a",
                 "shasum": ""
             },
             "require": {
@@ -9429,7 +9433,7 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-09-03T19:35:21+00:00"
+            "time": "2024-09-06T20:26:50+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",
@@ -11252,20 +11256,20 @@
         },
         {
             "name": "symfony/polyfill-intl-icu",
-            "version": "v1.30.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-icu.git",
-                "reference": "e76343c631b453088e2260ac41dfebe21954de81"
+                "reference": "d80a05e9904d2c2b9b95929f3e4b5d3a8f418d78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-intl-icu/zipball/e76343c631b453088e2260ac41dfebe21954de81",
-                "reference": "e76343c631b453088e2260ac41dfebe21954de81",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-icu/zipball/d80a05e9904d2c2b9b95929f3e4b5d3a8f418d78",
+                "reference": "d80a05e9904d2c2b9b95929f3e4b5d3a8f418d78",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
             "suggest": {
                 "ext-intl": "For best performance and support of other locales than \"en\""
@@ -11316,7 +11320,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-icu/tree/v1.30.0"
+                "source": "https://github.com/symfony/polyfill-intl-icu/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -11332,7 +11336,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-31T15:07:36+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "symfony/polyfill-intl-idn",
@@ -11590,34 +11594,26 @@
         },
         {
             "name": "symfony/polyfill-php72",
-            "version": "v1.30.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php72.git",
-                "reference": "10112722600777e02d2745716b70c5db4ca70442"
+                "reference": "fa2ae56c44f03bed91a39bfc9822e31e7c5c38ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/10112722600777e02d2745716b70c5db4ca70442",
-                "reference": "10112722600777e02d2745716b70c5db4ca70442",
+                "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/fa2ae56c44f03bed91a39bfc9822e31e7c5c38ce",
+                "reference": "fa2ae56c44f03bed91a39bfc9822e31e7c5c38ce",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
-            "type": "library",
+            "type": "metapackage",
             "extra": {
                 "thanks": {
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
-                }
-            },
-            "autoload": {
-                "files": [
-                    "bootstrap.php"
-                ],
-                "psr-4": {
-                    "Symfony\\Polyfill\\Php72\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -11643,7 +11639,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php72/tree/v1.30.0"
+                "source": "https://github.com/symfony/polyfill-php72/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -11659,24 +11655,24 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-06-19T12:30:46+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.30.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "77fa7995ac1b21ab60769b7323d600a991a90433"
+                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/77fa7995ac1b21ab60769b7323d600a991a90433",
-                "reference": "77fa7995ac1b21ab60769b7323d600a991a90433",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/60328e362d4c2c802a54fcbf04f9d3fb892b4cf8",
+                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
             "type": "library",
             "extra": {
@@ -11723,7 +11719,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.30.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -11739,24 +11735,24 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-31T15:07:36+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "symfony/polyfill-php81",
-            "version": "v1.30.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php81.git",
-                "reference": "3fb075789fb91f9ad9af537c4012d523085bd5af"
+                "reference": "4a4cfc2d253c21a5ad0e53071df248ed48c6ce5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php81/zipball/3fb075789fb91f9ad9af537c4012d523085bd5af",
-                "reference": "3fb075789fb91f9ad9af537c4012d523085bd5af",
+                "url": "https://api.github.com/repos/symfony/polyfill-php81/zipball/4a4cfc2d253c21a5ad0e53071df248ed48c6ce5c",
+                "reference": "4a4cfc2d253c21a5ad0e53071df248ed48c6ce5c",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
             "type": "library",
             "extra": {
@@ -11799,7 +11795,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php81/tree/v1.30.0"
+                "source": "https://github.com/symfony/polyfill-php81/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -11815,7 +11811,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-06-19T12:30:46+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "symfony/polyfill-php83",
@@ -15729,16 +15725,16 @@
         },
         {
             "name": "phpstan/phpdoc-parser",
-            "version": "1.30.0",
+            "version": "1.30.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpdoc-parser.git",
-                "reference": "5ceb0e384997db59f38774bf79c2a6134252c08f"
+                "reference": "51b95ec8670af41009e2b2b56873bad96682413e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/5ceb0e384997db59f38774bf79c2a6134252c08f",
-                "reference": "5ceb0e384997db59f38774bf79c2a6134252c08f",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/51b95ec8670af41009e2b2b56873bad96682413e",
+                "reference": "51b95ec8670af41009e2b2b56873bad96682413e",
                 "shasum": ""
             },
             "require": {
@@ -15770,22 +15766,22 @@
             "description": "PHPDoc parser with support for nullable, intersection and generic types",
             "support": {
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
-                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.30.0"
+                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.30.1"
             },
-            "time": "2024-08-29T09:54:52+00:00"
+            "time": "2024-09-07T20:13:05+00:00"
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.12.1",
+            "version": "1.12.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "d8ed7fffa66de1db0d2972267d8ed1d8fa0fe5a2"
+                "reference": "0fcbf194ab63d8159bb70d9aa3e1350051632009"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/d8ed7fffa66de1db0d2972267d8ed1d8fa0fe5a2",
-                "reference": "d8ed7fffa66de1db0d2972267d8ed1d8fa0fe5a2",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/0fcbf194ab63d8159bb70d9aa3e1350051632009",
+                "reference": "0fcbf194ab63d8159bb70d9aa3e1350051632009",
                 "shasum": ""
             },
             "require": {
@@ -15830,7 +15826,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-03T19:55:22+00:00"
+            "time": "2024-09-09T08:10:35+00:00"
         },
         {
             "name": "phpstan/phpstan-deprecation-rules",
@@ -18062,20 +18058,20 @@
         },
         {
             "name": "symfony/polyfill-php73",
-            "version": "v1.30.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php73.git",
-                "reference": "ec444d3f3f6505bb28d11afa41e75faadebc10a1"
+                "reference": "0f68c03565dcaaf25a890667542e8bd75fe7e5bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php73/zipball/ec444d3f3f6505bb28d11afa41e75faadebc10a1",
-                "reference": "ec444d3f3f6505bb28d11afa41e75faadebc10a1",
+                "url": "https://api.github.com/repos/symfony/polyfill-php73/zipball/0f68c03565dcaaf25a890667542e8bd75fe7e5bb",
+                "reference": "0f68c03565dcaaf25a890667542e8bd75fe7e5bb",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
             "type": "library",
             "extra": {
@@ -18118,7 +18114,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php73/tree/v1.30.0"
+                "source": "https://github.com/symfony/polyfill-php73/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -18134,24 +18130,24 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-31T15:07:36+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "symfony/polyfill-php82",
-            "version": "v1.30.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php82.git",
-                "reference": "77ff49780f56906788a88974867ed68bc49fae5b"
+                "reference": "5d2ed36f7734637dacc025f179698031951b1692"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php82/zipball/77ff49780f56906788a88974867ed68bc49fae5b",
-                "reference": "77ff49780f56906788a88974867ed68bc49fae5b",
+                "url": "https://api.github.com/repos/symfony/polyfill-php82/zipball/5d2ed36f7734637dacc025f179698031951b1692",
+                "reference": "5d2ed36f7734637dacc025f179698031951b1692",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
             "type": "library",
             "extra": {
@@ -18194,7 +18190,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php82/tree/v1.30.0"
+                "source": "https://github.com/symfony/polyfill-php82/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -18210,7 +18206,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-06-19T12:30:46+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "theseer/tokenizer",
