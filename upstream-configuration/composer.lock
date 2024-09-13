@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "bc5358efaa280223503522f8911e4523cd02b8fa"
+                "reference": "2fa8dcc207f374ce277b6c490b4da807488ec199"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/bc5358efaa280223503522f8911e4523cd02b8fa",
-                "reference": "bc5358efaa280223503522f8911e4523cd02b8fa",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/2fa8dcc207f374ce277b6c490b4da807488ec199",
+                "reference": "2fa8dcc207f374ce277b6c490b4da807488ec199",
                 "shasum": ""
             },
             "default-branch": true,
@@ -986,7 +986,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-09-11T15:15:08+00:00"
+            "time": "2024-09-13T21:07:19+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "94e000a6cdcc09f230355ad4184a75d430748808"
+                "reference": "0e996c83e07d1bbab42923c7cc766617d96aa058"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/94e000a6cdcc09f230355ad4184a75d430748808",
-                "reference": "94e000a6cdcc09f230355ad4184a75d430748808",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/0e996c83e07d1bbab42923c7cc766617d96aa058",
+                "reference": "0e996c83e07d1bbab42923c7cc766617d96aa058",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1119,9 +1119,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20240911"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-09-11T15:22:15+00:00"
+            "time": "2024-09-11T18:13:41+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -2711,16 +2711,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "10.2.7",
+            "version": "10.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "4416c8a86e5b57b5acc595e4855ce50fdb6a542d"
+                "reference": "74106472294be770cb76d93bb5a239f7ce741716"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/4416c8a86e5b57b5acc595e4855ce50fdb6a542d",
-                "reference": "4416c8a86e5b57b5acc595e4855ce50fdb6a542d",
+                "url": "https://api.github.com/repos/drupal/core/zipball/74106472294be770cb76d93bb5a239f7ce741716",
+                "reference": "74106472294be770cb76d93bb5a239f7ce741716",
                 "shasum": ""
             },
             "require": {
@@ -2766,7 +2766,7 @@
                 "symfony/serializer": "^6.4",
                 "symfony/validator": "^6.4",
                 "symfony/yaml": "^6.4",
-                "twig/twig": "^3.5.0"
+                "twig/twig": "^3.14.0"
             },
             "conflict": {
                 "drush/drush": "<12.4.3"
@@ -2868,13 +2868,13 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/10.2.7"
+                "source": "https://github.com/drupal/core/tree/10.2.8"
             },
-            "time": "2024-06-06T07:25:42+00:00"
+            "time": "2024-09-11T16:27:41+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "10.2.7",
+            "version": "10.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -2918,13 +2918,13 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.2.7"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.2.8"
             },
             "time": "2024-04-09T07:27:23+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "10.2.7",
+            "version": "10.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -2959,22 +2959,22 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-project-message/tree/11.0.0-beta1"
+                "source": "https://github.com/drupal/core-project-message/tree/11.0.2"
             },
             "time": "2023-07-24T07:55:25+00:00"
         },
         {
             "name": "drupal/core-recommended",
-            "version": "10.2.7",
+            "version": "10.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "afaac96cde3b05179d11152ed646f9f6772e7a0e"
+                "reference": "9880260a404d28578cb23dcc104fc5d37dc9dc6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/afaac96cde3b05179d11152ed646f9f6772e7a0e",
-                "reference": "afaac96cde3b05179d11152ed646f9f6772e7a0e",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/9880260a404d28578cb23dcc104fc5d37dc9dc6f",
+                "reference": "9880260a404d28578cb23dcc104fc5d37dc9dc6f",
                 "shasum": ""
             },
             "require": {
@@ -2983,7 +2983,7 @@
                 "doctrine/annotations": "~1.14.3",
                 "doctrine/deprecations": "~1.1.2",
                 "doctrine/lexer": "~2.1.0",
-                "drupal/core": "10.2.7",
+                "drupal/core": "10.2.8",
                 "egulias/email-validator": "~4.0.2",
                 "guzzlehttp/guzzle": "~7.8.1",
                 "guzzlehttp/promises": "~2.0.2",
@@ -3032,7 +3032,7 @@
                 "symfony/var-dumper": "~v6.4.0",
                 "symfony/var-exporter": "~v6.4.1",
                 "symfony/yaml": "~v6.4.0",
-                "twig/twig": "~v3.8.0"
+                "twig/twig": "~v3.14.0"
             },
             "conflict": {
                 "webflo/drupal-core-strict": "*"
@@ -3044,9 +3044,9 @@
             ],
             "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/10.2.7"
+                "source": "https://github.com/drupal/core-recommended/tree/10.2.8"
             },
-            "time": "2024-06-06T07:25:42+00:00"
+            "time": "2024-09-11T16:27:41+00:00"
         },
         {
             "name": "drupal/crop",
@@ -3652,6 +3652,10 @@
                 {
                     "name": "hydra",
                     "homepage": "https://www.drupal.org/user/647364"
+                },
+                {
+                    "name": "joevagyok",
+                    "homepage": "https://www.drupal.org/user/2876343"
                 },
                 {
                     "name": "jyve",
@@ -4559,7 +4563,7 @@
                     "role": "Developer"
                 },
                 {
-                    "name": "Dave Reid",
+                    "name": "dave reid",
                     "homepage": "https://www.drupal.org/user/53892"
                 }
             ],
@@ -5719,7 +5723,7 @@
                     "role": "Contributor"
                 },
                 {
-                    "name": "Liam Morland",
+                    "name": "liam morland",
                     "homepage": "https://www.drupal.org/user/493050"
                 },
                 {
@@ -8850,6 +8854,48 @@
             "time": "2023-03-08T20:58:22+00:00"
         },
         {
+            "name": "simplesamlphp/composer-xmlprovider-installer",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/simplesamlphp/composer-xmlprovider-installer.git",
+                "reference": "44b6b90c6535a129be14ce6571606bc3f2fafa04"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/simplesamlphp/composer-xmlprovider-installer/zipball/44b6b90c6535a129be14ce6571606bc3f2fafa04",
+                "reference": "44b6b90c6535a129be14ce6571606bc3f2fafa04",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^2.0",
+                "php": "^8.1"
+            },
+            "require-dev": {
+                "composer/composer": "^2.4",
+                "simplesamlphp/simplesamlphp-test-framework": "^1.5.4"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "SimpleSAML\\Composer\\XMLProvider\\XMLProviderInstallerPlugin"
+            },
+            "autoload": {
+                "psr-4": {
+                    "SimpleSAML\\Composer\\XMLProvider\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-2.1-only"
+            ],
+            "description": "A composer plugin that will auto-generate a classmap with all classes that implement SerializableElementInterface.",
+            "support": {
+                "issues": "https://github.com/simplesamlphp/composer-xmlprovider-installer/issues",
+                "source": "https://github.com/simplesamlphp/composer-xmlprovider-installer/tree/v1.0.0"
+            },
+            "time": "2024-09-13T09:31:27+00:00"
+        },
+        {
             "name": "simplesamlphp/saml2",
             "version": "v4.6.12",
             "source": {
@@ -9075,16 +9121,16 @@
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.17.3",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "900bfedebfcbdd87b1fd19aa80e658c916d9c61a"
+                "reference": "b9b868409c812922b588dbb1e38051ca88054641"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/900bfedebfcbdd87b1fd19aa80e658c916d9c61a",
-                "reference": "900bfedebfcbdd87b1fd19aa80e658c916d9c61a",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/b9b868409c812922b588dbb1e38051ca88054641",
+                "reference": "b9b868409c812922b588dbb1e38051ca88054641",
                 "shasum": ""
             },
             "require": {
@@ -9095,12 +9141,14 @@
                 "ext-spl": "*",
                 "ext-xmlreader": "*",
                 "php": "^8.1",
-                "simplesamlphp/assert": "^1.2"
+                "simplesamlphp/assert": "^1.2",
+                "simplesamlphp/composer-xmlprovider-installer": "~1.0.0",
+                "symfony/finder": "^6.4"
             },
             "require-dev": {
                 "simplesamlphp/simplesamlphp-test-framework": "^1.7"
             },
-            "type": "project",
+            "type": "simplesamlphp-xmlprovider",
             "autoload": {
                 "psr-4": {
                     "SimpleSAML\\XML\\": "src/"
@@ -9130,20 +9178,20 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-09-06T20:26:50+00:00"
+            "time": "2024-09-13T16:14:15+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",
-            "version": "v1.8.7",
+            "version": "v1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-security.git",
-                "reference": "10071025f286b49edd7f30a12ab216515c170925"
+                "reference": "446cbf3aed7f4673fb7e03083ece76a468220c44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/10071025f286b49edd7f30a12ab216515c170925",
-                "reference": "10071025f286b49edd7f30a12ab216515c170925",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/446cbf3aed7f4673fb7e03083ece76a468220c44",
+                "reference": "446cbf3aed7f4673fb7e03083ece76a468220c44",
                 "shasum": ""
             },
             "require": {
@@ -9154,11 +9202,11 @@
                 "ext-pcre": "*",
                 "ext-spl": "*",
                 "php": "^8.1",
-                "simplesamlphp/assert": "^1.1",
-                "simplesamlphp/xml-common": "^1.15"
+                "simplesamlphp/assert": "^1.3",
+                "simplesamlphp/xml-common": "^1.18"
             },
             "require-dev": {
-                "simplesamlphp/simplesamlphp-test-framework": "^1.5"
+                "simplesamlphp/simplesamlphp-test-framework": "^1.7"
             },
             "type": "library",
             "autoload": {
@@ -9192,9 +9240,9 @@
             ],
             "support": {
                 "issues": "https://github.com/simplesamlphp/xml-security/issues",
-                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.8.7"
+                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.9.0"
             },
-            "time": "2024-09-03T18:57:31+00:00"
+            "time": "2024-09-13T19:02:32+00:00"
         },
         {
             "name": "symfony/cache",
@@ -12603,22 +12651,22 @@
         },
         {
             "name": "twig/intl-extra",
-            "version": "v3.9.0",
+            "version": "v3.13.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/intl-extra.git",
-                "reference": "89781f6d97981397c8c8a13ca679919f39628c75"
+                "reference": "1b8d78c5db08bdc61015fd55009d2e84b3aa7e38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/intl-extra/zipball/89781f6d97981397c8c8a13ca679919f39628c75",
-                "reference": "89781f6d97981397c8c8a13ca679919f39628c75",
+                "url": "https://api.github.com/repos/twigphp/intl-extra/zipball/1b8d78c5db08bdc61015fd55009d2e84b3aa7e38",
+                "reference": "1b8d78c5db08bdc61015fd55009d2e84b3aa7e38",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2.5",
+                "php": ">=8.0.2",
                 "symfony/intl": "^5.4|^6.4|^7.0",
-                "twig/twig": "^3.0"
+                "twig/twig": "^3.13|^4.0"
             },
             "require-dev": {
                 "symfony/phpunit-bridge": "^6.4|^7.0"
@@ -12651,7 +12699,7 @@
                 "twig"
             ],
             "support": {
-                "source": "https://github.com/twigphp/intl-extra/tree/v3.9.0"
+                "source": "https://github.com/twigphp/intl-extra/tree/v3.13.0"
             },
             "funding": [
                 {
@@ -12663,34 +12711,41 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-03T15:08:24+00:00"
+            "time": "2024-09-03T13:08:40+00:00"
         },
         {
             "name": "twig/twig",
-            "version": "v3.8.0",
+            "version": "v3.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "9d15f0ac07f44dc4217883ec6ae02fd555c6f71d"
+                "reference": "126b2c97818dbff0cdf3fbfc881aedb3d40aae72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/9d15f0ac07f44dc4217883ec6ae02fd555c6f71d",
-                "reference": "9d15f0ac07f44dc4217883ec6ae02fd555c6f71d",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/126b2c97818dbff0cdf3fbfc881aedb3d40aae72",
+                "reference": "126b2c97818dbff0cdf3fbfc881aedb3d40aae72",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2.5",
+                "php": ">=8.0.2",
+                "symfony/deprecation-contracts": "^2.5|^3",
                 "symfony/polyfill-ctype": "^1.8",
                 "symfony/polyfill-mbstring": "^1.3",
-                "symfony/polyfill-php80": "^1.22"
+                "symfony/polyfill-php81": "^1.29"
             },
             "require-dev": {
                 "psr/container": "^1.0|^2.0",
-                "symfony/phpunit-bridge": "^5.4.9|^6.3|^7.0"
+                "symfony/phpunit-bridge": "^5.4.9|^6.4|^7.0"
             },
             "type": "library",
             "autoload": {
+                "files": [
+                    "src/Resources/core.php",
+                    "src/Resources/debug.php",
+                    "src/Resources/escaper.php",
+                    "src/Resources/string_loader.php"
+                ],
                 "psr-4": {
                     "Twig\\": "src/"
                 }
@@ -12723,7 +12778,7 @@
             ],
             "support": {
                 "issues": "https://github.com/twigphp/Twig/issues",
-                "source": "https://github.com/twigphp/Twig/tree/v3.8.0"
+                "source": "https://github.com/twigphp/Twig/tree/v3.14.0"
             },
             "funding": [
                 {
@@ -12735,7 +12790,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-11-21T18:54:41+00:00"
+            "time": "2024-09-09T17:55:12+00:00"
         },
         {
             "name": "webflo/drupal-finder",
