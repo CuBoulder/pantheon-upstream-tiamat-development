@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "3ddad9da6fd3976949b32faa2fee7b3f5dc4e4a0"
+                "reference": "50be2fd9827175bf05799c1fb211d0cdd86af781"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/3ddad9da6fd3976949b32faa2fee7b3f5dc4e4a0",
-                "reference": "3ddad9da6fd3976949b32faa2fee7b3f5dc4e4a0",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/50be2fd9827175bf05799c1fb211d0cdd86af781",
+                "reference": "50be2fd9827175bf05799c1fb211d0cdd86af781",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240911"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-09-11T15:23:50+00:00"
+            "time": "2024-09-16T19:03:48+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "2fa8dcc207f374ce277b6c490b4da807488ec199"
+                "reference": "54fbf9ede9c3b25f73c6e6178da45913487f9c58"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/2fa8dcc207f374ce277b6c490b4da807488ec199",
-                "reference": "2fa8dcc207f374ce277b6c490b4da807488ec199",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/54fbf9ede9c3b25f73c6e6178da45913487f9c58",
+                "reference": "54fbf9ede9c3b25f73c6e6178da45913487f9c58",
                 "shasum": ""
             },
             "default-branch": true,
@@ -986,7 +986,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-09-13T21:07:19+00:00"
+            "time": "2024-09-13T21:07:38+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1210,12 +1210,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_linkmod.git",
-                "reference": "cc46539c028bdc4db2f7ff246180e26348a8a9ee"
+                "reference": "0d01a49ed9e39dcd944eef0dab17659aa0299f1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/cc46539c028bdc4db2f7ff246180e26348a8a9ee",
-                "reference": "cc46539c028bdc4db2f7ff246180e26348a8a9ee",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_linkmod/zipball/0d01a49ed9e39dcd944eef0dab17659aa0299f1a",
+                "reference": "0d01a49ed9e39dcd944eef0dab17659aa0299f1a",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1229,7 +1229,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_linkmod/issues",
                 "source": "https://github.com/CuBoulder/ucb_linkmod/tree/main"
             },
-            "time": "2024-09-10T15:18:39+00:00"
+            "time": "2024-09-17T20:15:33+00:00"
         },
         {
             "name": "cu-boulder/ucb_migration_shortcodes",
@@ -7258,16 +7258,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.1.0",
+            "version": "v5.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "683130c2ff8c2739f4822ff7ac5c873ec529abd1"
+                "reference": "23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/683130c2ff8c2739f4822ff7ac5c873ec529abd1",
-                "reference": "683130c2ff8c2739f4822ff7ac5c873ec529abd1",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb",
+                "reference": "23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb",
                 "shasum": ""
             },
             "require": {
@@ -7310,9 +7310,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.1.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.2.0"
             },
-            "time": "2024-07-01T20:03:41+00:00"
+            "time": "2024-09-15T16:40:33+00:00"
         },
         {
             "name": "npm-asset/codemirror",
@@ -8753,16 +8753,16 @@
         },
         {
             "name": "simplesamlphp/assert",
-            "version": "v1.3.0",
+            "version": "v1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/assert.git",
-                "reference": "7b7ef2a68eb0e36e67915ebd802e1bb29483d7d9"
+                "reference": "384be054001819fe31fdc33d67dd1c0828521d39"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/7b7ef2a68eb0e36e67915ebd802e1bb29483d7d9",
-                "reference": "7b7ef2a68eb0e36e67915ebd802e1bb29483d7d9",
+                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/384be054001819fe31fdc33d67dd1c0828521d39",
+                "reference": "384be054001819fe31fdc33d67dd1c0828521d39",
                 "shasum": ""
             },
             "require": {
@@ -8806,9 +8806,9 @@
             "description": "A wrapper around webmozart/assert to make it useful beyond checking method arguments",
             "support": {
                 "issues": "https://github.com/simplesamlphp/assert/issues",
-                "source": "https://github.com/simplesamlphp/assert/tree/v1.3.0"
+                "source": "https://github.com/simplesamlphp/assert/tree/v1.3.1"
             },
-            "time": "2024-07-26T11:30:06+00:00"
+            "time": "2024-09-12T09:51:39+00:00"
         },
         {
             "name": "simplesamlphp/composer-module-installer",
@@ -8855,16 +8855,16 @@
         },
         {
             "name": "simplesamlphp/composer-xmlprovider-installer",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/composer-xmlprovider-installer.git",
-                "reference": "44b6b90c6535a129be14ce6571606bc3f2fafa04"
+                "reference": "ce09a877a1de9469f1a872f04703d75d6bafcdc6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/composer-xmlprovider-installer/zipball/44b6b90c6535a129be14ce6571606bc3f2fafa04",
-                "reference": "44b6b90c6535a129be14ce6571606bc3f2fafa04",
+                "url": "https://api.github.com/repos/simplesamlphp/composer-xmlprovider-installer/zipball/ce09a877a1de9469f1a872f04703d75d6bafcdc6",
+                "reference": "ce09a877a1de9469f1a872f04703d75d6bafcdc6",
                 "shasum": ""
             },
             "require": {
@@ -8891,9 +8891,9 @@
             "description": "A composer plugin that will auto-generate a classmap with all classes that implement SerializableElementInterface.",
             "support": {
                 "issues": "https://github.com/simplesamlphp/composer-xmlprovider-installer/issues",
-                "source": "https://github.com/simplesamlphp/composer-xmlprovider-installer/tree/v1.0.0"
+                "source": "https://github.com/simplesamlphp/composer-xmlprovider-installer/tree/v1.0.1"
             },
-            "time": "2024-09-13T09:31:27+00:00"
+            "time": "2024-09-15T22:34:50+00:00"
         },
         {
             "name": "simplesamlphp/saml2",
@@ -9121,16 +9121,16 @@
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.18.1",
+            "version": "v1.18.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "b9b868409c812922b588dbb1e38051ca88054641"
+                "reference": "28e447e0f10fa3b0a3c3d069d49c4036e15c95a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/b9b868409c812922b588dbb1e38051ca88054641",
-                "reference": "b9b868409c812922b588dbb1e38051ca88054641",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/28e447e0f10fa3b0a3c3d069d49c4036e15c95a1",
+                "reference": "28e447e0f10fa3b0a3c3d069d49c4036e15c95a1",
                 "shasum": ""
             },
             "require": {
@@ -9178,20 +9178,20 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-09-13T16:14:15+00:00"
+            "time": "2024-09-16T16:12:12+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",
-            "version": "v1.9.0",
+            "version": "v1.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-security.git",
-                "reference": "446cbf3aed7f4673fb7e03083ece76a468220c44"
+                "reference": "91e31f5930305e84ad92d573faf817abc8ad09c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/446cbf3aed7f4673fb7e03083ece76a468220c44",
-                "reference": "446cbf3aed7f4673fb7e03083ece76a468220c44",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/91e31f5930305e84ad92d573faf817abc8ad09c9",
+                "reference": "91e31f5930305e84ad92d573faf817abc8ad09c9",
                 "shasum": ""
             },
             "require": {
@@ -9208,7 +9208,7 @@
             "require-dev": {
                 "simplesamlphp/simplesamlphp-test-framework": "^1.7"
             },
-            "type": "library",
+            "type": "simplesamlphp-xmlprovider",
             "autoload": {
                 "psr-4": {
                     "SimpleSAML\\XMLSecurity\\": "src/"
@@ -9240,9 +9240,9 @@
             ],
             "support": {
                 "issues": "https://github.com/simplesamlphp/xml-security/issues",
-                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.9.0"
+                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.9.5"
             },
-            "time": "2024-09-13T19:02:32+00:00"
+            "time": "2024-09-16T21:10:04+00:00"
         },
         {
             "name": "symfony/cache",
