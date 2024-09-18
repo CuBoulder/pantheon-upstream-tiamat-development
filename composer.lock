@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "50be2fd9827175bf05799c1fb211d0cdd86af781"
+                "reference": "1cdc74a147229a74436828e63c779377fc32af67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/50be2fd9827175bf05799c1fb211d0cdd86af781",
-                "reference": "50be2fd9827175bf05799c1fb211d0cdd86af781",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1cdc74a147229a74436828e63c779377fc32af67",
+                "reference": "1cdc74a147229a74436828e63c779377fc32af67",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-09-16T19:03:48+00:00"
+            "time": "2024-09-18T19:05:55+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "f60d11c154bd666e8d669580b96f1d18cb2788a8"
+                "reference": "501d908ebfd6f4ecd401620610bca99198e88789"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/f60d11c154bd666e8d669580b96f1d18cb2788a8",
-                "reference": "f60d11c154bd666e8d669580b96f1d18cb2788a8",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/501d908ebfd6f4ecd401620610bca99198e88789",
+                "reference": "501d908ebfd6f4ecd401620610bca99198e88789",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240911"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240918"
             },
-            "time": "2024-09-11T15:21:52+00:00"
+            "time": "2024-09-18T18:36:43+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1021,12 +1021,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "48dc6585a3351e7a49c4318258a1082425a8d741"
+                "reference": "7be1b91cb0300d1c17e73ecefea45672355c9aea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/48dc6585a3351e7a49c4318258a1082425a8d741",
-                "reference": "48dc6585a3351e7a49c4318258a1082425a8d741",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/7be1b91cb0300d1c17e73ecefea45672355c9aea",
+                "reference": "7be1b91cb0300d1c17e73ecefea45672355c9aea",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1040,7 +1040,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2024-08-20T21:34:06+00:00"
+            "time": "2024-09-18T18:25:46+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "0e996c83e07d1bbab42923c7cc766617d96aa058"
+                "reference": "0b90548622b1006652e65fd4bb4e99d15f1bb774"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/0e996c83e07d1bbab42923c7cc766617d96aa058",
-                "reference": "0e996c83e07d1bbab42923c7cc766617d96aa058",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/0b90548622b1006652e65fd4bb4e99d15f1bb774",
+                "reference": "0b90548622b1006652e65fd4bb4e99d15f1bb774",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1119,9 +1119,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20240918"
             },
-            "time": "2024-09-11T18:13:41+00:00"
+            "time": "2024-09-18T18:36:16+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -17673,16 +17673,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.10.2",
+            "version": "3.10.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "86e5f5dd9a840c46810ebe5ff1885581c42a3017"
+                "reference": "62d32998e820bddc40f99f8251958aed187a5c9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/86e5f5dd9a840c46810ebe5ff1885581c42a3017",
-                "reference": "86e5f5dd9a840c46810ebe5ff1885581c42a3017",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/62d32998e820bddc40f99f8251958aed187a5c9c",
+                "reference": "62d32998e820bddc40f99f8251958aed187a5c9c",
                 "shasum": ""
             },
             "require": {
@@ -17749,7 +17749,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2024-07-21T23:26:44+00:00"
+            "time": "2024-09-18T10:38:58+00:00"
         },
         {
             "name": "symfony/browser-kit",
