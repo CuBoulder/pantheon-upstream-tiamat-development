@@ -10,9 +10,7 @@ on:
 
 jobs:
   update_and_deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: CuBoulder/action-collection/.github/workflows/sandbox-ci.yml@AlanBCole/issue4
-        with:
-          terminus_token: secrets.terminus_token
-          sandbox_site_name: secrets.sandbox_site_name
+    uses: CuBoulder/action-collection/.github/workflows/sandbox-ci.yml@AlanBCole/issue4
+    with:
+      terminus_token: secrets.terminus_token
+      sandbox_site_name: secrets.sandbox_site_name
