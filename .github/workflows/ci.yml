@@ -1,0 +1,18 @@
+name: attach development pipeline
+
+on:
+  workflow_call:
+    secrets:
+      terminus_token:
+        required: true
+      sandbox_site_name:
+        required: true
+
+jobs:
+  update_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CuBoulder/action-collection/.github/workflows/sandbox-ci.yml@AlanBCole/issue4
+        with:
+          terminus_token: secrets.terminus_token
+          sandbox_site_name: secrets.sandbox_site_name
