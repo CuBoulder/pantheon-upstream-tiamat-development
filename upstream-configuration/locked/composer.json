@@ -102,7 +102,7 @@
         "drupal/config_update": "2.0.0-alpha4",
         "asm89/stack-cors": "v2.2.0",
         "chi-teck/drupal-code-generator": "3.6.1",
-        "composer/semver": "3.4.2",
+        "composer/semver": "3.4.3",
         "consolidation/annotated-command": "4.10.0",
         "consolidation/config": "2.1.2",
         "consolidation/filter-via-dot-access-data": "2.0.2",

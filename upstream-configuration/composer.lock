@@ -285,24 +285,24 @@
         },
         {
             "name": "composer/semver",
-            "version": "3.4.2",
+            "version": "3.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/semver.git",
-                "reference": "c51258e759afdb17f1fd1fe83bc12baaef6309d6"
+                "reference": "4313d26ada5e0c4edfbd1dc481a92ff7bff91f12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/semver/zipball/c51258e759afdb17f1fd1fe83bc12baaef6309d6",
-                "reference": "c51258e759afdb17f1fd1fe83bc12baaef6309d6",
+                "url": "https://api.github.com/repos/composer/semver/zipball/4313d26ada5e0c4edfbd1dc481a92ff7bff91f12",
+                "reference": "4313d26ada5e0c4edfbd1dc481a92ff7bff91f12",
                 "shasum": ""
             },
             "require": {
                 "php": "^5.3.2 || ^7.0 || ^8.0"
             },
             "require-dev": {
-                "phpstan/phpstan": "^1.4",
-                "symfony/phpunit-bridge": "^4.2 || ^5"
+                "phpstan/phpstan": "^1.11",
+                "symfony/phpunit-bridge": "^3 || ^7"
             },
             "type": "library",
             "extra": {
@@ -346,7 +346,7 @@
             "support": {
                 "irc": "ircs://irc.libera.chat:6697/composer",
                 "issues": "https://github.com/composer/semver/issues",
-                "source": "https://github.com/composer/semver/tree/3.4.2"
+                "source": "https://github.com/composer/semver/tree/3.4.3"
             },
             "funding": [
                 {
@@ -362,7 +362,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-12T11:35:52+00:00"
+            "time": "2024-09-19T14:15:21+00:00"
         },
         {
             "name": "consolidation/annotated-command",
@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "1cdc74a147229a74436828e63c779377fc32af67"
+                "reference": "0dd1436add5bdf0e7d505e5b35bd98313c98f33d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1cdc74a147229a74436828e63c779377fc32af67",
-                "reference": "1cdc74a147229a74436828e63c779377fc32af67",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/0dd1436add5bdf0e7d505e5b35bd98313c98f33d",
+                "reference": "0dd1436add5bdf0e7d505e5b35bd98313c98f33d",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-09-18T19:05:55+00:00"
+            "time": "2024-09-19T22:23:36+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "501d908ebfd6f4ecd401620610bca99198e88789"
+                "reference": "40afaddbbca0796fc06dc456b61527d3625f2efa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/501d908ebfd6f4ecd401620610bca99198e88789",
-                "reference": "501d908ebfd6f4ecd401620610bca99198e88789",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/40afaddbbca0796fc06dc456b61527d3625f2efa",
+                "reference": "40afaddbbca0796fc06dc456b61527d3625f2efa",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240918"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240919"
             },
-            "time": "2024-09-18T18:36:43+00:00"
+            "time": "2024-09-19T22:48:08+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
