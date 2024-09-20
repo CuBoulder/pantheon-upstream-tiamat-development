@@ -1,0 +1,10 @@
+name: attach development pipeline
+
+on: workflow_call
+
+jobs:
+  update_and_deploy:
+    uses: CuBoulder/action-collection/.github/workflows/sandbox-ci.yml@AlanBCole/issue4
+    with:
+      terminus_token: ${{ secrets.terminus_token }}
+      sandbox_site_name: ${{ secrets.sandbox_site_name }}
