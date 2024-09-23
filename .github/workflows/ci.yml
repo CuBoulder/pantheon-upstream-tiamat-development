@@ -1,6 +1,6 @@
 name: attach development pipeline
 
-on: workflow_call
+on: workflow_dispatch
 
 jobs:
   update_and_deploy:
