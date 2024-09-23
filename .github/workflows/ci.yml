@@ -6,5 +6,5 @@ jobs:
   update_and_deploy:
     uses: CuBoulder/action-collection/.github/workflows/sandbox-ci.yml@AlanBCole/issue4
     with:
-      terminus_token: ${{ secrets.TERMINUS_TOKEN }}
-      sandbox_site_name: ${{ secrets.SANDBOX_SITE_NAME }}
+      terminus_token: secrets.TERMINUS_TOKEN
+      sandbox_site_name: secrets.SANDBOX_SITE_NAME
