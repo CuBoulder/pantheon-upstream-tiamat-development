@@ -1,5 +1,5 @@
 {
-    "name": "cu-boulder/tiamat_upstream",
+    "name": "cu-boulder/tiamat_developer_sandbox",
     "description": "Install Tiamat with Composer on Pantheon.",
     "type": "project",
     "license": "GPL-2.0-or-later",
