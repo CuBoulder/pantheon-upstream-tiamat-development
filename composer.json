@@ -105,7 +105,8 @@
             "drupal/core-project-message": true,
             "php-http/discovery": true,
             "pantheon-systems/upstream-management": true,
-            "oomphinc/composer-installers-extender": true
+            "oomphinc/composer-installers-extender": true,
+            "simplesamlphp/composer-xmlprovider-installer": true
         }
     },
     "scripts": {
