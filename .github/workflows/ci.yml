@@ -1,6 +1,9 @@
 name: attach development pipeline
 
 on: workflow_dispatch
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   update_and_deploy:
