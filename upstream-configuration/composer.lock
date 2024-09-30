@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "1726727f0fbd760745c69fb31c5333b9d197ef3a"
+                "reference": "f69490b0865d2c0ea6fbc4a17548430a10ba4b45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1726727f0fbd760745c69fb31c5333b9d197ef3a",
-                "reference": "1726727f0fbd760745c69fb31c5333b9d197ef3a",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/f69490b0865d2c0ea6fbc4a17548430a10ba4b45",
+                "reference": "f69490b0865d2c0ea6fbc4a17548430a10ba4b45",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240925"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-09-25T19:33:37+00:00"
+            "time": "2024-09-26T16:27:22+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1156,12 +1156,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "227ad6af526c9e8233374826db772e51a2e18864"
+                "reference": "6355c18ddd1df2fe6792ec010de1470439b35594"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/227ad6af526c9e8233374826db772e51a2e18864",
-                "reference": "227ad6af526c9e8233374826db772e51a2e18864",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/6355c18ddd1df2fe6792ec010de1470439b35594",
+                "reference": "6355c18ddd1df2fe6792ec010de1470439b35594",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1175,7 +1175,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
                 "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/main"
             },
-            "time": "2024-08-14T22:21:53+00:00"
+            "time": "2024-09-30T20:39:54+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
@@ -4717,20 +4717,20 @@
         },
         {
             "name": "drupal/pantheon_advanced_page_cache",
-            "version": "2.2.0",
+            "version": "2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/pantheon_advanced_page_cache.git",
-                "reference": "2.2.0"
+                "reference": "2.3.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/pantheon_advanced_page_cache-2.2.0.zip",
-                "reference": "2.2.0",
-                "shasum": "2404a92479e41d2bc60d477de14713dbe5b41b71"
+                "url": "https://ftp.drupal.org/files/projects/pantheon_advanced_page_cache-2.3.0.zip",
+                "reference": "2.3.0",
+                "shasum": "4873930901e4c90b3fcaf2d4d6c260764a3e28f9"
             },
             "require": {
-                "drupal/core": "^9.4 || ^10"
+                "drupal/core": "^9.4 || ^10 || ^11"
             },
             "require-dev": {
                 "drupal/coder": "^8.2",
@@ -4740,8 +4740,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.0",
-                    "datestamp": "1711466862",
+                    "version": "2.3.0",
+                    "datestamp": "1727726477",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4774,7 +4774,7 @@
             ],
             "authors": [
                 {
-                    "name": "David Strauss",
+                    "name": "david strauss",
                     "homepage": "https://www.drupal.org/user/93254"
                 },
                 {
@@ -7258,16 +7258,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.2.0",
+            "version": "v5.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb"
+                "reference": "3abf7425cd284141dc5d8d14a9ee444de3345d1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb",
-                "reference": "23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/3abf7425cd284141dc5d8d14a9ee444de3345d1a",
+                "reference": "3abf7425cd284141dc5d8d14a9ee444de3345d1a",
                 "shasum": ""
             },
             "require": {
@@ -7310,9 +7310,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.2.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.3.0"
             },
-            "time": "2024-09-15T16:40:33+00:00"
+            "time": "2024-09-29T13:56:26+00:00"
         },
         {
             "name": "npm-asset/codemirror",
