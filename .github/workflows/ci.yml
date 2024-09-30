@@ -7,5 +7,5 @@ concurrency:
 
 jobs:
   update_and_deploy:
-    uses: CuBoulder/action-collection/.github/workflows/sandbox-ci.yml@AlanBCole/issue4
+    uses: CuBoulder/action-collection/.github/workflows/sandbox-ci.yml@main
     secrets: inherit
