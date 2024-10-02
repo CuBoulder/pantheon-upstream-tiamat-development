@@ -106,7 +106,8 @@
             "php-http/discovery": true,
             "pantheon-systems/upstream-management": true,
             "oomphinc/composer-installers-extender": true,
-            "simplesamlphp/composer-xmlprovider-installer": true
+            "simplesamlphp/composer-xmlprovider-installer": true,
+            "tbachert/spi": true
         }
     },
     "scripts": {
