@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "a1478d19a6f411bd86f4d91ecf3a1f0ef0f9e646"
+                "reference": "48391f8a147a67486781c9223ff2a33835138894"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/a1478d19a6f411bd86f4d91ecf3a1f0ef0f9e646",
-                "reference": "a1478d19a6f411bd86f4d91ecf3a1f0ef0f9e646",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/48391f8a147a67486781c9223ff2a33835138894",
+                "reference": "48391f8a147a67486781c9223ff2a33835138894",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241118"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241120"
             },
-            "time": "2024-11-18T22:20:00+00:00"
+            "time": "2024-11-20T17:19:10+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "de87489eef5667f9c926e8ec3ceea7915435d358"
+                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/de87489eef5667f9c926e8ec3ceea7915435d358",
-                "reference": "de87489eef5667f9c926e8ec3ceea7915435d358",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/942703eb78bc68c4308fc47dc7b49a56f6455189",
+                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241113"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241120"
             },
-            "time": "2024-11-13T17:04:52+00:00"
+            "time": "2024-11-20T17:17:19+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "ebae80413f55ab5f089cd3ae778e4522cee81261"
+                "reference": "e996b7d6c2f65995e56503be3fd2af9671d6d7e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/ebae80413f55ab5f089cd3ae778e4522cee81261",
-                "reference": "ebae80413f55ab5f089cd3ae778e4522cee81261",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/e996b7d6c2f65995e56503be3fd2af9671d6d7e2",
+                "reference": "e996b7d6c2f65995e56503be3fd2af9671d6d7e2",
                 "shasum": ""
             },
             "default-branch": true,
@@ -986,7 +986,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-10-15T21:47:01+00:00"
+            "time": "2024-11-19T23:48:21+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6"
+                "reference": "10346080ac07a756c7e4ab2546a83ecf78924ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6",
-                "reference": "1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/10346080ac07a756c7e4ab2546a83ecf78924ed0",
+                "reference": "10346080ac07a756c7e4ab2546a83ecf78924ed0",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1121,7 +1121,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2024-10-15T21:50:21+00:00"
+            "time": "2024-11-20T00:16:08+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "ec4718d6e1412fb145052b8543ca614bc344ea3c"
+                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/ec4718d6e1412fb145052b8543ca614bc344ea3c",
-                "reference": "ec4718d6e1412fb145052b8543ca614bc344ea3c",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
+                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241113"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241120"
             },
-            "time": "2024-11-13T17:05:38+00:00"
+            "time": "2024-11-20T17:17:38+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "46d8b2eb9f91a09ceb07160d4697f709a09dba93"
+                "reference": "dd34c79c150550b116317e2c865745917255ada6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/46d8b2eb9f91a09ceb07160d4697f709a09dba93",
-                "reference": "46d8b2eb9f91a09ceb07160d4697f709a09dba93",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/dd34c79c150550b116317e2c865745917255ada6",
+                "reference": "dd34c79c150550b116317e2c865745917255ada6",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2024-11-12T23:37:11+00:00"
+            "time": "2024-11-19T23:42:21+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -7767,7 +7767,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "8868435b437ff3b3e84e0aca0ea48462d42cb545"
+                "reference": "84bfd2ae33546546c00cd4178f0f37e05e5b640a"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7923,10 +7923,10 @@
                 "psr/log": "3.0.2",
                 "psy/psysh": "v0.12.4",
                 "ralouphie/getallheaders": "3.0.3",
-                "robrichards/xmlseclibs": "3.1.1",
+                "robrichards/xmlseclibs": "3.1.2",
                 "sebastian/diff": "4.0.6",
                 "simplehtmldom/simplehtmldom": "2.0-RC2",
-                "simplesamlphp/assert": "v1.4.0",
+                "simplesamlphp/assert": "v1.5.0",
                 "simplesamlphp/composer-module-installer": "v1.3.5",
                 "simplesamlphp/composer-xmlprovider-installer": "v1.0.1",
                 "simplesamlphp/saml2": "v4.6.12",
@@ -8948,16 +8948,16 @@
         },
         {
             "name": "robrichards/xmlseclibs",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/robrichards/xmlseclibs.git",
-                "reference": "f8f19e58f26cdb42c54b214ff8a820760292f8df"
+                "reference": "56361cc2970162539ffbaaaaecb8127a715f380f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/f8f19e58f26cdb42c54b214ff8a820760292f8df",
-                "reference": "f8f19e58f26cdb42c54b214ff8a820760292f8df",
+                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/56361cc2970162539ffbaaaaecb8127a715f380f",
+                "reference": "56361cc2970162539ffbaaaaecb8127a715f380f",
                 "shasum": ""
             },
             "require": {
@@ -8984,9 +8984,9 @@
             ],
             "support": {
                 "issues": "https://github.com/robrichards/xmlseclibs/issues",
-                "source": "https://github.com/robrichards/xmlseclibs/tree/3.1.1"
+                "source": "https://github.com/robrichards/xmlseclibs/tree/3.1.2"
             },
-            "time": "2020-09-05T13:00:25+00:00"
+            "time": "2024-11-20T13:01:55+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -9131,16 +9131,16 @@
         },
         {
             "name": "simplesamlphp/assert",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/assert.git",
-                "reference": "cf9465870eb9fb52103e045217f6dca19aee7c84"
+                "reference": "f6872f002d34b8e20c19d0823b107d2c74ddfd9d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/cf9465870eb9fb52103e045217f6dca19aee7c84",
-                "reference": "cf9465870eb9fb52103e045217f6dca19aee7c84",
+                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/f6872f002d34b8e20c19d0823b107d2c74ddfd9d",
+                "reference": "f6872f002d34b8e20c19d0823b107d2c74ddfd9d",
                 "shasum": ""
             },
             "require": {
@@ -9184,9 +9184,9 @@
             "description": "A wrapper around webmozart/assert to make it useful beyond checking method arguments",
             "support": {
                 "issues": "https://github.com/simplesamlphp/assert/issues",
-                "source": "https://github.com/simplesamlphp/assert/tree/v1.4.0"
+                "source": "https://github.com/simplesamlphp/assert/tree/v1.5.0"
             },
-            "time": "2024-10-28T22:10:22+00:00"
+            "time": "2024-11-19T18:52:10+00:00"
         },
         {
             "name": "simplesamlphp/composer-module-installer",
@@ -15821,26 +15821,27 @@
         },
         {
             "name": "phpspec/prophecy",
-            "version": "v1.19.0",
+            "version": "v1.20.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy.git",
-                "reference": "67a759e7d8746d501c41536ba40cd9c0a07d6a87"
+                "reference": "a0165c648cab6a80311c74ffc708a07bb53ecc93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/67a759e7d8746d501c41536ba40cd9c0a07d6a87",
-                "reference": "67a759e7d8746d501c41536ba40cd9c0a07d6a87",
+                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/a0165c648cab6a80311c74ffc708a07bb53ecc93",
+                "reference": "a0165c648cab6a80311c74ffc708a07bb53ecc93",
                 "shasum": ""
             },
             "require": {
                 "doctrine/instantiator": "^1.2 || ^2.0",
-                "php": "^7.2 || 8.0.* || 8.1.* || 8.2.* || 8.3.*",
+                "php": "^7.2 || 8.0.* || 8.1.* || 8.2.* || 8.3.* || 8.4.*",
                 "phpdocumentor/reflection-docblock": "^5.2",
                 "sebastian/comparator": "^3.0 || ^4.0 || ^5.0 || ^6.0",
                 "sebastian/recursion-context": "^3.0 || ^4.0 || ^5.0 || ^6.0"
             },
             "require-dev": {
+                "friendsofphp/php-cs-fixer": "^3.40",
                 "phpspec/phpspec": "^6.0 || ^7.0",
                 "phpstan/phpstan": "^1.9",
                 "phpunit/phpunit": "^8.0 || ^9.0 || ^10.0"
@@ -15884,28 +15885,31 @@
             ],
             "support": {
                 "issues": "https://github.com/phpspec/prophecy/issues",
-                "source": "https://github.com/phpspec/prophecy/tree/v1.19.0"
+                "source": "https://github.com/phpspec/prophecy/tree/v1.20.0"
             },
-            "time": "2024-02-29T11:52:51+00:00"
+            "time": "2024-11-19T13:12:41+00:00"
         },
         {
             "name": "phpspec/prophecy-phpunit",
-            "version": "v2.2.0",
+            "version": "v2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy-phpunit.git",
-                "reference": "16e1247e139434bce0bac09848bc5c8d882940fc"
+                "reference": "8819516c1b489ecee4c60db5f5432fac1ea8ac6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy-phpunit/zipball/16e1247e139434bce0bac09848bc5c8d882940fc",
-                "reference": "16e1247e139434bce0bac09848bc5c8d882940fc",
+                "url": "https://api.github.com/repos/phpspec/prophecy-phpunit/zipball/8819516c1b489ecee4c60db5f5432fac1ea8ac6f",
+                "reference": "8819516c1b489ecee4c60db5f5432fac1ea8ac6f",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.3 || ^8",
                 "phpspec/prophecy": "^1.18",
                 "phpunit/phpunit": "^9.1 || ^10.1 || ^11.0"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "^1.10"
             },
             "type": "library",
             "extra": {
@@ -15936,9 +15940,9 @@
             ],
             "support": {
                 "issues": "https://github.com/phpspec/prophecy-phpunit/issues",
-                "source": "https://github.com/phpspec/prophecy-phpunit/tree/v2.2.0"
+                "source": "https://github.com/phpspec/prophecy-phpunit/tree/v2.3.0"
             },
-            "time": "2024-03-01T08:33:58+00:00"
+            "time": "2024-11-19T13:24:17+00:00"
         },
         {
             "name": "phpstan/extension-installer",
