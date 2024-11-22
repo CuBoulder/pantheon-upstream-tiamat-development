@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "10ad8c412bd1876232580fcb5dea13081722191f"
+                "reference": "6836cc8502e3bd7c55a2251b69b12e65c7fef90d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/10ad8c412bd1876232580fcb5dea13081722191f",
-                "reference": "10ad8c412bd1876232580fcb5dea13081722191f",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6836cc8502e3bd7c55a2251b69b12e65c7fef90d",
+                "reference": "6836cc8502e3bd7c55a2251b69b12e65c7fef90d",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241122"
             },
-            "time": "2024-11-20T21:02:13+00:00"
+            "time": "2024-11-22T20:45:54+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189"
+                "reference": "a02169c0dc47cacd47e2d11c30904a7182eaa068"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/942703eb78bc68c4308fc47dc7b49a56f6455189",
-                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/a02169c0dc47cacd47e2d11c30904a7182eaa068",
+                "reference": "a02169c0dc47cacd47e2d11c30904a7182eaa068",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241120"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241122"
             },
-            "time": "2024-11-20T17:17:19+00:00"
+            "time": "2024-11-22T20:40:40+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1048,12 +1048,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "faf533532a6821882ae70262b735cf2124a12dc7"
+                "reference": "e169b3135f13505868f4d08650f08b037975ab2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/faf533532a6821882ae70262b735cf2124a12dc7",
-                "reference": "faf533532a6821882ae70262b735cf2124a12dc7",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/e169b3135f13505868f4d08650f08b037975ab2e",
+                "reference": "e169b3135f13505868f4d08650f08b037975ab2e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1067,7 +1067,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2024-10-15T21:48:37+00:00"
+            "time": "2024-11-20T23:07:48+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -1075,12 +1075,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_campus_news.git",
-                "reference": "c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8"
+                "reference": "6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8",
-                "reference": "c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e",
+                "reference": "6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1094,7 +1094,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_campus_news/issues",
                 "source": "https://github.com/CuBoulder/ucb_campus_news/tree/main"
             },
-            "time": "2024-11-13T20:51:21+00:00"
+            "time": "2024-11-22T17:10:53+00:00"
         },
         {
             "name": "cu-boulder/ucb_ckeditor_plugins",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e"
+                "reference": "3bde6240182e7626a2984774bebfd94fe8ab1617"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
-                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/3bde6240182e7626a2984774bebfd94fe8ab1617",
+                "reference": "3bde6240182e7626a2984774bebfd94fe8ab1617",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241120"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241122"
             },
-            "time": "2024-11-20T17:17:38+00:00"
+            "time": "2024-11-22T20:41:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1183,12 +1183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "0f40eb6845bbac01a920db688e60f5e9c88ca3e6"
+                "reference": "ebd01cbeaeb1e567345c5c94014c0aa58b91cf14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/0f40eb6845bbac01a920db688e60f5e9c88ca3e6",
-                "reference": "0f40eb6845bbac01a920db688e60f5e9c88ca3e6",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/ebd01cbeaeb1e567345c5c94014c0aa58b91cf14",
+                "reference": "ebd01cbeaeb1e567345c5c94014c0aa58b91cf14",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1202,7 +1202,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
                 "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/main"
             },
-            "time": "2024-11-13T20:58:06+00:00"
+            "time": "2024-11-22T20:26:51+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
@@ -2109,26 +2109,26 @@
         },
         {
             "name": "drupal/administerusersbyrole",
-            "version": "3.4.0",
+            "version": "3.5.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/administerusersbyrole.git",
-                "reference": "8.x-3.4"
+                "reference": "8.x-3.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/administerusersbyrole-8.x-3.4.zip",
-                "reference": "8.x-3.4",
-                "shasum": "17cd7107c8fdd0c65049ee2b8dceefa0432024fa"
+                "url": "https://ftp.drupal.org/files/projects/administerusersbyrole-8.x-3.5.zip",
+                "reference": "8.x-3.5",
+                "shasum": "4595bd1db4592c2eb506b3b1c1b26683f22b73b4"
             },
             "require": {
-                "drupal/core": "^8 || ^9 || ^10"
+                "drupal/core": "^10 || ^11"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-3.4",
-                    "datestamp": "1682265550",
+                    "version": "8.x-3.5",
+                    "datestamp": "1732275602",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2141,8 +2141,12 @@
             ],
             "authors": [
                 {
-                    "name": "AdamPS",
+                    "name": "adamps",
                     "homepage": "https://www.drupal.org/user/2650563"
+                },
+                {
+                    "name": "joelpittet",
+                    "homepage": "https://www.drupal.org/user/160302"
                 },
                 {
                     "name": "mrfelton",
@@ -2368,17 +2372,17 @@
         },
         {
             "name": "drupal/captcha",
-            "version": "2.0.6",
+            "version": "2.0.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/captcha.git",
-                "reference": "2.0.6"
+                "reference": "2.0.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.6.zip",
-                "reference": "2.0.6",
-                "shasum": "3553127b2779ce5c24ac5c7fb682b5089d681bb2"
+                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.7.zip",
+                "reference": "2.0.7",
+                "shasum": "8e97ba41810811bcd5d7e8b714cdc0b664dd8eec"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2386,8 +2390,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.6",
-                    "datestamp": "1719900315",
+                    "version": "2.0.7",
+                    "datestamp": "1732250192",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2403,7 +2407,7 @@
             ],
             "authors": [
                 {
-                    "name": "Anybody",
+                    "name": "anybody",
                     "homepage": "https://www.drupal.org/user/291091"
                 },
                 {
@@ -2411,7 +2415,7 @@
                     "homepage": "https://www.drupal.org/user/1021502"
                 },
                 {
-                    "name": "Grevil",
+                    "name": "grevil",
                     "homepage": "https://www.drupal.org/user/3668491"
                 },
                 {
@@ -2427,7 +2431,7 @@
                     "homepage": "https://www.drupal.org/user/116002"
                 },
                 {
-                    "name": "RobLoach",
+                    "name": "robloach",
                     "homepage": "https://www.drupal.org/user/61114"
                 },
                 {
@@ -2740,16 +2744,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "10.2.11",
+            "version": "10.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "91d16ae01bcf56e2ab7160348feac6ba3bbcc1f9"
+                "reference": "06331517699825bf40f85317d28641d1938824a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/91d16ae01bcf56e2ab7160348feac6ba3bbcc1f9",
-                "reference": "91d16ae01bcf56e2ab7160348feac6ba3bbcc1f9",
+                "url": "https://api.github.com/repos/drupal/core/zipball/06331517699825bf40f85317d28641d1938824a1",
+                "reference": "06331517699825bf40f85317d28641d1938824a1",
                 "shasum": ""
             },
             "require": {
@@ -2897,13 +2901,13 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/10.2.11"
+                "source": "https://github.com/drupal/core/tree/10.2.12"
             },
-            "time": "2024-11-20T17:59:53+00:00"
+            "time": "2024-11-22T12:57:07+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "10.2.11",
+            "version": "10.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -2947,13 +2951,13 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.2.11"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.2.12"
             },
             "time": "2024-04-09T07:27:23+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "10.2.11",
+            "version": "10.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -2994,16 +2998,16 @@
         },
         {
             "name": "drupal/core-recommended",
-            "version": "10.2.11",
+            "version": "10.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "44e8501698d2c28b5d68a2195f8b0d94855b3e80"
+                "reference": "369e8f56bd95e88fd745135ff4ec969d5b1d7c7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/44e8501698d2c28b5d68a2195f8b0d94855b3e80",
-                "reference": "44e8501698d2c28b5d68a2195f8b0d94855b3e80",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/369e8f56bd95e88fd745135ff4ec969d5b1d7c7c",
+                "reference": "369e8f56bd95e88fd745135ff4ec969d5b1d7c7c",
                 "shasum": ""
             },
             "require": {
@@ -3012,7 +3016,7 @@
                 "doctrine/annotations": "~1.14.3",
                 "doctrine/deprecations": "~1.1.2",
                 "doctrine/lexer": "~2.1.0",
-                "drupal/core": "10.2.11",
+                "drupal/core": "10.2.12",
                 "egulias/email-validator": "~4.0.2",
                 "guzzlehttp/guzzle": "~7.8.1",
                 "guzzlehttp/promises": "~2.0.2",
@@ -3073,9 +3077,9 @@
             ],
             "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/10.2.11"
+                "source": "https://github.com/drupal/core-recommended/tree/10.2.12"
             },
-            "time": "2024-11-20T17:59:53+00:00"
+            "time": "2024-11-22T12:57:07+00:00"
         },
         {
             "name": "drupal/crop",
@@ -8994,16 +8998,16 @@
         },
         {
             "name": "simplesamlphp/saml2",
-            "version": "v4.6.12",
+            "version": "v4.6.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/saml2.git",
-                "reference": "9545abd0d9d48388f2fa00469c5c1e0294f0303e"
+                "reference": "f32fdf3b86b156adfb982a09c902790dc6562b34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/saml2/zipball/9545abd0d9d48388f2fa00469c5c1e0294f0303e",
-                "reference": "9545abd0d9d48388f2fa00469c5c1e0294f0303e",
+                "url": "https://api.github.com/repos/simplesamlphp/saml2/zipball/f32fdf3b86b156adfb982a09c902790dc6562b34",
+                "reference": "f32fdf3b86b156adfb982a09c902790dc6562b34",
                 "shasum": ""
             },
             "require": {
@@ -9014,6 +9018,9 @@
                 "psr/log": "~1.1 || ^2.0 || ^3.0",
                 "robrichards/xmlseclibs": "^3.1.1",
                 "webmozart/assert": "^1.9"
+            },
+            "conflict": {
+                "robrichards/xmlseclibs": "3.1.2"
             },
             "require-dev": {
                 "mockery/mockery": "^1.3",
@@ -9046,9 +9053,9 @@
             "description": "SAML2 PHP library from SimpleSAMLphp",
             "support": {
                 "issues": "https://github.com/simplesamlphp/saml2/issues",
-                "source": "https://github.com/simplesamlphp/saml2/tree/v4.6.12"
+                "source": "https://github.com/simplesamlphp/saml2/tree/v4.6.13"
             },
-            "time": "2024-04-25T14:10:08+00:00"
+            "time": "2024-11-20T21:03:56+00:00"
         },
         {
             "name": "simplesamlphp/simplesamlphp",
