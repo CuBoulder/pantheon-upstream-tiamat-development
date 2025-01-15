@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "52fc8560b35b12ef7bbe9d1bff070b3693ae7323"
+                "reference": "124464ea2c488a0f1c9d6c5f121a29b49eeebbaf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/52fc8560b35b12ef7bbe9d1bff070b3693ae7323",
-                "reference": "52fc8560b35b12ef7bbe9d1bff070b3693ae7323",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/124464ea2c488a0f1c9d6c5f121a29b49eeebbaf",
+                "reference": "124464ea2c488a0f1c9d6c5f121a29b49eeebbaf",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241211"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250115"
             },
-            "time": "2024-12-11T21:17:11+00:00"
+            "time": "2025-01-15T18:13:24+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "1723c7b70d56152b67d02c94dc0fd6445389b1de"
+                "reference": "82d8106a34a86202605d843a9cdf3501071cbf7f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/1723c7b70d56152b67d02c94dc0fd6445389b1de",
-                "reference": "1723c7b70d56152b67d02c94dc0fd6445389b1de",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/82d8106a34a86202605d843a9cdf3501071cbf7f",
+                "reference": "82d8106a34a86202605d843a9cdf3501071cbf7f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241211"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250115"
             },
-            "time": "2024-12-11T21:15:50+00:00"
+            "time": "2025-01-15T18:14:08+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "e996b7d6c2f65995e56503be3fd2af9671d6d7e2"
+                "reference": "6a9082ee9a0a7ea6077e40b253e7039f97429094"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/e996b7d6c2f65995e56503be3fd2af9671d6d7e2",
-                "reference": "e996b7d6c2f65995e56503be3fd2af9671d6d7e2",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/6a9082ee9a0a7ea6077e40b253e7039f97429094",
+                "reference": "6a9082ee9a0a7ea6077e40b253e7039f97429094",
                 "shasum": ""
             },
             "default-branch": true,
@@ -986,7 +986,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-11-19T23:48:21+00:00"
+            "time": "2025-01-08T20:42:46+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1048,12 +1048,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "e169b3135f13505868f4d08650f08b037975ab2e"
+                "reference": "ef0f884bf4fa6ab1b0908c9c046c50d5a6394b4b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/e169b3135f13505868f4d08650f08b037975ab2e",
-                "reference": "e169b3135f13505868f4d08650f08b037975ab2e",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/ef0f884bf4fa6ab1b0908c9c046c50d5a6394b4b",
+                "reference": "ef0f884bf4fa6ab1b0908c9c046c50d5a6394b4b",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1067,7 +1067,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2024-11-20T23:07:48+00:00"
+            "time": "2025-01-13T17:35:17+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "10346080ac07a756c7e4ab2546a83ecf78924ed0"
+                "reference": "90525e46ee897cf6f99072ebd720c647fef14945"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/10346080ac07a756c7e4ab2546a83ecf78924ed0",
-                "reference": "10346080ac07a756c7e4ab2546a83ecf78924ed0",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/90525e46ee897cf6f99072ebd720c647fef14945",
+                "reference": "90525e46ee897cf6f99072ebd720c647fef14945",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1121,7 +1121,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2024-11-20T00:16:08+00:00"
+            "time": "2025-01-14T02:17:55+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "52ccf33b8304a5380c3c198fa24898e20d0c725c"
+                "reference": "992322b8a9eae5372266b63729494ad76bd471e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/52ccf33b8304a5380c3c198fa24898e20d0c725c",
-                "reference": "52ccf33b8304a5380c3c198fa24898e20d0c725c",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/992322b8a9eae5372266b63729494ad76bd471e5",
+                "reference": "992322b8a9eae5372266b63729494ad76bd471e5",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241211"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20250115"
             },
-            "time": "2024-12-11T21:16:17+00:00"
+            "time": "2025-01-15T18:11:23+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "678e9c662b758e9a4d4bac3b8bb014755f61c052"
+                "reference": "a61cca96cfb6a6e36b5c42ce4e7a8b4938148509"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/678e9c662b758e9a4d4bac3b8bb014755f61c052",
-                "reference": "678e9c662b758e9a4d4bac3b8bb014755f61c052",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/a61cca96cfb6a6e36b5c42ce4e7a8b4938148509",
+                "reference": "a61cca96cfb6a6e36b5c42ce4e7a8b4938148509",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2024-12-11T19:08:08+00:00"
+            "time": "2025-01-15T17:13:47+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -3837,7 +3837,7 @@
                     "homepage": "https://www.drupal.org/user/3086593"
                 },
                 {
-                    "name": "Jeff Cardwell",
+                    "name": "jeff cardwell",
                     "homepage": "https://www.drupal.org/user/2913129"
                 },
                 {
@@ -4068,6 +4068,10 @@
                 {
                     "name": "dulnan",
                     "homepage": "https://www.drupal.org/user/3652792"
+                },
+                {
+                    "name": "svendecabooter",
+                    "homepage": "https://www.drupal.org/user/35369"
                 }
             ],
             "description": "Render Laybout Builder block edit forms in an iframe, using the admin theme.",
@@ -4969,11 +4973,11 @@
             ],
             "authors": [
                 {
-                    "name": "Berdir",
+                    "name": "berdir",
                     "homepage": "https://www.drupal.org/user/214652"
                 },
                 {
-                    "name": "Dave Reid",
+                    "name": "dave reid",
                     "homepage": "https://www.drupal.org/user/53892"
                 },
                 {
@@ -5125,7 +5129,7 @@
             ],
             "authors": [
                 {
-                    "name": "Berdir",
+                    "name": "berdir",
                     "homepage": "https://www.drupal.org/user/214652"
                 },
                 {
@@ -5133,7 +5137,7 @@
                     "homepage": "https://www.drupal.org/user/53892"
                 },
                 {
-                    "name": "Kristen Pol",
+                    "name": "kristen pol",
                     "homepage": "https://www.drupal.org/user/8389"
                 },
                 {
@@ -9748,12 +9752,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/contracts",
+                    "name": "symfony/contracts"
+                },
                 "branch-alias": {
                     "dev-main": "3.5-dev"
-                },
-                "thanks": {
-                    "name": "symfony/contracts",
-                    "url": "https://github.com/symfony/contracts"
                 }
             },
             "autoload": {
@@ -10073,12 +10077,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/contracts",
+                    "name": "symfony/contracts"
+                },
                 "branch-alias": {
                     "dev-main": "3.4-dev"
-                },
-                "thanks": {
-                    "name": "symfony/contracts",
-                    "url": "https://github.com/symfony/contracts"
                 }
             },
             "autoload": {
@@ -10296,12 +10300,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/contracts",
+                    "name": "symfony/contracts"
+                },
                 "branch-alias": {
                     "dev-main": "3.4-dev"
-                },
-                "thanks": {
-                    "name": "symfony/contracts",
-                    "url": "https://github.com/symfony/contracts"
                 }
             },
             "autoload": {
@@ -11249,12 +11253,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
+                },
                 "branch-alias": {
                     "dev-main": "1.28-dev"
-                },
-                "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
                 }
             },
             "autoload": {
@@ -11411,8 +11415,8 @@
             "type": "library",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "autoload": {
@@ -12375,12 +12379,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/contracts",
+                    "name": "symfony/contracts"
+                },
                 "branch-alias": {
                     "dev-main": "3.4-dev"
-                },
-                "thanks": {
-                    "name": "symfony/contracts",
-                    "url": "https://github.com/symfony/contracts"
                 }
             },
             "autoload": {
@@ -12539,12 +12543,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/contracts",
+                    "name": "symfony/contracts"
+                },
                 "branch-alias": {
                     "dev-main": "3.4-dev"
-                },
-                "thanks": {
-                    "name": "symfony/contracts",
-                    "url": "https://github.com/symfony/contracts"
                 }
             },
             "autoload": {
@@ -13632,16 +13636,16 @@
         },
         {
             "name": "composer/ca-bundle",
-            "version": "1.5.4",
+            "version": "1.5.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/ca-bundle.git",
-                "reference": "bc0593537a463e55cadf45fd938d23b75095b7e1"
+                "reference": "08c50d5ec4c6ced7d0271d2862dec8c1033283e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/bc0593537a463e55cadf45fd938d23b75095b7e1",
-                "reference": "bc0593537a463e55cadf45fd938d23b75095b7e1",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/08c50d5ec4c6ced7d0271d2862dec8c1033283e6",
+                "reference": "08c50d5ec4c6ced7d0271d2862dec8c1033283e6",
                 "shasum": ""
             },
             "require": {
@@ -13688,7 +13692,7 @@
             "support": {
                 "irc": "irc://irc.freenode.org/composer",
                 "issues": "https://github.com/composer/ca-bundle/issues",
-                "source": "https://github.com/composer/ca-bundle/tree/1.5.4"
+                "source": "https://github.com/composer/ca-bundle/tree/1.5.5"
             },
             "funding": [
                 {
@@ -13704,7 +13708,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-11-27T15:35:25+00:00"
+            "time": "2025-01-08T16:17:16+00:00"
         },
         {
             "name": "composer/class-map-generator",
@@ -13989,13 +13993,13 @@
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-main": "3.x-dev"
-                },
                 "phpstan": {
                     "includes": [
                         "extension.neon"
                     ]
+                },
+                "branch-alias": {
+                    "dev-main": "3.x-dev"
                 }
             },
             "autoload": {
@@ -14337,16 +14341,16 @@
         },
         {
             "name": "drupal/coder",
-            "version": "8.3.26",
+            "version": "8.3.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pfrenssen/coder.git",
-                "reference": "fd98546ce3373aa7767240901eda47963ce64c82"
+                "reference": "04a4563b82c419e43cc58393a78b21c44fcc29e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pfrenssen/coder/zipball/fd98546ce3373aa7767240901eda47963ce64c82",
-                "reference": "fd98546ce3373aa7767240901eda47963ce64c82",
+                "url": "https://api.github.com/repos/pfrenssen/coder/zipball/04a4563b82c419e43cc58393a78b21c44fcc29e2",
+                "reference": "04a4563b82c419e43cc58393a78b21c44fcc29e2",
                 "shasum": ""
             },
             "require": {
@@ -14355,7 +14359,7 @@
                 "php": ">=7.2",
                 "sirbrillig/phpcs-variable-analysis": "^2.11.7",
                 "slevomat/coding-standard": "^8.11",
-                "squizlabs/php_codesniffer": "^3.9.1",
+                "squizlabs/php_codesniffer": "^3.11.2",
                 "symfony/yaml": ">=3.4.0"
             },
             "require-dev": {
@@ -14384,7 +14388,7 @@
                 "issues": "https://www.drupal.org/project/issues/coder",
                 "source": "https://www.drupal.org/project/coder"
             },
-            "time": "2024-11-28T23:14:29+00:00"
+            "time": "2025-01-06T09:46:24+00:00"
         },
         {
             "name": "drupal/core-dev",
@@ -14444,16 +14448,16 @@
         },
         {
             "name": "google/protobuf",
-            "version": "v4.29.1",
+            "version": "v4.29.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "6042b5483f8029e42473faeb8ef75ba266278381"
+                "reference": "ab5077c2cfdd1f415f42d11fdbdf903ba8e3d9b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/6042b5483f8029e42473faeb8ef75ba266278381",
-                "reference": "6042b5483f8029e42473faeb8ef75ba266278381",
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/ab5077c2cfdd1f415f42d11fdbdf903ba8e3d9b7",
+                "reference": "ab5077c2cfdd1f415f42d11fdbdf903ba8e3d9b7",
                 "shasum": ""
             },
             "require": {
@@ -14482,9 +14486,9 @@
                 "proto"
             ],
             "support": {
-                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v4.29.1"
+                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v4.29.3"
             },
-            "time": "2024-12-03T22:07:45+00:00"
+            "time": "2025-01-08T21:00:13+00:00"
         },
         {
             "name": "instaclick/php-webdriver",
@@ -14885,16 +14889,16 @@
         },
         {
             "name": "open-telemetry/api",
-            "version": "1.1.1",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opentelemetry-php/api.git",
-                "reference": "542064815d38a6df55af7957cd6f1d7d967c99c6"
+                "reference": "351a30baa79699de3de3a814c8ccc7b52ccdfb1d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opentelemetry-php/api/zipball/542064815d38a6df55af7957cd6f1d7d967c99c6",
-                "reference": "542064815d38a6df55af7957cd6f1d7d967c99c6",
+                "url": "https://api.github.com/repos/opentelemetry-php/api/zipball/351a30baa79699de3de3a814c8ccc7b52ccdfb1d",
+                "reference": "351a30baa79699de3de3a814c8ccc7b52ccdfb1d",
                 "shasum": ""
             },
             "require": {
@@ -14908,13 +14912,13 @@
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-main": "1.1.x-dev"
-                },
                 "spi": {
                     "OpenTelemetry\\API\\Instrumentation\\AutoInstrumentation\\HookManagerInterface": [
                         "OpenTelemetry\\API\\Instrumentation\\AutoInstrumentation\\ExtensionHookManager"
                     ]
+                },
+                "branch-alias": {
+                    "dev-main": "1.1.x-dev"
                 }
             },
             "autoload": {
@@ -14951,7 +14955,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2024-10-15T22:42:37+00:00"
+            "time": "2025-01-08T23:50:34+00:00"
         },
         {
             "name": "open-telemetry/context",
@@ -15014,16 +15018,16 @@
         },
         {
             "name": "open-telemetry/exporter-otlp",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opentelemetry-php/exporter-otlp.git",
-                "reference": "9b6de12204f25f8ab9540b46d6e7b5151897ce18"
+                "reference": "243d9657c44a06f740cf384f486afe954c2b725f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opentelemetry-php/exporter-otlp/zipball/9b6de12204f25f8ab9540b46d6e7b5151897ce18",
-                "reference": "9b6de12204f25f8ab9540b46d6e7b5151897ce18",
+                "url": "https://api.github.com/repos/opentelemetry-php/exporter-otlp/zipball/243d9657c44a06f740cf384f486afe954c2b725f",
+                "reference": "243d9657c44a06f740cf384f486afe954c2b725f",
                 "shasum": ""
             },
             "require": {
@@ -15074,7 +15078,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2024-04-30T18:28:30+00:00"
+            "time": "2025-01-08T23:50:03+00:00"
         },
         {
             "name": "open-telemetry/gen-otlp-protobuf",
@@ -15141,16 +15145,16 @@
         },
         {
             "name": "open-telemetry/sdk",
-            "version": "1.1.2",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opentelemetry-php/sdk.git",
-                "reference": "fb0ff8d8279a3776bd604791e2531dd0cc147e8b"
+                "reference": "9a1c3b866239dbff291e5cc555bb7793eab08127"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opentelemetry-php/sdk/zipball/fb0ff8d8279a3776bd604791e2531dd0cc147e8b",
-                "reference": "fb0ff8d8279a3776bd604791e2531dd0cc147e8b",
+                "url": "https://api.github.com/repos/opentelemetry-php/sdk/zipball/9a1c3b866239dbff291e5cc555bb7793eab08127",
+                "reference": "9a1c3b866239dbff291e5cc555bb7793eab08127",
                 "shasum": ""
             },
             "require": {
@@ -15178,13 +15182,13 @@
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-main": "1.0.x-dev"
-                },
                 "spi": {
                     "OpenTelemetry\\API\\Instrumentation\\AutoInstrumentation\\HookManagerInterface": [
                         "OpenTelemetry\\API\\Instrumentation\\AutoInstrumentation\\ExtensionHookManager"
                     ]
+                },
+                "branch-alias": {
+                    "dev-main": "1.0.x-dev"
                 }
             },
             "autoload": {
@@ -15227,7 +15231,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2024-10-18T21:01:35+00:00"
+            "time": "2025-01-08T23:50:34+00:00"
         },
         {
             "name": "open-telemetry/sem-conv",
@@ -16048,16 +16052,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.12.12",
+            "version": "1.12.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "b5ae1b88f471d3fd4ba1aa0046234b5ca3776dd0"
+                "reference": "c91d4e8bc056f46cf653656e6f71004b254574d1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/b5ae1b88f471d3fd4ba1aa0046234b5ca3776dd0",
-                "reference": "b5ae1b88f471d3fd4ba1aa0046234b5ca3776dd0",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/c91d4e8bc056f46cf653656e6f71004b254574d1",
+                "reference": "c91d4e8bc056f46cf653656e6f71004b254574d1",
                 "shasum": ""
             },
             "require": {
@@ -16102,7 +16106,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-11-28T22:13:23+00:00"
+            "time": "2025-01-05T16:40:22+00:00"
         },
         {
             "name": "phpstan/phpstan-deprecation-rules",
@@ -16153,16 +16157,16 @@
         },
         {
             "name": "phpstan/phpstan-phpunit",
-            "version": "1.4.1",
+            "version": "1.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan-phpunit.git",
-                "reference": "11d4235fbc6313ecbf93708606edfd3222e44949"
+                "reference": "72a6721c9b64b3e4c9db55abbc38f790b318267e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan-phpunit/zipball/11d4235fbc6313ecbf93708606edfd3222e44949",
-                "reference": "11d4235fbc6313ecbf93708606edfd3222e44949",
+                "url": "https://api.github.com/repos/phpstan/phpstan-phpunit/zipball/72a6721c9b64b3e4c9db55abbc38f790b318267e",
+                "reference": "72a6721c9b64b3e4c9db55abbc38f790b318267e",
                 "shasum": ""
             },
             "require": {
@@ -16199,9 +16203,9 @@
             "description": "PHPUnit extensions and rules for PHPStan",
             "support": {
                 "issues": "https://github.com/phpstan/phpstan-phpunit/issues",
-                "source": "https://github.com/phpstan/phpstan-phpunit/tree/1.4.1"
+                "source": "https://github.com/phpstan/phpstan-phpunit/tree/1.4.2"
             },
-            "time": "2024-11-12T12:43:59+00:00"
+            "time": "2024-12-17T17:20:49+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -17951,16 +17955,16 @@
         },
         {
             "name": "sirbrillig/phpcs-variable-analysis",
-            "version": "v2.11.21",
+            "version": "v2.11.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sirbrillig/phpcs-variable-analysis.git",
-                "reference": "eb2b351927098c24860daa7484e290d3eed693be"
+                "reference": "ffb6f16c6033ec61ed84446b479a31d6529f0eb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sirbrillig/phpcs-variable-analysis/zipball/eb2b351927098c24860daa7484e290d3eed693be",
-                "reference": "eb2b351927098c24860daa7484e290d3eed693be",
+                "url": "https://api.github.com/repos/sirbrillig/phpcs-variable-analysis/zipball/ffb6f16c6033ec61ed84446b479a31d6529f0eb7",
+                "reference": "ffb6f16c6033ec61ed84446b479a31d6529f0eb7",
                 "shasum": ""
             },
             "require": {
@@ -17972,7 +17976,6 @@
                 "phpcsstandards/phpcsdevcs": "^1.1",
                 "phpstan/phpstan": "^1.7",
                 "phpunit/phpunit": "^4.8.36 || ^5.7.21 || ^6.5 || ^7.0 || ^8.0 || ^9.0 || ^10.5.32 || ^11.3.3",
-                "sirbrillig/phpcs-import-detection": "^1.1",
                 "vimeo/psalm": "^0.2 || ^0.3 || ^1.1 || ^4.24 || ^5.0"
             },
             "type": "phpcodesniffer-standard",
@@ -18005,7 +18008,7 @@
                 "source": "https://github.com/sirbrillig/phpcs-variable-analysis",
                 "wiki": "https://github.com/sirbrillig/phpcs-variable-analysis/wiki"
             },
-            "time": "2024-12-02T16:37:49+00:00"
+            "time": "2025-01-06T17:54:24+00:00"
         },
         {
             "name": "slevomat/coding-standard",
