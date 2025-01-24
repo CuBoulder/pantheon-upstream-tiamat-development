@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "72068ea1b8d686d0c1777ea8ce373a335d67735c"
+                "reference": "1cdfe9e751d29eee781b9593b84f840faa9bdcdc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/72068ea1b8d686d0c1777ea8ce373a335d67735c",
-                "reference": "72068ea1b8d686d0c1777ea8ce373a335d67735c",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1cdfe9e751d29eee781b9593b84f840faa9bdcdc",
+                "reference": "1cdfe9e751d29eee781b9593b84f840faa9bdcdc",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250121"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2025-01-21T21:01:52+00:00"
+            "time": "2025-01-23T23:38:16+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1048,12 +1048,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "5ff00657bbf92201bf9c23083910d2af69478125"
+                "reference": "bf122774a133ccbf69b122fe020c5ae4d38b1668"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/5ff00657bbf92201bf9c23083910d2af69478125",
-                "reference": "5ff00657bbf92201bf9c23083910d2af69478125",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/bf122774a133ccbf69b122fe020c5ae4d38b1668",
+                "reference": "bf122774a133ccbf69b122fe020c5ae4d38b1668",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1067,7 +1067,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2025-01-21T15:28:38+00:00"
+            "time": "2025-01-23T16:54:15+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -3297,20 +3297,20 @@
         },
         {
             "name": "drupal/embed",
-            "version": "1.9.0",
+            "version": "1.10.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/embed.git",
-                "reference": "8.x-1.9"
+                "reference": "8.x-1.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/embed-8.x-1.9.zip",
-                "reference": "8.x-1.9",
-                "shasum": "e6b4875e2b245ddf1a68a8615cbb4c5a378a0e9f"
+                "url": "https://ftp.drupal.org/files/projects/embed-8.x-1.10.zip",
+                "reference": "8.x-1.10",
+                "shasum": "4ac5be0c3a421851c9c60ed82e3bc497be88e61c"
             },
             "require": {
-                "drupal/core": "^9.5 | ^10"
+                "drupal/core": "^10.2 || ^11"
             },
             "require-dev": {
                 "drupal/ckeditor": "^1.0"
@@ -3318,8 +3318,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.9",
-                    "datestamp": "1723283819",
+                    "version": "8.x-1.10",
+                    "datestamp": "1737663032",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3340,7 +3340,7 @@
                     "homepage": "https://www.drupal.org/user/53892"
                 },
                 {
-                    "name": "Devin Carlson",
+                    "name": "devin carlson",
                     "homepage": "https://www.drupal.org/user/290182"
                 },
                 {
