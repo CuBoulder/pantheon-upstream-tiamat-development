@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "f277a64b8e03f818476ec2474d1277f48e94db02"
+                "reference": "9c04d7a34f363efa71dedf0d23db3a2be2f34a88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/f277a64b8e03f818476ec2474d1277f48e94db02",
-                "reference": "f277a64b8e03f818476ec2474d1277f48e94db02",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/9c04d7a34f363efa71dedf0d23db3a2be2f34a88",
+                "reference": "9c04d7a34f363efa71dedf0d23db3a2be2f34a88",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250129"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250205"
             },
-            "time": "2025-01-29T18:05:41+00:00"
+            "time": "2025-02-05T19:56:32+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "82d8106a34a86202605d843a9cdf3501071cbf7f"
+                "reference": "85aa6e548efa6c21e3edc0f95cd5df78f4eb7c36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/82d8106a34a86202605d843a9cdf3501071cbf7f",
-                "reference": "82d8106a34a86202605d843a9cdf3501071cbf7f",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/85aa6e548efa6c21e3edc0f95cd5df78f4eb7c36",
+                "reference": "85aa6e548efa6c21e3edc0f95cd5df78f4eb7c36",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250115"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250205"
             },
-            "time": "2025-01-15T18:14:08+00:00"
+            "time": "2025-02-05T19:55:59+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "a61cca96cfb6a6e36b5c42ce4e7a8b4938148509"
+                "reference": "9df221ebc4f328f2d646e4e6c2f919295274a8c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/a61cca96cfb6a6e36b5c42ce4e7a8b4938148509",
-                "reference": "a61cca96cfb6a6e36b5c42ce4e7a8b4938148509",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/9df221ebc4f328f2d646e4e6c2f919295274a8c3",
+                "reference": "9df221ebc4f328f2d646e4e6c2f919295274a8c3",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2025-01-15T17:13:47+00:00"
+            "time": "2025-02-04T22:53:05+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -1372,12 +1372,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-libraries.git",
-                "reference": "17bab2b9f6b16ea51792cc19983c241b25be005e"
+                "reference": "5870d06061b16fb01db1474df961f7663f2a643d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-libraries/zipball/17bab2b9f6b16ea51792cc19983c241b25be005e",
-                "reference": "17bab2b9f6b16ea51792cc19983c241b25be005e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-libraries/zipball/5870d06061b16fb01db1474df961f7663f2a643d",
+                "reference": "5870d06061b16fb01db1474df961f7663f2a643d",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1391,7 +1391,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-libraries/issues",
                 "source": "https://github.com/CuBoulder/tiamat-libraries/tree/main"
             },
-            "time": "2024-09-25T19:15:47+00:00"
+            "time": "2025-02-05T17:53:17+00:00"
         },
         {
             "name": "cu-boulder/ucb_user_invite",
@@ -3364,31 +3364,30 @@
         },
         {
             "name": "drupal/entity_embed",
-            "version": "1.6.0",
+            "version": "1.7.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/entity_embed.git",
-                "reference": "8.x-1.6"
+                "reference": "8.x-1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/entity_embed-8.x-1.6.zip",
-                "reference": "8.x-1.6",
-                "shasum": "9c65a87f4285dc47303783db2e3af5825164d1dc"
+                "url": "https://ftp.drupal.org/files/projects/entity_embed-8.x-1.7.zip",
+                "reference": "8.x-1.7",
+                "shasum": "64b7226390198572cdea0dd2227585f74338c773"
             },
             "require": {
-                "drupal/core": "^9.5 || ^10",
-                "drupal/embed": "^1.7"
+                "drupal/core": "^10.3 || ^11",
+                "drupal/embed": "^1.10"
             },
             "require-dev": {
-                "drupal/ckeditor": "^1",
-                "drupal/entity_browser": "^2.2"
+                "drupal/entity_browser": "^2.11"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.6",
-                    "datestamp": "1712587671",
+                    "version": "8.x-1.7",
+                    "datestamp": "1738512139",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3405,11 +3404,11 @@
                     "homepage": "https://www.drupal.org/user/2828287"
                 },
                 {
-                    "name": "Dave Reid",
+                    "name": "dave reid",
                     "homepage": "https://www.drupal.org/user/53892"
                 },
                 {
-                    "name": "Devin Carlson",
+                    "name": "devin carlson",
                     "homepage": "https://www.drupal.org/user/290182"
                 },
                 {
@@ -3429,7 +3428,7 @@
                     "homepage": "https://www.drupal.org/user/744628"
                 },
                 {
-                    "name": "Wim Leers",
+                    "name": "wim leers",
                     "homepage": "https://www.drupal.org/user/99777"
                 }
             ],
@@ -3776,26 +3775,26 @@
         },
         {
             "name": "drupal/google_cse",
-            "version": "4.0.0",
+            "version": "5.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/google_cse.git",
-                "reference": "4.0.0"
+                "reference": "5.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/google_cse-4.0.0.zip",
-                "reference": "4.0.0",
-                "shasum": "eaabef6ba4178a762d3e2f63b1afe40a8c555e81"
+                "url": "https://ftp.drupal.org/files/projects/google_cse-5.0.0.zip",
+                "reference": "5.0.0",
+                "shasum": "8e157c1860901d35422d4355c9d0875f65201e7f"
             },
             "require": {
-                "drupal/core": "^9 || ^10"
+                "drupal/core": "^10|| ^11"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "4.0.0",
-                    "datestamp": "1712180473",
+                    "version": "5.0.0",
+                    "datestamp": "1718297841",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4090,20 +4089,20 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "6.1.6",
+            "version": "7.0.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "6.1.6"
+                "reference": "7.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-6.1.6.zip",
-                "reference": "6.1.6",
-                "shasum": "113d8e569cfb92f8d7feb0a2f7713953c0715e92"
+                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.3.zip",
+                "reference": "7.0.3",
+                "shasum": "bc880d9fbc08a1cbd1ee76fab845841ec79ce4e7"
             },
             "require": {
-                "drupal/core": "^10.1"
+                "drupal/core": "^10.1 || ^11"
             },
             "require-dev": {
                 "drupal/ckeditor": "*",
@@ -4112,8 +4111,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.1.6",
-                    "datestamp": "1729189029",
+                    "version": "7.0.3",
+                    "datestamp": "1738264704",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5263,7 +5262,7 @@
                     "homepage": "https://www.drupal.org/user/748566"
                 },
                 {
-                    "name": "Rajeshreeputra",
+                    "name": "rajeshreeputra",
                     "homepage": "https://www.drupal.org/user/3418561"
                 },
                 {
@@ -5279,17 +5278,17 @@
         },
         {
             "name": "drupal/scheduler",
-            "version": "2.2.0",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/scheduler.git",
-                "reference": "2.2.0"
+                "reference": "2.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/scheduler-2.2.0.zip",
-                "reference": "2.2.0",
-                "shasum": "b33463ea677f5e14e4f5602a261b3d86360ddc14"
+                "url": "https://ftp.drupal.org/files/projects/scheduler-2.2.1.zip",
+                "reference": "2.2.1",
+                "shasum": "ce9a9405ea88140fbdd53f1e3ed3741b6f27266c"
             },
             "require": {
                 "drupal/core": "^8 || ^9 || ^10 || ^11"
@@ -5305,8 +5304,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.0",
-                    "datestamp": "1736417382",
+                    "version": "2.2.1",
+                    "datestamp": "1738771365",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5677,6 +5676,71 @@
             "homepage": "https://www.drupal.org/project/token",
             "support": {
                 "source": "https://git.drupalcode.org/project/token"
+            }
+        },
+        {
+            "name": "drupal/trash",
+            "version": "3.0.10",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/trash.git",
+                "reference": "3.0.10"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/trash-3.0.10.zip",
+                "reference": "3.0.10",
+                "shasum": "8ae49819c0a7454e95d2dd07c6ffda2b3e995b0c"
+            },
+            "require": {
+                "drupal/core": "^10.3 | ^11"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "3.0.10",
+                    "datestamp": "1734464327",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                },
+                "drush": {
+                    "services": {
+                        "drush.services.yml": ">=9"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "amateescu",
+                    "homepage": "https://www.drupal.org/user/729614"
+                },
+                {
+                    "name": "dixon_",
+                    "homepage": "https://www.drupal.org/user/239911"
+                },
+                {
+                    "name": "jeqq",
+                    "homepage": "https://www.drupal.org/user/1427908"
+                },
+                {
+                    "name": "rötzi",
+                    "homepage": "https://www.drupal.org/user/73064"
+                },
+                {
+                    "name": "timmillwood",
+                    "homepage": "https://www.drupal.org/user/227849"
+                }
+            ],
+            "description": "This module adds a trash bin for all content entities.",
+            "homepage": "https://www.drupal.org/project/trash",
+            "support": {
+                "source": "https://git.drupalcode.org/project/trash"
             }
         },
         {
@@ -7693,7 +7757,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "4eb40f77b9f3a870641a9795fd531f43ecd815c6"
+                "reference": "8835297a4570489614854ed8f45e0668c10ee506"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7759,17 +7823,17 @@
                 "drupal/ctools": "4.1.0",
                 "drupal/devel": "5.3.1",
                 "drupal/embed": "1.10.0",
-                "drupal/entity_embed": "1.6.0",
+                "drupal/entity_embed": "1.7.0",
                 "drupal/entity_reference_revisions": "1.12.0",
                 "drupal/externalauth": "2.0.7",
                 "drupal/features": "3.14.0",
                 "drupal/field_group": "3.6.0",
                 "drupal/focal_point": "2.1.2",
-                "drupal/google_cse": "4.0.0",
+                "drupal/google_cse": "5.0.0",
                 "drupal/google_tag": "2.0.8",
                 "drupal/jsonapi_extras": "3.26.0",
                 "drupal/layout_builder_iframe_modal": "1.3.3",
-                "drupal/linkit": "6.1.6",
+                "drupal/linkit": "7.0.3",
                 "drupal/media_alias_display": "2.1.0",
                 "drupal/media_entity_file_replace": "1.3.0",
                 "drupal/media_file_delete": "1.3.1",
@@ -7788,12 +7852,13 @@
                 "drupal/redirect": "1.11.0",
                 "drupal/redis": "1.9.0",
                 "drupal/responsive_preview": "2.2.0",
-                "drupal/scheduler": "2.2.0",
+                "drupal/scheduler": "2.2.1",
                 "drupal/shortcode": "2.0.2",
                 "drupal/simple_sitemap": "4.2.2",
                 "drupal/simplesamlphp_auth": "4.0.1",
                 "drupal/smtp": "1.4.0",
                 "drupal/token": "1.15.0",
+                "drupal/trash": "3.0.10",
                 "drupal/twig_tweak": "3.4.0",
                 "drupal/webform": "6.2.9",
                 "drush/drush": "12.5.3",
@@ -7856,7 +7921,7 @@
                 "simplesamlphp/composer-xmlprovider-installer": "v1.0.1",
                 "simplesamlphp/saml2": "v4.16.14",
                 "simplesamlphp/simplesamlphp": "v2.3.5",
-                "simplesamlphp/simplesamlphp-assets-base": "v2.3.5",
+                "simplesamlphp/simplesamlphp-assets-base": "v2.3.7",
                 "simplesamlphp/xml-common": "v1.24.2",
                 "simplesamlphp/xml-security": "v1.13.0",
                 "symfony/cache": "v6.4.18",
@@ -9379,16 +9444,16 @@
         },
         {
             "name": "simplesamlphp/simplesamlphp-assets-base",
-            "version": "v2.3.5",
+            "version": "v2.3.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp-assets-base.git",
-                "reference": "d2be59175e13841628e8f09e5be010512663fd29"
+                "reference": "23235665a66c42133af67807b1d4f4be5d454d63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/d2be59175e13841628e8f09e5be010512663fd29",
-                "reference": "d2be59175e13841628e8f09e5be010512663fd29",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/23235665a66c42133af67807b1d4f4be5d454d63",
+                "reference": "23235665a66c42133af67807b1d4f4be5d454d63",
                 "shasum": ""
             },
             "require": {
@@ -9409,9 +9474,9 @@
             "description": "Assets for the SimpleSAMLphp main repository",
             "support": {
                 "issues": "https://github.com/simplesamlphp/simplesamlphp-assets-base/issues",
-                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.5"
+                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.7"
             },
-            "time": "2025-01-05T01:17:03+00:00"
+            "time": "2025-02-05T20:24:36+00:00"
         },
         {
             "name": "simplesamlphp/xml-common",
@@ -13448,16 +13513,16 @@
         },
         {
             "name": "composer/class-map-generator",
-            "version": "1.5.0",
+            "version": "1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/class-map-generator.git",
-                "reference": "4b0a223cf5be7c9ee7e0ef1bc7db42b4a97c9915"
+                "reference": "ffe442c5974c44a9343e37a0abcb1cc37319f5b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/class-map-generator/zipball/4b0a223cf5be7c9ee7e0ef1bc7db42b4a97c9915",
-                "reference": "4b0a223cf5be7c9ee7e0ef1bc7db42b4a97c9915",
+                "url": "https://api.github.com/repos/composer/class-map-generator/zipball/ffe442c5974c44a9343e37a0abcb1cc37319f5b9",
+                "reference": "ffe442c5974c44a9343e37a0abcb1cc37319f5b9",
                 "shasum": ""
             },
             "require": {
@@ -13501,7 +13566,7 @@
             ],
             "support": {
                 "issues": "https://github.com/composer/class-map-generator/issues",
-                "source": "https://github.com/composer/class-map-generator/tree/1.5.0"
+                "source": "https://github.com/composer/class-map-generator/tree/1.6.0"
             },
             "funding": [
                 {
@@ -13517,7 +13582,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-11-25T16:11:06+00:00"
+            "time": "2025-02-05T10:05:34+00:00"
         },
         {
             "name": "composer/composer",
