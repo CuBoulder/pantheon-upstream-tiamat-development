@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "2f74e0c0d221a849877e9a19bcec71e62be97c25"
+                "reference": "b5cf4a50ed7e694327e90a0100be9ee1d9591367"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/2f74e0c0d221a849877e9a19bcec71e62be97c25",
-                "reference": "2f74e0c0d221a849877e9a19bcec71e62be97c25",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b5cf4a50ed7e694327e90a0100be9ee1d9591367",
+                "reference": "b5cf4a50ed7e694327e90a0100be9ee1d9591367",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20240212"
             },
-            "time": "2025-02-06T22:34:08+00:00"
+            "time": "2025-02-12T23:26:45+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "271e3557f9553400b4a559c7a47408907af6cdd1"
+                "reference": "7f7d13666219e66bd3815fbe86b50c135f09e30a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/271e3557f9553400b4a559c7a47408907af6cdd1",
-                "reference": "271e3557f9553400b4a559c7a47408907af6cdd1",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/7f7d13666219e66bd3815fbe86b50c135f09e30a",
+                "reference": "7f7d13666219e66bd3815fbe86b50c135f09e30a",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250212"
             },
-            "time": "2025-02-11T18:00:44+00:00"
+            "time": "2025-02-12T23:26:20+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "471e28bf03d004697a045c2b5791fbc771d627b0"
+                "reference": "a105432170246e706d0b51a754e7bbc7584f8f5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/471e28bf03d004697a045c2b5791fbc771d627b0",
-                "reference": "471e28bf03d004697a045c2b5791fbc771d627b0",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/a105432170246e706d0b51a754e7bbc7584f8f5c",
+                "reference": "a105432170246e706d0b51a754e7bbc7584f8f5c",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20250212"
             },
-            "time": "2025-02-06T22:35:07+00:00"
+            "time": "2025-02-12T23:25:53+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -5753,17 +5753,17 @@
         },
         {
             "name": "drupal/trash",
-            "version": "3.0.11",
+            "version": "3.0.12",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/trash.git",
-                "reference": "3.0.11"
+                "reference": "3.0.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/trash-3.0.11.zip",
-                "reference": "3.0.11",
-                "shasum": "05d6c269e3728f063227d86fd3b4369dd5c109a5"
+                "url": "https://ftp.drupal.org/files/projects/trash-3.0.12.zip",
+                "reference": "3.0.12",
+                "shasum": "d0b94b6edd5b3f418b31d95324c6cd2ba183e271"
             },
             "require": {
                 "drupal/core": "^10.3 | ^11"
@@ -5771,8 +5771,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.11",
-                    "datestamp": "1739374141",
+                    "version": "3.0.12",
+                    "datestamp": "1739395398",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5874,6 +5874,65 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/twig_tweak",
                 "issues": "https://www.drupal.org/project/issues/twig_tweak"
+            }
+        },
+        {
+            "name": "drupal/unpublished_404",
+            "version": "2.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/unpublished_404.git",
+                "reference": "2.0.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/unpublished_404-2.0.3.zip",
+                "reference": "2.0.3",
+                "shasum": "80ec1aee27cb68abfcc9619819bed49a0610fcdf"
+            },
+            "require": {
+                "drupal/core": "^8.8 || ^9 || ^10 || ^11"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "2.0.3",
+                    "datestamp": "1737506847",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Gaurav Kapoor (gaurav.kapoor)",
+                    "homepage": "https://www.drupal.org/u/gauravkapoor",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Angelo Porretta (captainpants)",
+                    "homepage": "https://www.drupal.org/u/captainpants",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "singularo",
+                    "homepage": "https://www.drupal.org/user/143"
+                }
+            ],
+            "description": "Displays 404 page not found instead of 403 access denied if user tries to access any unauthorized or unpublished node.",
+            "homepage": "http://drupal.org/project/unpublished_404",
+            "keywords": [
+                "Drupal",
+                "Unpublished 404"
+            ],
+            "support": {
+                "source": "https://git.drupalcode.org/project/unpublished_404",
+                "issues": "https://www.drupal.org/project/issues/unpublished_404"
             }
         },
         {
@@ -7830,7 +7889,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "bca7b5a38030b8d938ede229cc33d64dc21c1ba3"
+                "reference": "aa4258991c615b09caf6a1411d364b2c319d8c62"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7932,8 +7991,9 @@
                 "drupal/simplesamlphp_auth": "4.0.1",
                 "drupal/smtp": "1.4.0",
                 "drupal/token": "1.15.0",
-                "drupal/trash": "3.0.11",
+                "drupal/trash": "3.0.12",
                 "drupal/twig_tweak": "3.4.0",
+                "drupal/unpublished_404": "2.0.3",
                 "drupal/webform": "6.2.9",
                 "drush/drush": "12.5.3",
                 "e0ipso/shaper": "1.2.5",
