@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c2e1654dd457ad81790abecc8b7abeee",
+    "content-hash": "9d656b0b408c78e0a00e2ceec15e15a4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -908,16 +908,16 @@
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20250219",
+            "version": "20250226",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "06386933034f4a9f57c9b6dfb5a441b19d534fb9"
+                "reference": "aa139a4e48beceae30073ae444ab063ca0ff09f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/06386933034f4a9f57c9b6dfb5a441b19d534fb9",
-                "reference": "06386933034f4a9f57c9b6dfb5a441b19d534fb9",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/aa139a4e48beceae30073ae444ab063ca0ff09f8",
+                "reference": "aa139a4e48beceae30073ae444ab063ca0ff09f8",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -928,9 +928,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250219"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250226"
             },
-            "time": "2025-02-19T18:05:05+00:00"
+            "time": "2025-02-26T22:07:55+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
