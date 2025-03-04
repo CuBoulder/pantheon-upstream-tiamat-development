@@ -28,7 +28,7 @@
         "npm-asset/northernco--ckeditor5-anchor-drupal": "0.5.0",
         "composer/installers": "^2.1",
         "cu-boulder/boulder_base": "20250226",
-        "cu-boulder/boulder_profile": "20250219",
+        "cu-boulder/boulder_profile": "20250226",
         "cu-boulder/express_admin": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
         "cu-boulder/ucb_article_author": "dev-main",
