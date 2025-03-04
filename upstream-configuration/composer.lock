@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9d656b0b408c78e0a00e2ceec15e15a4",
+    "content-hash": "c2e1654dd457ad81790abecc8b7abeee",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -908,16 +908,16 @@
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20250226",
+            "version": "20250219",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "aa139a4e48beceae30073ae444ab063ca0ff09f8"
+                "reference": "06386933034f4a9f57c9b6dfb5a441b19d534fb9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/aa139a4e48beceae30073ae444ab063ca0ff09f8",
-                "reference": "aa139a4e48beceae30073ae444ab063ca0ff09f8",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/06386933034f4a9f57c9b6dfb5a441b19d534fb9",
+                "reference": "06386933034f4a9f57c9b6dfb5a441b19d534fb9",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -928,9 +928,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250226"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250219"
             },
-            "time": "2025-02-26T22:07:55+00:00"
+            "time": "2025-02-19T18:05:05+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -4522,17 +4522,17 @@
         },
         {
             "name": "drupal/menu_block",
-            "version": "1.13.0",
+            "version": "1.14.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/menu_block.git",
-                "reference": "8.x-1.13"
+                "reference": "8.x-1.14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/menu_block-8.x-1.13.zip",
-                "reference": "8.x-1.13",
-                "shasum": "693a932cba9bd5767bdeee506de446228bc4cc8c"
+                "url": "https://ftp.drupal.org/files/projects/menu_block-8.x-1.14.zip",
+                "reference": "8.x-1.14",
+                "shasum": "c71e60acaba8a7553e8cf423a56328771cbdedf4"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -4540,8 +4540,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.13",
-                    "datestamp": "1722579322",
+                    "version": "8.x-1.14",
+                    "datestamp": "1740624449",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4920,31 +4920,40 @@
         },
         {
             "name": "drupal/pantheon_advanced_page_cache",
-            "version": "2.3.1",
+            "version": "2.3.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/pantheon_advanced_page_cache.git",
-                "reference": "2.3.1"
+                "reference": "2.3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/pantheon_advanced_page_cache-2.3.1.zip",
-                "reference": "2.3.1",
-                "shasum": "1df3a05810ed0f83f11bd57312c67d7dae06b6e0"
+                "url": "https://ftp.drupal.org/files/projects/pantheon_advanced_page_cache-2.3.2.zip",
+                "reference": "2.3.2",
+                "shasum": "dfc46bf24b77787192c6caa7154e5ae021cf16a9"
             },
             "require": {
-                "drupal/core": "^9.4 || ^10 || ^11"
+                "drupal/core": "^9.4 || ^10 || ^11",
+                "guzzlehttp/psr7": "^2.4.5",
+                "php": ">=7.4",
+                "symfony/http-foundation": "^6 || ^7"
             },
             "require-dev": {
-                "drupal/coder": "^8.2",
-                "drupal/drupal-extension": "^3.3",
-                "phpunit/phpunit": "^6.3"
+                "consolidation/robo": "^5.1",
+                "czproject/git-php": "^4.3",
+                "drupal/coder": "@stable",
+                "drupal/drupal-extension": "@stable",
+                "phpunit/phpunit": "@stable",
+                "psy/psysh": "@stable",
+                "squizlabs/php_codesniffer": "@stable",
+                "symfony/finder": "^4.4|^5|^6|^7",
+                "symfony/yaml": "^4.4|^5|^6|^7"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.3.1",
-                    "datestamp": "1727889724",
+                    "version": "2.3.2",
+                    "datestamp": "1740801035",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4958,22 +4967,25 @@
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
             "scripts": {
-                "codesniff": [
-                    "phpcs --report=full --extensions=php,module,inc,theme,info,install --standard=vendor/drupal/coder/coder_sniffer/Drupal src",
-                    "phpcs --report=full --extensions=php,module,inc,theme,info,install --standard=vendor/drupal/coder/coder_sniffer/Drupal tests/modules",
-                    "phpcs  tests/behat  --standard=PSR2"
+                "code:fix": [
+                    "vendor/bin/phpcs --config-set installed_paths vendor/drupal/coder/coder_sniffer",
+                    "vendor/bin/phpcbf . --ignore=vendor src"
                 ],
-                "phpcbf": [
-                    "phpcbf --report=full --extensions=php,module,inc,theme,info,install --standard=vendor/drupal/coder/coder_sniffer/Drupal src",
-                    "phpcbf --report=full --extensions=php,module,inc,theme,info,install --standard=vendor/drupal/coder/coder_sniffer/Drupal tests/modules",
-                    "phpcbf  tests/behat  --standard=PSR2"
+                "code:lint": [
+                    "vendor/bin/phpcs --config-set installed_paths vendor/drupal/coder/coder_sniffer",
+                    "vendor/bin/phpcs --ignore=RoboFile.php,vendor,.github . "
                 ],
-                "phpunit": [
-                    "phpunit tests --colors=always"
+                "test": [
+                    "vendor/bin/robo test:full"
+                ],
+                "pre-commit": [
+                    "composer validate --strict",
+                    "@code:fix",
+                    "@code:lint"
                 ]
             },
             "license": [
-                "GPL-2.0-or-later"
+                "MIT"
             ],
             "authors": [
                 {
@@ -4981,7 +4993,7 @@
                     "homepage": "https://www.drupal.org/user/93254"
                 },
                 {
-                    "name": "Ec1ipsis",
+                    "name": "ec1ipsis",
                     "homepage": "https://www.drupal.org/user/1600400"
                 },
                 {
@@ -4999,9 +5011,13 @@
                 {
                     "name": "stevector",
                     "homepage": "https://www.drupal.org/user/179805"
+                },
+                {
+                    "name": "stovak",
+                    "homepage": "https://www.drupal.org/user/1074930"
                 }
             ],
-            "description": "Advanced page cache capabilities for Pantheon.",
+            "description": "Drupal Integration for the Pantheon Advanced Page Cache. Code mirror at drupal/pantheon_advanced_page_cache.",
             "homepage": "https://www.drupal.org/project/pantheon_advanced_page_cache",
             "support": {
                 "source": "https://git.drupalcode.org/project/pantheon_advanced_page_cache"
@@ -5009,17 +5025,17 @@
         },
         {
             "name": "drupal/paragraphs",
-            "version": "1.18.0",
+            "version": "1.19.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/paragraphs.git",
-                "reference": "8.x-1.18"
+                "reference": "8.x-1.19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/paragraphs-8.x-1.18.zip",
-                "reference": "8.x-1.18",
-                "shasum": "594e2937ea5c95fc88b60420590c4d83f5cd71ee"
+                "url": "https://ftp.drupal.org/files/projects/paragraphs-8.x-1.19.zip",
+                "reference": "8.x-1.19",
+                "shasum": "831a81a11eac419e8410db45efef5b283c4d117c"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11",
@@ -5032,7 +5048,7 @@
                 "drupal/entity_usage": "2.x-dev",
                 "drupal/feeds": "^3",
                 "drupal/field_group": "3.x-dev",
-                "drupal/inline_entity_form": "1.x-dev",
+                "drupal/inline_entity_form": "3.x-dev",
                 "drupal/paragraphs-paragraphs_library": "*",
                 "drupal/replicate": "1.x-dev",
                 "drupal/search_api": "^1",
@@ -5044,8 +5060,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.18",
-                    "datestamp": "1723029144",
+                    "version": "8.x-1.19",
+                    "datestamp": "1740907076",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5062,7 +5078,7 @@
                     "homepage": "https://www.drupal.org/user/214652"
                 },
                 {
-                    "name": "Frans",
+                    "name": "frans",
                     "homepage": "https://www.drupal.org/user/514222"
                 },
                 {
@@ -9382,16 +9398,16 @@
         },
         {
             "name": "simplesamlphp/simplesamlphp-assets-base",
-            "version": "v2.3.8",
+            "version": "v2.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp-assets-base.git",
-                "reference": "cf99d88df5597a27aa37c534c8f83c84953050ae"
+                "reference": "75bd31897ed3634d97de2815b5fa668625f8134d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/cf99d88df5597a27aa37c534c8f83c84953050ae",
-                "reference": "cf99d88df5597a27aa37c534c8f83c84953050ae",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/75bd31897ed3634d97de2815b5fa668625f8134d",
+                "reference": "75bd31897ed3634d97de2815b5fa668625f8134d",
                 "shasum": ""
             },
             "require": {
@@ -9412,9 +9428,9 @@
             "description": "Assets for the SimpleSAMLphp main repository",
             "support": {
                 "issues": "https://github.com/simplesamlphp/simplesamlphp-assets-base/issues",
-                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.8"
+                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.9"
             },
-            "time": "2025-02-23T01:15:59+00:00"
+            "time": "2025-03-02T17:54:55+00:00"
         },
         {
             "name": "simplesamlphp/xml-common",
