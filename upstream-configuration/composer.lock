@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f1fcd53bafc4cf61348dfb38ec696e26",
+    "content-hash": "88e3ec1634822833c95d4ba6f8611b33",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -882,16 +882,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20250409",
+            "version": "20250423",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "f0eb7df68ae87308cf091bbccca2506cfc5b7c44"
+                "reference": "29a90fc052e99bc43e5db83461d0d3b30a2eaf41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/f0eb7df68ae87308cf091bbccca2506cfc5b7c44",
-                "reference": "f0eb7df68ae87308cf091bbccca2506cfc5b7c44",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/29a90fc052e99bc43e5db83461d0d3b30a2eaf41",
+                "reference": "29a90fc052e99bc43e5db83461d0d3b30a2eaf41",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -902,22 +902,22 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250409"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250423"
             },
-            "time": "2025-04-09T21:01:12+00:00"
+            "time": "2025-04-23T21:08:59+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20250312",
+            "version": "20250423",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "410f4cfc58d05faa0943e91ff2219e9328d2ef4a"
+                "reference": "ba8d38d6ff8bbc8d714b3167a3b3836447f2f77e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/410f4cfc58d05faa0943e91ff2219e9328d2ef4a",
-                "reference": "410f4cfc58d05faa0943e91ff2219e9328d2ef4a",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/ba8d38d6ff8bbc8d714b3167a3b3836447f2f77e",
+                "reference": "ba8d38d6ff8bbc8d714b3167a3b3836447f2f77e",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -928,9 +928,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250312"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250423"
             },
-            "time": "2025-03-12T20:39:48+00:00"
+            "time": "2025-04-23T20:59:57+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1123,16 +1123,16 @@
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
-            "version": "20250409",
+            "version": "20250423",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "59e18e05cbb41cdfc09f82d585fd09999e71e74b"
+                "reference": "e3036ce827bceadf405cf2820e1131deeff18e60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/59e18e05cbb41cdfc09f82d585fd09999e71e74b",
-                "reference": "59e18e05cbb41cdfc09f82d585fd09999e71e74b",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/e3036ce827bceadf405cf2820e1131deeff18e60",
+                "reference": "e3036ce827bceadf405cf2820e1131deeff18e60",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -1143,9 +1143,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20250409"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20250423"
             },
-            "time": "2025-04-09T20:59:13+00:00"
+            "time": "2025-04-23T20:56:14+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1313,12 +1313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "73273489c64b1511a2d8cd34c0cea5b770371abf"
+                "reference": "de8544434d1da4e742850c43db189f969f018d50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/73273489c64b1511a2d8cd34c0cea5b770371abf",
-                "reference": "73273489c64b1511a2d8cd34c0cea5b770371abf",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/de8544434d1da4e742850c43db189f969f018d50",
+                "reference": "de8544434d1da4e742850c43db189f969f018d50",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1332,7 +1332,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2025-03-10T22:14:51+00:00"
+            "time": "2025-04-22T17:28:57+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -2447,96 +2447,6 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/captcha",
                 "issues": "https://www.drupal.org/project/issues/captcha"
-            }
-        },
-        {
-            "name": "drupal/ckeditor5_bootstrap_accordion",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/ckeditor5_bootstrap_accordion.git",
-                "reference": "1.0.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ckeditor5_bootstrap_accordion-1.0.0.zip",
-                "reference": "1.0.0",
-                "shasum": "eda7b757f0a6e52ea108ef6a271530363dae940f"
-            },
-            "require": {
-                "drupal/core": "^9.5 || ^10 || ^11"
-            },
-            "type": "drupal-module",
-            "extra": {
-                "drupal": {
-                    "version": "1.0.0",
-                    "datestamp": "1722888817",
-                    "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Project has not opted into security advisory coverage!"
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "timurtripp",
-                    "homepage": "https://www.drupal.org/user/3750616"
-                }
-            ],
-            "description": "Insert and edit a Bootstrap 5 accordion in CKEditor 5.",
-            "homepage": "https://www.drupal.org/project/ckeditor5_bootstrap_accordion",
-            "support": {
-                "source": "https://git.drupalcode.org/project/ckeditor5_bootstrap_accordion",
-                "issues": "https://drupal.org/project/issues/ckeditor5_bootstrap_accordion"
-            }
-        },
-        {
-            "name": "drupal/ckeditor5_icons",
-            "version": "1.1.3",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/ckeditor5_icons.git",
-                "reference": "1.1.3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ckeditor5_icons-1.1.3.zip",
-                "reference": "1.1.3",
-                "shasum": "9dbd818ec0676c14abfea81e6bd2d85ab1b79c83"
-            },
-            "require": {
-                "drupal/core": "^9.5 || ^10 || ^11"
-            },
-            "type": "drupal-module",
-            "extra": {
-                "drupal": {
-                    "version": "1.1.3",
-                    "datestamp": "1722449308",
-                    "security-coverage": {
-                        "status": "covered",
-                        "message": "Covered by Drupal's security advisory policy"
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "timurtripp",
-                    "homepage": "https://www.drupal.org/user/3750616"
-                }
-            ],
-            "description": "Search for and insert Font Awesome icons without leaving the editor.",
-            "homepage": "https://www.drupal.org/project/ckeditor5_icons",
-            "support": {
-                "source": "https://git.drupalcode.org/project/ckeditor5_icons",
-                "issues": "https://drupal.org/project/issues/ckeditor5_icons"
             }
         },
         {
@@ -3846,17 +3756,17 @@
         },
         {
             "name": "drupal/google_cse",
-            "version": "5.0.0",
+            "version": "5.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/google_cse.git",
-                "reference": "5.0.0"
+                "reference": "5.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/google_cse-5.0.0.zip",
-                "reference": "5.0.0",
-                "shasum": "8e157c1860901d35422d4355c9d0875f65201e7f"
+                "url": "https://ftp.drupal.org/files/projects/google_cse-5.0.1.zip",
+                "reference": "5.0.1",
+                "shasum": "2d313cff9cca94147ceff11ecbe3189bf5d0b899"
             },
             "require": {
                 "drupal/core": "^10|| ^11"
@@ -3864,8 +3774,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "5.0.0",
-                    "datestamp": "1718297841",
+                    "version": "5.0.1",
+                    "datestamp": "1744902334",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3954,7 +3864,7 @@
                     "homepage": "https://www.drupal.org/user/3403722"
                 },
                 {
-                    "name": "University of Colorado Boulder",
+                    "name": "university of colorado boulder",
                     "homepage": "https://www.drupal.org/user/3299791"
                 },
                 {
@@ -4255,17 +4165,17 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "7.0.3",
+            "version": "7.0.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "7.0.3"
+                "reference": "7.0.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.3.zip",
-                "reference": "7.0.3",
-                "shasum": "bc880d9fbc08a1cbd1ee76fab845841ec79ce4e7"
+                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.4.zip",
+                "reference": "7.0.4",
+                "shasum": "cb112f26b1475f6857c9012880ec17f1636dd053"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -4277,8 +4187,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.0.3",
-                    "datestamp": "1738264704",
+                    "version": "7.0.4",
+                    "datestamp": "1745413700",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6159,16 +6069,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "13.5.1",
+            "version": "13.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "16076b24532eb27aaf9e2b8bca1e05a74871c713"
+                "reference": "570a05dce7aea9770f17306808804290764127ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/16076b24532eb27aaf9e2b8bca1e05a74871c713",
-                "reference": "16076b24532eb27aaf9e2b8bca1e05a74871c713",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/570a05dce7aea9770f17306808804290764127ad",
+                "reference": "570a05dce7aea9770f17306808804290764127ad",
                 "shasum": ""
             },
             "require": {
@@ -6295,7 +6205,7 @@
                 "issues": "https://github.com/drush-ops/drush/issues",
                 "security": "https://github.com/drush-ops/drush/security/advisories",
                 "slack": "https://drupal.slack.com/messages/C62H9CWQM",
-                "source": "https://github.com/drush-ops/drush/tree/13.5.1"
+                "source": "https://github.com/drush-ops/drush/tree/13.6.0"
             },
             "funding": [
                 {
@@ -6303,7 +6213,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-04-04T11:38:40+00:00"
+            "time": "2025-04-22T12:14:13+00:00"
         },
         {
             "name": "e0ipso/shaper",
