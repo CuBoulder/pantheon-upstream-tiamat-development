@@ -92,6 +92,7 @@
         "enable-patching": true
     },
     "config": {
+        "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
         "platform": {
