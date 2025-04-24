@@ -933,6 +933,66 @@
             "time": "2025-04-23T20:59:57+00:00"
         },
         {
+            "name": "cu-boulder/ckeditor5_bootstrap_accordion",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CuBoulder/ucb_ckeditor_accordion.git",
+                "reference": "de4b4a38bd70e8da564250deac5ded871f213b32"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_accordion/zipball/de4b4a38bd70e8da564250deac5ded871f213b32",
+                "reference": "de4b4a38bd70e8da564250deac5ded871f213b32",
+                "shasum": ""
+            },
+            "require": {
+                "drupal/core": "^10 || ^11"
+            },
+            "default-branch": true,
+            "type": "drupal-custom-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Insert and edit a Bootstrap 5 accordion in CKEditor 5.",
+            "support": {
+                "issues": "https://github.com/CuBoulder/ucb_ckeditor_accordion/issues",
+                "source": "https://github.com/CuBoulder/ucb_ckeditor_accordion/tree/main"
+            },
+            "time": "2025-04-14T22:28:33+00:00"
+        },
+        {
+            "name": "cu-boulder/ckeditor5_icons",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CuBoulder/ucb_ckeditor_icons.git",
+                "reference": "e3ca4ea7e1ae17c6952d3a3def0d7d3f66b64f30"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_icons/zipball/e3ca4ea7e1ae17c6952d3a3def0d7d3f66b64f30",
+                "reference": "e3ca4ea7e1ae17c6952d3a3def0d7d3f66b64f30",
+                "shasum": ""
+            },
+            "require": {
+                "drupal/core": "^10 || ^11"
+            },
+            "default-branch": true,
+            "type": "drupal-custom-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Search for and insert Font Awesome icons without leaving the editor.",
+            "support": {
+                "issues": "https://github.com/CuBoulder/ucb_ckeditor_icons/issues",
+                "source": "https://github.com/CuBoulder/ucb_ckeditor_icons/tree/main"
+            },
+            "time": "2025-04-14T22:28:46+00:00"
+        },
+        {
             "name": "cu-boulder/express_admin",
             "version": "dev-main",
             "source": {
@@ -8055,7 +8115,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "48e23c479c746ec233117d4cccd4326f60aaf10a"
+                "reference": "526a2633e05a0bf32a285d7b4e0a016cd52beeca"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -8074,6 +8134,8 @@
                 "consolidation/site-process": "5.4.2",
                 "cu-boulder/boulder_base": "20250423",
                 "cu-boulder/boulder_profile": "20250423",
+                "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
+                "cu-boulder/ckeditor5_icons": "dev-main",
                 "cu-boulder/express_admin": "dev-main",
                 "cu-boulder/ucb_admin_menus": "dev-main",
                 "cu-boulder/ucb_article_author": "dev-main",
@@ -8204,7 +8266,7 @@
                 "pear/pear_exception": "v1.0.2",
                 "phootwork/collection": "v3.2.3",
                 "phootwork/lang": "v3.2.3",
-                "phpmailer/phpmailer": "v6.9.3",
+                "phpmailer/phpmailer": "v6.10.0",
                 "phpowermove/docblock": "v4.0",
                 "psr/cache": "3.0.0",
                 "psr/container": "2.0.2",
@@ -8609,16 +8671,16 @@
         },
         {
             "name": "phpmailer/phpmailer",
-            "version": "v6.9.3",
+            "version": "v6.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPMailer/PHPMailer.git",
-                "reference": "2f5c94fe7493efc213f643c23b1b1c249d40f47e"
+                "reference": "bf74d75a1fde6beaa34a0ddae2ec5fce0f72a144"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/2f5c94fe7493efc213f643c23b1b1c249d40f47e",
-                "reference": "2f5c94fe7493efc213f643c23b1b1c249d40f47e",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/bf74d75a1fde6beaa34a0ddae2ec5fce0f72a144",
+                "reference": "bf74d75a1fde6beaa34a0ddae2ec5fce0f72a144",
                 "shasum": ""
             },
             "require": {
@@ -8678,7 +8740,7 @@
             "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
             "support": {
                 "issues": "https://github.com/PHPMailer/PHPMailer/issues",
-                "source": "https://github.com/PHPMailer/PHPMailer/tree/v6.9.3"
+                "source": "https://github.com/PHPMailer/PHPMailer/tree/v6.10.0"
             },
             "funding": [
                 {
@@ -8686,7 +8748,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-11-24T18:04:13+00:00"
+            "time": "2025-04-24T15:19:31+00:00"
         },
         {
             "name": "phpowermove/docblock",
