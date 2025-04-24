@@ -121,7 +121,8 @@
             "rm -rf vendor/simplesamlphp/simplesamlphp/cert",
             "ln -sf ../../../private/metadata vendor/simplesamlphp/simplesamlphp/metadata",
             "ln -sf ../../../private/config vendor/simplesamlphp/simplesamlphp/config",
-            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert"
+            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert",
+            "composer dump-autoload -o"
         ],
         "post-install-cmd": [
             "rm -rf vendor/simplesamlphp/simplesamlphp/metadata",
@@ -129,7 +130,8 @@
             "rm -rf vendor/simplesamlphp/simplesamlphp/cert",
             "ln -sf ../../../private/metadata vendor/simplesamlphp/simplesamlphp/metadata",
             "ln -sf ../../../private/config vendor/simplesamlphp/simplesamlphp/config",
-            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert"
+            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert",
+            "composer dump-autoload -o"
         ]
     }
 }
