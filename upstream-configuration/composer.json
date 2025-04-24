@@ -49,6 +49,8 @@
         "cu-boulder/ucb_user_invite": "dev-main",
         "cu-boulder/ucb_third_party_libraries": "dev-main",
         "cu-boulder/ucb_user_invite": "dev-main",
+        "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
+        "cu-boulder/ckeditor5_icons": "dev-main",
         "cweagans/composer-patches": "^1.7",
         "drupal/admin_toolbar": "^3.4",
         "drupal/administerusersbyrole": "^3.4",
