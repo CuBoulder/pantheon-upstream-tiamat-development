@@ -882,16 +882,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20250604",
+            "version": "20250611",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "b417b8f9b6d8b2b637cfb38b2a69e854ef731573"
+                "reference": "6b7ce7a64294cf7861ca8408c6a0840a63b7069f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b417b8f9b6d8b2b637cfb38b2a69e854ef731573",
-                "reference": "b417b8f9b6d8b2b637cfb38b2a69e854ef731573",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6b7ce7a64294cf7861ca8408c6a0840a63b7069f",
+                "reference": "6b7ce7a64294cf7861ca8408c6a0840a63b7069f",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -902,9 +902,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250604"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250611"
             },
-            "time": "2025-06-04T20:29:34+00:00"
+            "time": "2025-06-11T21:06:04+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -2079,17 +2079,17 @@
         },
         {
             "name": "drupal/admin_toolbar",
-            "version": "3.6.0",
+            "version": "3.6.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/admin_toolbar.git",
-                "reference": "3.6.0"
+                "reference": "3.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/admin_toolbar-3.6.0.zip",
-                "reference": "3.6.0",
-                "shasum": "ee03fd8e5394525f6e0aaf19db75624fbefc5b5d"
+                "url": "https://ftp.drupal.org/files/projects/admin_toolbar-3.6.1.zip",
+                "reference": "3.6.1",
+                "shasum": "40e8874bdf100de90e0eec6984be14f0ec7765b0"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2100,8 +2100,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.6.0",
-                    "datestamp": "1747981575",
+                    "version": "3.6.1",
+                    "datestamp": "1749079734",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2713,16 +2713,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "10.4.7",
+            "version": "10.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "547fa74348dda2ecb4a3e752f88a5c40be675d64"
+                "reference": "18b5bd895531f95c8c537e2445a27d64415c3846"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/547fa74348dda2ecb4a3e752f88a5c40be675d64",
-                "reference": "547fa74348dda2ecb4a3e752f88a5c40be675d64",
+                "url": "https://api.github.com/repos/drupal/core/zipball/18b5bd895531f95c8c537e2445a27d64415c3846",
+                "reference": "18b5bd895531f95c8c537e2445a27d64415c3846",
                 "shasum": ""
             },
             "require": {
@@ -2871,13 +2871,13 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/10.4.7"
+                "source": "https://github.com/drupal/core/tree/10.4.8"
             },
-            "time": "2025-05-08T04:06:41+00:00"
+            "time": "2025-06-05T23:40:40+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "10.4.7",
+            "version": "10.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -2921,13 +2921,13 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.4.7"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.5.0-beta1"
             },
             "time": "2024-08-22T14:31:30+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "10.4.7",
+            "version": "10.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -2962,22 +2962,22 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-project-message/tree/11.1.7"
+                "source": "https://github.com/drupal/core-project-message/tree/11.1.8"
             },
             "time": "2023-07-24T07:55:25+00:00"
         },
         {
             "name": "drupal/core-recommended",
-            "version": "10.4.7",
+            "version": "10.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "308b63fa05111c15f4a36919718b7c2d016af892"
+                "reference": "d5e2b8461b93e5b0bf4495b41feadb8fb2c9d40b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/308b63fa05111c15f4a36919718b7c2d016af892",
-                "reference": "308b63fa05111c15f4a36919718b7c2d016af892",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/d5e2b8461b93e5b0bf4495b41feadb8fb2c9d40b",
+                "reference": "d5e2b8461b93e5b0bf4495b41feadb8fb2c9d40b",
                 "shasum": ""
             },
             "require": {
@@ -2986,7 +2986,7 @@
                 "doctrine/annotations": "~1.14.4",
                 "doctrine/deprecations": "~1.1.3",
                 "doctrine/lexer": "~2.1.1",
-                "drupal/core": "10.4.7",
+                "drupal/core": "10.4.8",
                 "egulias/email-validator": "~4.0.2",
                 "guzzlehttp/guzzle": "~7.9.2",
                 "guzzlehttp/promises": "~2.0.4",
@@ -3047,9 +3047,9 @@
             ],
             "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/10.4.7"
+                "source": "https://github.com/drupal/core-recommended/tree/10.4.8"
             },
-            "time": "2025-05-08T04:06:41+00:00"
+            "time": "2025-06-05T23:40:40+00:00"
         },
         {
             "name": "drupal/crop",
@@ -5832,17 +5832,17 @@
         },
         {
             "name": "drupal/trash",
-            "version": "3.0.16",
+            "version": "3.0.18",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/trash.git",
-                "reference": "3.0.16"
+                "reference": "3.0.18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/trash-3.0.16.zip",
-                "reference": "3.0.16",
-                "shasum": "d293c7bda6474d39fcbb8d8994fafffebae08a84"
+                "url": "https://ftp.drupal.org/files/projects/trash-3.0.18.zip",
+                "reference": "3.0.18",
+                "shasum": "a206cc3e6d72698e2170e1a14729a9725bf6bd44"
             },
             "require": {
                 "drupal/core": "^10.3 | ^11"
@@ -5850,14 +5850,17 @@
             "conflict": {
                 "drush/drush": "<12.5.1"
             },
+            "require-dev": {
+                "drupal/wse": "*"
+            },
             "suggest": {
                 "drush/drush": "^12 || ^13"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.16",
-                    "datestamp": "1743167742",
+                    "version": "3.0.18",
+                    "datestamp": "1749227080",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8193,7 +8196,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "b1c7f50d9493a51d5786f23e326844ebc777654d"
+                "reference": "026276be4384c61595d6b20f7a199c04cb77d8a2"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -8210,7 +8213,7 @@
                 "consolidation/self-update": "2.2.0",
                 "consolidation/site-alias": "4.1.1",
                 "consolidation/site-process": "5.4.2",
-                "cu-boulder/boulder_base": "20250604",
+                "cu-boulder/boulder_base": "20250611",
                 "cu-boulder/boulder_profile": "20250521",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
@@ -8240,7 +8243,7 @@
                 "doctrine/event-manager": "2.0.1",
                 "doctrine/lexer": "2.1.1",
                 "doctrine/persistence": "4.0.0",
-                "drupal/admin_toolbar": "3.6.0",
+                "drupal/admin_toolbar": "3.6.1",
                 "drupal/administerusersbyrole": "3.5.0",
                 "drupal/aggregator": "2.2.2",
                 "drupal/anchor_link": "3.0.0-beta1",
@@ -8251,10 +8254,10 @@
                 "drupal/config_update": "2.0.0-alpha4",
                 "drupal/consumer_image_styles": "4.0.10",
                 "drupal/consumers": "1.19.0",
-                "drupal/core": "10.4.7",
-                "drupal/core-composer-scaffold": "10.4.7",
-                "drupal/core-project-message": "10.4.7",
-                "drupal/core-recommended": "10.4.7",
+                "drupal/core": "10.4.8",
+                "drupal/core-composer-scaffold": "10.4.8",
+                "drupal/core-project-message": "10.4.8",
+                "drupal/core-recommended": "10.4.8",
                 "drupal/crop": "2.4.0",
                 "drupal/ctools": "4.1.0",
                 "drupal/devel": "5.3.1",
@@ -8297,7 +8300,7 @@
                 "drupal/simplesamlphp_auth": "4.0.1",
                 "drupal/smtp": "1.4.0",
                 "drupal/token": "1.15.0",
-                "drupal/trash": "3.0.16",
+                "drupal/trash": "3.0.18",
                 "drupal/twig_tweak": "3.4.1",
                 "drupal/unpublished_404": "2.0.3",
                 "drupal/webform": "6.2.9",
@@ -8367,7 +8370,7 @@
                 "simplesamlphp/simplesamlphp": "v2.4.2",
                 "simplesamlphp/simplesamlphp-assets-base": "v2.3.9",
                 "simplesamlphp/xml-common": "v1.25.0",
-                "simplesamlphp/xml-security": "v1.13.1",
+                "simplesamlphp/xml-security": "v1.13.2",
                 "simplesamlphp/xml-soap": "v1.7.1",
                 "symfony/cache": "v6.4.21",
                 "symfony/cache-contracts": "v3.6.0",
@@ -10058,16 +10061,16 @@
         },
         {
             "name": "simplesamlphp/xml-security",
-            "version": "v1.13.1",
+            "version": "v1.13.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-security.git",
-                "reference": "e131fee092fd49851fb5220b8a653436d5806c5e"
+                "reference": "a7f2e09632da1179ecb9a021c3c2fbcbcd28071a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/e131fee092fd49851fb5220b8a653436d5806c5e",
-                "reference": "e131fee092fd49851fb5220b8a653436d5806c5e",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/a7f2e09632da1179ecb9a021c3c2fbcbcd28071a",
+                "reference": "a7f2e09632da1179ecb9a021c3c2fbcbcd28071a",
                 "shasum": ""
             },
             "require": {
@@ -10116,9 +10119,9 @@
             ],
             "support": {
                 "issues": "https://github.com/simplesamlphp/xml-security/issues",
-                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.13.1"
+                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.13.2"
             },
-            "time": "2025-06-03T21:12:22+00:00"
+            "time": "2025-06-04T21:49:04+00:00"
         },
         {
             "name": "simplesamlphp/xml-soap",
