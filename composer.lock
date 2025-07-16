@@ -366,16 +366,16 @@
         },
         {
             "name": "consolidation/annotated-command",
-            "version": "4.10.1",
+            "version": "4.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/annotated-command.git",
-                "reference": "362310b13ececa9f6f0a4a880811fa08fecc348b"
+                "reference": "e550ea4f177f199e0e9451168342bf3f321d92b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/annotated-command/zipball/362310b13ececa9f6f0a4a880811fa08fecc348b",
-                "reference": "362310b13ececa9f6f0a4a880811fa08fecc348b",
+                "url": "https://api.github.com/repos/consolidation/annotated-command/zipball/e550ea4f177f199e0e9451168342bf3f321d92b0",
+                "reference": "e550ea4f177f199e0e9451168342bf3f321d92b0",
                 "shasum": ""
             },
             "require": {
@@ -416,9 +416,9 @@
             "description": "Initialize Symfony Console commands from annotated command class methods.",
             "support": {
                 "issues": "https://github.com/consolidation/annotated-command/issues",
-                "source": "https://github.com/consolidation/annotated-command/tree/4.10.1"
+                "source": "https://github.com/consolidation/annotated-command/tree/4.10.2"
             },
-            "time": "2024-12-13T19:55:40+00:00"
+            "time": "2025-07-16T20:54:09+00:00"
         },
         {
             "name": "consolidation/config",
@@ -827,16 +827,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20250709",
+            "version": "20250716",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "5b4a9e5e4705732360912ec0c3cf11fde6c0cc04"
+                "reference": "6cc9bc16789ef1fa6d6621e0fad8873dc6385e34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/5b4a9e5e4705732360912ec0c3cf11fde6c0cc04",
-                "reference": "5b4a9e5e4705732360912ec0c3cf11fde6c0cc04",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6cc9bc16789ef1fa6d6621e0fad8873dc6385e34",
+                "reference": "6cc9bc16789ef1fa6d6621e0fad8873dc6385e34",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -847,9 +847,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250709"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250716"
             },
-            "time": "2025-07-09T21:04:28+00:00"
+            "time": "2025-07-16T21:28:28+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -4167,17 +4167,17 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "7.0.6",
+            "version": "7.0.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "7.0.6"
+                "reference": "7.0.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.6.zip",
-                "reference": "7.0.6",
-                "shasum": "72a809e45a5f2cbc8919af3e9e854ae95f324200"
+                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.7.zip",
+                "reference": "7.0.7",
+                "shasum": "aa10493dfa34f4f8ce51313d47c66b21b9596f3e"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -4189,8 +4189,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.0.6",
-                    "datestamp": "1751987441",
+                    "version": "7.0.7",
+                    "datestamp": "1752264962",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4659,7 +4659,7 @@
             "extra": {
                 "drupal": {
                     "version": "2.1.1",
-                    "datestamp": "1748539484",
+                    "datestamp": "1752433708",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4699,25 +4699,26 @@
         },
         {
             "name": "drupal/migrate_plus",
-            "version": "6.0.5",
+            "version": "6.0.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/migrate_plus.git",
-                "reference": "6.0.5"
+                "reference": "6.0.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/migrate_plus-6.0.5.zip",
-                "reference": "6.0.5",
-                "shasum": "441e91086feaca7a6f1acf1735023fff0dfc5e1e"
+                "url": "https://ftp.drupal.org/files/projects/migrate_plus-6.0.7.zip",
+                "reference": "6.0.7",
+                "shasum": "01e6ebf82a51b2c607afa8dd027d14084ceaf874"
             },
             "require": {
-                "drupal/core": ">=9.1",
-                "php": ">=7.4"
+                "drupal/core": "^10.3 || ^11",
+                "php": ">=8.2"
             },
             "require-dev": {
                 "drupal/migrate_example_advanced_setup": "*",
-                "drupal/migrate_example_setup": "*"
+                "drupal/migrate_example_setup": "*",
+                "sainsburys/guzzle-oauth2-plugin": "^3"
             },
             "suggest": {
                 "ext-soap": "*",
@@ -4726,8 +4727,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.0.5",
-                    "datestamp": "1732124623",
+                    "version": "6.0.7",
+                    "datestamp": "1752325678",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4764,17 +4765,17 @@
         },
         {
             "name": "drupal/migrate_tools",
-            "version": "6.1.0",
+            "version": "6.1.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/migrate_tools.git",
-                "reference": "6.1.0"
+                "reference": "6.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/migrate_tools-6.1.0.zip",
-                "reference": "6.1.0",
-                "shasum": "252af91da4650424d62df2e2f58f182da02c5a68"
+                "url": "https://ftp.drupal.org/files/projects/migrate_tools-6.1.1.zip",
+                "reference": "6.1.1",
+                "shasum": "c9b19bd599d5610a95c7d96c6213da128e299161"
             },
             "require": {
                 "drupal/core": ">=9.1",
@@ -4792,8 +4793,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.1.0",
-                    "datestamp": "1751918505",
+                    "version": "6.1.1",
+                    "datestamp": "1752270527",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4835,17 +4836,17 @@
         },
         {
             "name": "drupal/pantheon_advanced_page_cache",
-            "version": "2.3.2",
+            "version": "2.3.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/pantheon_advanced_page_cache.git",
-                "reference": "2.3.2"
+                "reference": "2.3.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/pantheon_advanced_page_cache-2.3.2.zip",
-                "reference": "2.3.2",
-                "shasum": "dfc46bf24b77787192c6caa7154e5ae021cf16a9"
+                "url": "https://ftp.drupal.org/files/projects/pantheon_advanced_page_cache-2.3.3.zip",
+                "reference": "2.3.3",
+                "shasum": "804cae4172d40fb3bdf61cb178aa5c8b684e7ed2"
             },
             "require": {
                 "drupal/core": "^9.4 || ^10 || ^11",
@@ -4867,8 +4868,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.3.2",
-                    "datestamp": "1740801035",
+                    "version": "2.3.3",
+                    "datestamp": "1752255051",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8151,7 +8152,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "0bb7ddb7253a8242b0a7de3b920b14c04d7b13f4"
+                "reference": "9424854b08e24da0dfbf5ec96b6599ee5a108f31"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -8159,7 +8160,7 @@
                 "chi-teck/drupal-code-generator": "3.6.1",
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.3",
-                "consolidation/annotated-command": "4.10.1",
+                "consolidation/annotated-command": "4.10.2",
                 "consolidation/config": "3.1.1",
                 "consolidation/filter-via-dot-access-data": "2.0.2",
                 "consolidation/log": "3.1.0",
@@ -8167,7 +8168,7 @@
                 "consolidation/robo": "5.1.0",
                 "consolidation/site-alias": "4.1.1",
                 "consolidation/site-process": "5.4.2",
-                "cu-boulder/boulder_base": "20250709",
+                "cu-boulder/boulder_base": "20250716",
                 "cu-boulder/boulder_profile": "20250521",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
@@ -8229,7 +8230,7 @@
                 "drupal/klaro": "3.0.7",
                 "drupal/klaro_js": "3.0.1",
                 "drupal/layout_builder_iframe_modal": "1.3.6",
-                "drupal/linkit": "7.0.6",
+                "drupal/linkit": "7.0.7",
                 "drupal/media_alias_display": "2.1.1",
                 "drupal/media_entity_file_replace": "1.3.0",
                 "drupal/media_file_delete": "1.3.1",
@@ -8238,9 +8239,9 @@
                 "drupal/menu_firstchild": "2.2.0",
                 "drupal/menu_item_extras": "3.1.0",
                 "drupal/metatag": "2.1.1",
-                "drupal/migrate_plus": "6.0.5",
-                "drupal/migrate_tools": "6.1.0",
-                "drupal/pantheon_advanced_page_cache": "2.3.2",
+                "drupal/migrate_plus": "6.0.7",
+                "drupal/migrate_tools": "6.1.1",
+                "drupal/pantheon_advanced_page_cache": "2.3.3",
                 "drupal/paragraphs": "1.19.0",
                 "drupal/pathauto": "1.13.0",
                 "drupal/rebuild_cache_access": "1.12.0",
