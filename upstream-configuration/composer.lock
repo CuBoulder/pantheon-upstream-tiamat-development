@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b376dc2a3d5d28c95241380b1ab58f0f",
+    "content-hash": "89f177cd8c27189925159cca3602e980",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -827,16 +827,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20250716",
+            "version": "20250723",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "6cc9bc16789ef1fa6d6621e0fad8873dc6385e34"
+                "reference": "3c606e7a27ae4fe90e3646bb91b61a012a5051a6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6cc9bc16789ef1fa6d6621e0fad8873dc6385e34",
-                "reference": "6cc9bc16789ef1fa6d6621e0fad8873dc6385e34",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/3c606e7a27ae4fe90e3646bb91b61a012a5051a6",
+                "reference": "3c606e7a27ae4fe90e3646bb91b61a012a5051a6",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -847,9 +847,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250716"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250723"
             },
-            "time": "2025-07-16T21:28:28+00:00"
+            "time": "2025-07-23T20:36:10+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "96ecf78a78d25dbeb38040d4ea7bdd1c3ba14397"
+                "reference": "2fc152cbd7a6addf8a3f10fe7c1009f8a6a8e52e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/96ecf78a78d25dbeb38040d4ea7bdd1c3ba14397",
-                "reference": "96ecf78a78d25dbeb38040d4ea7bdd1c3ba14397",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/2fc152cbd7a6addf8a3f10fe7c1009f8a6a8e52e",
+                "reference": "2fc152cbd7a6addf8a3f10fe7c1009f8a6a8e52e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2025-07-08T19:06:52+00:00"
+            "time": "2025-07-22T19:23:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -2374,17 +2374,17 @@
         },
         {
             "name": "drupal/captcha",
-            "version": "2.0.7",
+            "version": "2.0.8",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/captcha.git",
-                "reference": "2.0.7"
+                "reference": "2.0.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.7.zip",
-                "reference": "2.0.7",
-                "shasum": "8e97ba41810811bcd5d7e8b714cdc0b664dd8eec"
+                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.8.zip",
+                "reference": "2.0.8",
+                "shasum": "7000566e8ee60d2aa4d0b038ba8d59ccf9663891"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2392,8 +2392,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.7",
-                    "datestamp": "1732250192",
+                    "version": "2.0.8",
+                    "datestamp": "1753284367",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2608,17 +2608,17 @@
         },
         {
             "name": "drupal/consumers",
-            "version": "1.19.0",
+            "version": "1.20.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/consumers.git",
-                "reference": "8.x-1.19"
+                "reference": "8.x-1.20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/consumers-8.x-1.19.zip",
-                "reference": "8.x-1.19",
-                "shasum": "3af0f9866524c40e78924343c319720e1d17c2ef"
+                "url": "https://ftp.drupal.org/files/projects/consumers-8.x-1.20.zip",
+                "reference": "8.x-1.20",
+                "shasum": "c734a37b5a299a55a8856904b8e3d66f212fb8d8"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2626,8 +2626,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.19",
-                    "datestamp": "1721753030",
+                    "version": "8.x-1.20",
+                    "datestamp": "1752783033",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3180,7 +3180,7 @@
             "extra": {
                 "drupal": {
                     "version": "5.4.0",
-                    "datestamp": "1751916158",
+                    "datestamp": "1752755621",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4190,7 +4190,7 @@
             "extra": {
                 "drupal": {
                     "version": "7.0.7",
-                    "datestamp": "1752264962",
+                    "datestamp": "1753116879",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -9677,16 +9677,16 @@
         },
         {
             "name": "simplesamlphp/simplesamlphp-assets-base",
-            "version": "v2.3.9",
+            "version": "v2.3.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp-assets-base.git",
-                "reference": "75bd31897ed3634d97de2815b5fa668625f8134d"
+                "reference": "39ac268fb1c49333a188df6094b69e28e35150f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/75bd31897ed3634d97de2815b5fa668625f8134d",
-                "reference": "75bd31897ed3634d97de2815b5fa668625f8134d",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/39ac268fb1c49333a188df6094b69e28e35150f6",
+                "reference": "39ac268fb1c49333a188df6094b69e28e35150f6",
                 "shasum": ""
             },
             "require": {
@@ -9707,9 +9707,9 @@
             "description": "Assets for the SimpleSAMLphp main repository",
             "support": {
                 "issues": "https://github.com/simplesamlphp/simplesamlphp-assets-base/issues",
-                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.9"
+                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.10"
             },
-            "time": "2025-03-02T17:54:55+00:00"
+            "time": "2025-07-20T01:44:13+00:00"
         },
         {
             "name": "simplesamlphp/xml-common",
