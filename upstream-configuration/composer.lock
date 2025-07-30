@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "89f177cd8c27189925159cca3602e980",
+    "content-hash": "742a83962fa523ffe1470e0b5ebd4adf",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -827,16 +827,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20250723",
+            "version": "20250730",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "3c606e7a27ae4fe90e3646bb91b61a012a5051a6"
+                "reference": "6ffb4b3631ed65f0aa7b931d599face98f99e42a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/3c606e7a27ae4fe90e3646bb91b61a012a5051a6",
-                "reference": "3c606e7a27ae4fe90e3646bb91b61a012a5051a6",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6ffb4b3631ed65f0aa7b931d599face98f99e42a",
+                "reference": "6ffb4b3631ed65f0aa7b931d599face98f99e42a",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -847,22 +847,22 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250723"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20250730"
             },
-            "time": "2025-07-23T20:36:10+00:00"
+            "time": "2025-07-30T20:55:18+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20250521",
+            "version": "20250730",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "a4a0dd48505578a458b007fbcea1ace263fbaf29"
+                "reference": "44a2e9f12c09e56edda647001e0c8da6b9827cb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/a4a0dd48505578a458b007fbcea1ace263fbaf29",
-                "reference": "a4a0dd48505578a458b007fbcea1ace263fbaf29",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/44a2e9f12c09e56edda647001e0c8da6b9827cb5",
+                "reference": "44a2e9f12c09e56edda647001e0c8da6b9827cb5",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -873,9 +873,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250521"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250730"
             },
-            "time": "2025-05-21T20:40:43+00:00"
+            "time": "2025-07-30T20:49:33+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -1051,12 +1051,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "ccbbe7f66682ba3d4b585ca51fe51c25106bfc50"
+                "reference": "b5c0070309eda6ab1d2fe25f8dd337ca5b4b3bba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/ccbbe7f66682ba3d4b585ca51fe51c25106bfc50",
-                "reference": "ccbbe7f66682ba3d4b585ca51fe51c25106bfc50",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/b5c0070309eda6ab1d2fe25f8dd337ca5b4b3bba",
+                "reference": "b5c0070309eda6ab1d2fe25f8dd337ca5b4b3bba",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1070,7 +1070,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2025-05-01T20:43:33+00:00"
+            "time": "2025-07-25T20:07:36+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -1181,16 +1181,16 @@
         },
         {
             "name": "cu-boulder/ucb_drush_commands",
-            "version": "v1.0.0",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "aac6edf550acb5471ad2517abb8fa45d0b276991"
+                "reference": "44477119906d422f3d2288a17cb7c70566dbf53e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/aac6edf550acb5471ad2517abb8fa45d0b276991",
-                "reference": "aac6edf550acb5471ad2517abb8fa45d0b276991",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/44477119906d422f3d2288a17cb7c70566dbf53e",
+                "reference": "44477119906d422f3d2288a17cb7c70566dbf53e",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -1201,9 +1201,9 @@
             "description": "Repository of drush commands to extend drush functionality for CU Boulder.",
             "support": {
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
-                "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/v1.0.0"
+                "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/v1.1.0"
             },
-            "time": "2025-02-17T22:16:47+00:00"
+            "time": "2025-07-29T21:23:35+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
@@ -2024,29 +2024,26 @@
         },
         {
             "name": "drupal/admin_toolbar",
-            "version": "3.6.1",
+            "version": "3.6.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/admin_toolbar.git",
-                "reference": "3.6.1"
+                "reference": "3.6.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/admin_toolbar-3.6.1.zip",
-                "reference": "3.6.1",
-                "shasum": "40e8874bdf100de90e0eec6984be14f0ec7765b0"
+                "url": "https://ftp.drupal.org/files/projects/admin_toolbar-3.6.2.zip",
+                "reference": "3.6.2",
+                "shasum": "0d25e3b7bcea28533ae5f2371a34d507603bfb66"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
             },
-            "require-dev": {
-                "drupal/admin_toolbar_tools": "*"
-            },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.6.1",
-                    "datestamp": "1749079734",
+                    "version": "3.6.2",
+                    "datestamp": "1753826106",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2374,17 +2371,17 @@
         },
         {
             "name": "drupal/captcha",
-            "version": "2.0.8",
+            "version": "2.0.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/captcha.git",
-                "reference": "2.0.8"
+                "reference": "2.0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.8.zip",
-                "reference": "2.0.8",
-                "shasum": "7000566e8ee60d2aa4d0b038ba8d59ccf9663891"
+                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.9.zip",
+                "reference": "2.0.9",
+                "shasum": "15b2ba18fab75ea88bfa8f75fb1be09f7cd52cbb"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2392,8 +2389,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.8",
-                    "datestamp": "1753284367",
+                    "version": "2.0.9",
+                    "datestamp": "1753701287",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4699,17 +4696,17 @@
         },
         {
             "name": "drupal/migrate_plus",
-            "version": "6.0.7",
+            "version": "6.0.8",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/migrate_plus.git",
-                "reference": "6.0.7"
+                "reference": "6.0.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/migrate_plus-6.0.7.zip",
-                "reference": "6.0.7",
-                "shasum": "01e6ebf82a51b2c607afa8dd027d14084ceaf874"
+                "url": "https://ftp.drupal.org/files/projects/migrate_plus-6.0.8.zip",
+                "reference": "6.0.8",
+                "shasum": "9533dd767cc620b89a3ef89226354f2e1173f688"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -4727,8 +4724,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.0.7",
-                    "datestamp": "1752325678",
+                    "version": "6.0.8",
+                    "datestamp": "1753714029",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4765,21 +4762,21 @@
         },
         {
             "name": "drupal/migrate_tools",
-            "version": "6.1.1",
+            "version": "6.1.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/migrate_tools.git",
-                "reference": "6.1.1"
+                "reference": "6.1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/migrate_tools-6.1.1.zip",
-                "reference": "6.1.1",
-                "shasum": "c9b19bd599d5610a95c7d96c6213da128e299161"
+                "url": "https://ftp.drupal.org/files/projects/migrate_tools-6.1.2.zip",
+                "reference": "6.1.2",
+                "shasum": "839f561a6d81ea1b5e0b74990f69401e1fb7a379"
             },
             "require": {
                 "drupal/core": ">=9.1",
-                "php": ">=7.4"
+                "php": ">=8.1"
             },
             "require-dev": {
                 "drupal/migrate_plus": ">=5",
@@ -4793,8 +4790,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.1.1",
-                    "datestamp": "1752270527",
+                    "version": "6.1.2",
+                    "datestamp": "1753365392",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5133,7 +5130,7 @@
             ],
             "authors": [
                 {
-                    "name": "leymannx",
+                    "name": "norman.lol",
                     "homepage": "https://www.drupal.org/user/2482808"
                 }
             ],
@@ -6083,16 +6080,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "13.6.0",
+            "version": "13.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "570a05dce7aea9770f17306808804290764127ad"
+                "reference": "fde8e2593fe78824acf7305c8faf8ff6c3ac352c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/570a05dce7aea9770f17306808804290764127ad",
-                "reference": "570a05dce7aea9770f17306808804290764127ad",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/fde8e2593fe78824acf7305c8faf8ff6c3ac352c",
+                "reference": "fde8e2593fe78824acf7305c8faf8ff6c3ac352c",
                 "shasum": ""
             },
             "require": {
@@ -6132,7 +6129,7 @@
                 "drupal/semver_example": "2.3.0",
                 "jetbrains/phpstorm-attributes": "^1.0",
                 "mglaman/phpstan-drupal": "^1.2",
-                "phpunit/phpunit": "^9 || ^10",
+                "phpunit/phpunit": "^9 || ^10 || ^11",
                 "rector/rector": "^1",
                 "squizlabs/php_codesniffer": "^3.7"
             },
@@ -6219,7 +6216,7 @@
                 "issues": "https://github.com/drush-ops/drush/issues",
                 "security": "https://github.com/drush-ops/drush/security/advisories",
                 "slack": "https://drupal.slack.com/messages/C62H9CWQM",
-                "source": "https://github.com/drush-ops/drush/tree/13.6.0"
+                "source": "https://github.com/drush-ops/drush/tree/13.6.1"
             },
             "funding": [
                 {
@@ -6227,7 +6224,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-04-22T12:14:13+00:00"
+            "time": "2025-07-24T10:42:08+00:00"
         },
         {
             "name": "e0ipso/shaper",
@@ -7658,16 +7655,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.5.0",
+            "version": "v5.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "ae59794362fe85e051a58ad36b289443f57be7a9"
+                "reference": "221b0d0fdf1369c71047ad1d18bb5880017bbc56"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/ae59794362fe85e051a58ad36b289443f57be7a9",
-                "reference": "ae59794362fe85e051a58ad36b289443f57be7a9",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/221b0d0fdf1369c71047ad1d18bb5880017bbc56",
+                "reference": "221b0d0fdf1369c71047ad1d18bb5880017bbc56",
                 "shasum": ""
             },
             "require": {
@@ -7710,9 +7707,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.5.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.6.0"
             },
-            "time": "2025-05-31T08:24:38+00:00"
+            "time": "2025-07-27T20:03:57+00:00"
         },
         {
             "name": "npm-asset/codemirror",
