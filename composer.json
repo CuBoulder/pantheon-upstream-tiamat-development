@@ -22,6 +22,7 @@
         "cweagans/composer-patches": "^1.7",
         "drush/drush": "^13",
         "oomphinc/composer-installers-extender": "^2.0",
+        "pantheon-systems/upstream-management": "^1.0",
         "pantheon-upstreams/upstream-configuration": "dev-master"
     },
     "conflict": {
