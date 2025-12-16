@@ -27,7 +27,7 @@
         "npm-asset/tippy.js": "6.3.7",
         "npm-asset/northernco--ckeditor5-anchor-drupal": "0.5.0",
         "composer/installers": "^2.1",
-        "cu-boulder/boulder_base": "20251210",
+        "cu-boulder/boulder_base": "20251216",
         "cu-boulder/boulder_profile": "20251022",
         "cu-boulder/express_admin": "dev-main",
         "cu-boulder/ucb_admin_menus": "dev-main",
